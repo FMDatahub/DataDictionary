@@ -1,7 +1,7 @@
 # Produkt
 
-- [RumligtElement](Spatial)
-- [Element](Elements)
+- [RumligtElement](SpatialElement)
+- [Element](Element)
 
 ## Beskrivelse
 
