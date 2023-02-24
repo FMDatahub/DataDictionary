@@ -1,4 +1,4 @@
 # Begreber / klasser
 
-- [Rumlige objekter](Spatial)
+- [Rumlige](Spatial)
 - [Elementer](Elements)
