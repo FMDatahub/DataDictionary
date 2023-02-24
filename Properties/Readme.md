@@ -1,1 +1,17 @@
-### Test readme
+### Egenskaber
+
+- [Administrativt](Administratively)
+- [Aftale](Appointment)
+- [Funktion](Function)
+- [Ydeevne](Performance)
+- [Materiale og produkt](Material%20and%20product)
+- [Form](Form)
+- [Placering](Placement)
+- [Økonomi](Economy)
+- [Tid](Time)
+- [Oplevelse](Experience)
+- [Sundhed og sikkerhed](Health%20and%20safety)
+- [Relation](Relation)
+- [Produktion](Production)
+- [Kvalitet](Quality)
+- [Vedligeholdelse](Maintenance)
