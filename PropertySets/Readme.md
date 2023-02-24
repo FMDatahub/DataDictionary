@@ -1,1 +1,5 @@
-### Test readme
+### Egenskabssæt
+
+Samling af egenskaber i sæt
+
+- Indeholder også quantitysets
