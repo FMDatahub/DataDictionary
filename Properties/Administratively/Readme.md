@@ -5,7 +5,6 @@
 - [ParentContext](ParentContext.md)
 - [ParentProject](ParentProject.md)
 - [Version](Version.md)
-
 - [Name](Name.md)
 - [Type](Type.md)
 - [Description](Description.md)
@@ -16,8 +15,8 @@
 - [CompositionType](CompositionType.md)
 - [ContainsElements](ContainsElements.md)
 - [Decomposes](Decomposes.md)
-
 - [ChangeAction](ChangeAction.md)
+- [CreationDate](CreationDate.md)
 - [LastModifiedDate](LastModifiedDate.md)
 - [LastModifyingApplication](LastModifyingApplication.md)
 - [LastModifyingUser](LastModifyingUser.md)
@@ -25,8 +24,6 @@
 - [OwningUser](OwningUser.md)
 - [State](State.md)
 - [IsActive](IsActive.md)
-- [CreationDate](CreationDate.md)
-
 - [Lat](Lat.md)
 - [Lng](Lng.md)
 - [Polygon](Polygon.md)
