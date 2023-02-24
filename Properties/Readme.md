@@ -1,4 +1,4 @@
-### Egenskaber
+# Egenskaber
 
 - [Administrativt](Administratively)
 - [Aftale](Appointment)
