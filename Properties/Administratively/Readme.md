@@ -27,3 +27,5 @@
 - [Lat](Lat.md)
 - [Lng](Lng.md)
 - [Polygon](Polygon.md)
+
+[Rediger](https://github.com/FMDatahub/DataDictionary/tree/main/Properties/Administratively)
