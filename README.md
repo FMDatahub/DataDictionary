@@ -2,8 +2,16 @@
 
 Overblik over data som benyttes i datahubben
 
-### Træk på IFC og CCI
+[Classes](Classes)
+[Purposes](Purposes)
+[Documents](Documents)
 
-[label](Dokumenter)
+[Properties](Properties)
+[PropertySets](PropertySets)
+[QuantitySets](QuantitySets)
 
-[label](Egenskaber)
+[Values](Values)
+[ValueLists](ValueLists)
+[PredefinedTypes](PredefinedTypes)
+
+[Tasks](Tasks)
