@@ -5,7 +5,6 @@ Overblik over data som benyttes i datahubben
 - [Dokumenter](Documents)
 - [Egenskaber](Properties)
 - [Egenskabssæt](PropertySets)
-- [MængdeSæt](QuantitySets)
 - [Værdier](Values)
 - [Værdilister](Enumerations)
 - [Opgaver](Tasks)
