@@ -1,3 +1,3 @@
 ### Dokumenter
 
-- [Energimærkning](Energim%C3%A6rkning.md)
+- [Energimaerkning](Energim%C3%A6rkning.md)
