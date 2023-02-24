@@ -1,6 +1,6 @@
 Overblik over data som benyttes i datahubben
 
-- [Begreber](Classes)
+- [Begreber / klasser](Classes)
 - [Formål](Purposes)
 - [Dokumenter](Documents)
 - [Egenskaber](Properties)
