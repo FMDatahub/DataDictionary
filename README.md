@@ -7,6 +7,6 @@ Overblik over data som benyttes i datahubben
 - [Egenskabssæt](PropertySets)
 - [MængdeSæt](QuantitySets)
 - [Værdier](Values)
-- [Værdilister](ValueLists)
+- [Værdilister](Enumerations)
 - [PrædefineretTyper](PredefinedTypes)
 - [Opgaver](Tasks)
