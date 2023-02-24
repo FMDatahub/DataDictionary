@@ -1,4 +1,4 @@
-# Rumlige objekter
+# Rumligt element
 
 - [Grund](Site.md)
 - [Jordstykke](Jordstykke.md)

@@ -1,4 +1,9 @@
-# Begreber / klasser
+# Objekter
 
-- [Rumlige](Spatial)
-- [Elementer](Elements)
+- [Aktør](Actor)
+- [Kontekst](Context)
+- [Kontrol](Control)
+- [Gruppe](Group)
+- [Process](Process)
+- [Produkt](Product)
+- [Ressource](Resource)
