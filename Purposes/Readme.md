@@ -8,3 +8,12 @@ Bruges til at inddele egenskabssæt og lign i formål, så man får vist det inf
 
 - Tildel formål på egenskabssæt niveau?
 - Tildel formål på begrebs niveau?
+
+Formål kan være: Vis mig information jeg skal bruge hvis jeg vil vide alt bygningen
+Formål kan være: Vis mig information jeg skal bruge til drift af ventilationsanlæg
+Formål kan være: Vis mig information jeg skal bruge til at udfører min funktion som datasteward
+
+Hvert formål skal kunne genereres automatisk baseret på datahub data
+
+- Måske bør formål laves i datahubben, baseret på datadictionary.
+- Formål er meget dynamiske og kræver nok mere fleksibel understøttelse?
