@@ -4,7 +4,7 @@
 
 ### Dokumenter
 
-### Tabel egenskaber
+### Egenskaber
 
 - [Id](../../Properties/Administratively/Id.md)
 - [GlobalId](../../Properties/Administratively/GlobalId.md)
@@ -33,5 +33,9 @@
 - [Lat](../../Properties/Administratively/Lat.md)
 - [Lng](../../Properties/Administratively/Lng.md)
 - [Polygon](../../Properties/Administratively/Polygon.md)
+
+### Egenskabssæt
+
+### Mængdesæt
 
 [Rediger](https://github.com/FMDatahub/DataDictionary/blob/main/Classes/Spatial/Building.md)

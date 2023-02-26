@@ -1,5 +1,7 @@
 # Rumligt element
 
+## Det her er også ejendomsstrukturen
+
 - [Grund](Site.md)
 - [Jordstykke](Jordstykke.md)
 - [Bygning](Building.md)

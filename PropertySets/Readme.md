@@ -1,5 +1,5 @@
 ### Egenskabssæt
 
-Samling af egenskaber i sæt
+Alle de properties som ikke er en del af classens tabel i databasen
 
-- Indeholder også quantitysets
+Samling af egenskaber i sæt
