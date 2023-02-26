@@ -1,8 +1,6 @@
 # Værdilister
 
-Opdelt i kategorier?
-
-- CCS klassifikation er baseret på værdilister
+- [CCS](CCS)
 - IFC predefinedtypes er baseret på værdilister
 
 Værdier skal ligge et andet sted.
