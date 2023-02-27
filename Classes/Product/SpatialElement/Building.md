@@ -1,10 +1,10 @@
 # Bygning
 
-### Klassifikation
+## Klassifikation
 
-### Dokumenter
+## Dokumenter
 
-### Egenskaber
+## Egenskaber
 
 - [Id](../../Properties/Administratively/Id.md)
 - [GlobalId](../../Properties/Administratively/GlobalId.md)
@@ -34,8 +34,8 @@
 - [Lng](../../Properties/Administratively/Lng.md)
 - [Polygon](../../Properties/Administratively/Polygon.md)
 
-### Egenskabssæt
+## Egenskabssæt
 
-### Mængdesæt
+## Mængdesæt
 
 [Rediger](https://github.com/FMDatahub/DataDictionary/blob/main/Classes/Spatial/Building.md)
