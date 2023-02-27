@@ -2,7 +2,7 @@
 
 ## Beskrivelse
 
-- En bygning har et tag
+> En bygning har et tag
 
 ## Klassifikation
 - CCS
@@ -42,4 +42,5 @@
 - Base
 ## Mængdesæt
 - Base
-[Rediger](https://github.com/FMDatahub/DataDictionary/blob/main/Classes/Spatial/Building.md)
+
+> [Rediger](https://github.com/FMDatahub/DataDictionary/blob/main/Classes/Spatial/Building.md)
