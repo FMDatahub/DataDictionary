@@ -2,7 +2,7 @@
 
 ## Beskrivelse
 
-En bygning har et tag
+- En bygning har et tag
 
 ## Klassifikation
 - CCS
