@@ -2,6 +2,8 @@
 
 ## Beskrivelse
 
+En bygning har et tag
+
 ## Klassifikation
 
 ## Dokumenter
