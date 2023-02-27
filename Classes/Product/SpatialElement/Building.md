@@ -5,9 +5,9 @@
 En bygning har et tag
 
 ## Klassifikation
-
+- CCS
 ## Dokumenter
-
+- Energimærke
 ## Egenskaber
 
 - [Id](../../Properties/Administratively/Id.md)
@@ -39,7 +39,7 @@ En bygning har et tag
 - [Polygon](../../Properties/Administratively/Polygon.md)
 
 ## Egenskabssæt
-
+- Base
 ## Mængdesæt
-
+- Base
 [Rediger](https://github.com/FMDatahub/DataDictionary/blob/main/Classes/Spatial/Building.md)
