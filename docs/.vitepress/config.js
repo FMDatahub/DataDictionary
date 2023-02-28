@@ -6,10 +6,10 @@ export default {
   themeConfig: {
     sidebar: [
       {
-        text: 'Guide',
+        text: 'Oversigt',
         items: [
-          { text: 'Introduction', link: '/introduction' },
-          { text: 'Getting Started', link: '/getting-started' },
+          { text: 'Templates', link: '/Templates' },
+          { text: 'Egenskaber', link: '/Properties' },
         ]
       }
     ],
