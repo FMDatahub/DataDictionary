@@ -1,8 +1,8 @@
 # Building
 
-| Dansk   |
-| ------- |
-| Bygning |
+Dansk:
+
+> Bygning
 
 # Description
 
