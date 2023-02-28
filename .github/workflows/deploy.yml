@@ -24,6 +24,7 @@ jobs:
           cache-dependency-path: package-lock.json
       - run: npm install --frozen-lockfile
       - name: Build
+        run: npm install
         run: npm run docs:build
       - uses: actions/configure-pages@v2
       - uses: actions/upload-pages-artifact@v1
