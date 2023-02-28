@@ -3,7 +3,7 @@ export default {
   description: 'Just playing around.',
   srcDir: './',
   base: '/DataDictionary/',
-  cleanUrls: true,
+  //cleanUrls: true,
   ignoreDeadLinks: true,
   themeConfig: {
     sidebar: [
