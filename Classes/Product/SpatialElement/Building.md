@@ -18,7 +18,7 @@
 
 # Attributes
 
-<details markdown=2><summary markdown="span">Show attributes</summary>
+<details markdown=1><summary markdown="span">Show attributes</summary>
 
 | Name                                                                                      |
 | ----------------------------------------------------------------------------------------- |
@@ -54,7 +54,7 @@
 
 # Groups of properties
 
-<details markdown=3><summary markdown="span">Show groups</summary>
+<details markdown=1><summary markdown="span">Show groups</summary>
 
 | ENG                    | DK     | Type |
 | ---------------------- | ------ | ---- |
@@ -65,7 +65,8 @@
 
 # Documents
 
-<details markdown=4><summary markdown="span">Show documents</summary>
+<details markdown=1><summary markdown="span">Show documents</summary>
+
 | ENG     | DK          | Type |
 | ------- | ----------- | ---- |
 | Missing | Energimærke | Pdf  |
