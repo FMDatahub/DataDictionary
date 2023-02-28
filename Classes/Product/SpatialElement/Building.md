@@ -4,6 +4,8 @@
 
 # Description
 
+<details open><summary markdown="span">Show descriptions</summary>
+
 #### ENG
 
 > A building represents a structure that provides shelter for its occupants or contents and stands in one place. The building is also used to provide a basic element within the spatial structure hierarchy for the components of a building project (together with site, storey, and space). |
@@ -12,9 +14,11 @@
 
 > En bygning har et tag
 
+</details>
+
 # Attributes
 
-<details markdown=1><summary markdown="span">Show attributes</summary>
+<details><summary markdown="span">Show attributes</summary>
 
 | Name                                                                                      |
 | ----------------------------------------------------------------------------------------- |
@@ -50,16 +54,23 @@
 
 # Groups of properties
 
+<details><summary markdown="span">Show groups</summary>
+
 | ENG                    | DK     | Type |
 | ---------------------- | ------ | ---- |
 | BuildingCommon         | Udfyld | Pset |
 | BuildingBaseQuantities | Udfyld | Qtos |
 
+</details>
+
 # Documents
 
+<details><summary markdown="span">Show documents</summary>
 | ENG     | DK          | Type |
 | ------- | ----------- | ---- |
 | Missing | Energimærke | Pdf  |
+
+</details>
 
 # JSON from API
 
