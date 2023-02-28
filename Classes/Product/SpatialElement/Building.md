@@ -90,4 +90,4 @@
 
 ## Help us stay updated
 
-> [Edit](https://github.com/FMDatahub/DataDictionary/blob/main/Classes/Spatial/Building.md)
+> [Edit](https://github.com/FMDatahub/DataDictionary/blob/main/Classes/Product/SpatialElement/Building.md)
