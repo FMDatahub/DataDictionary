@@ -77,5 +77,3 @@
 ## Help us stay updated
 
 > [Edit](https://github.com/FMDatahub/DataDictionary/blob/main/Classes/Spatial/Building.md)
-
-> Oversættelser skal udfyldes, hvis der er behov for dem i UI
