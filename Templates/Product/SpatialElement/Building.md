@@ -7,7 +7,6 @@
 # Description
 
 <details open markdown=1><summary markdown="span">Show descriptions</summary>
-<br>
 
 #### ENG
 

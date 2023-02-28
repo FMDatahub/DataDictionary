@@ -1,7 +1,7 @@
 Overblik over data som benyttes i datahubben
 
 - [Formål](Purposes)
-- [Begreber / klasser](Classes)
+- [Templates](Templates)
 - [Attributer](Attributes)
 - [Egenskaber](Properties)
 - [Egenskabssæt](PropertySets)
