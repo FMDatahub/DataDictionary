@@ -6,8 +6,6 @@ Dansk:
 
 ## Description
 
-<details open markdown=1><summary markdown="span">Show descriptions</summary>
-
 #### ENG
 
 > A building represents a structure that provides shelter for its occupants or contents and stands in one place. The building is also used to provide a basic element within the spatial structure hierarchy for the components of a building project (together with site, storey, and space).
@@ -16,11 +14,7 @@ Dansk:
 
 > En bygning repræsenterer en struktur, der giver ly til sine beboere eller indhold og står ét sted. Bygningen bruges også til at give et grundlæggende element inden for det rumlige strukturhierarkiet for komponenterne i et byggeprojekt (sammen med grund, etage og rum).
 
-</details>
-
 ## Attributes
-
-<details markdown=1><summary markdown="span">Show attributes</summary>
 
 | IFC - Standard                                                            |
 | ------------------------------------------------------------------------- |
@@ -58,28 +52,18 @@ Dansk:
 | [Lng](../../Properties/Administratively/Lng.md)                     |
 | [Polygon](../../Properties/Administratively/Polygon.md)             |
 
-</details>
-
 ## Groups of properties
-
-<details open markdown=1><summary markdown="span">Show groups</summary>
 
 | ENG                                                                       | DK     | Type |
 | ------------------------------------------------------------------------- | ------ | ---- |
 | [BuildingCommon](../../../PropertySets/BuildingCommon.md)                 | Udfyld | Pset |
 | [BuildingBaseQuantities](../../../QuantitySets/BuildingBaseQuantities.md) | Udfyld | Qto  |
 
-</details>
-
 ## Documents
-
-<details markdown=1><summary markdown="span">Show documents</summary>
 
 | ENG     | DK          | Type |
 | ------- | ----------- | ---- |
 | Missing | Energimærke | Pdf  |
-
-</details>
 
 ## JSON from API
 
@@ -94,10 +78,10 @@ Dansk:
 }
 ```
 
-#### Namespace URI
+## Namespace URI
 
 > Link
 
-#### Help us stay updated
+## Help us stay updated
 
 > [Edit](https://github.com/FMDatahub/DataDictionary/blob/main/Classes/Product/SpatialElement/Building.md)
