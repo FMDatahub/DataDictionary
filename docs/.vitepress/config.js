@@ -10,10 +10,28 @@ export default {
       {
         text: 'Oversigt',
         items: [
-          { text: 'Templates', link: '/Templates' },
-          { text: 'Egenskaber', link: '/Properties' },
+          { text: 'Formål', link: '/Purposes/' },
+          { text: 'Templates', link: '/Templates/' },
+          { text: 'Attributer', link: '/Attributes/' },
+          { text: 'Egenskaber', link: '/Properties/' },
+          { text: 'Egenskabssæt', link: '/PropertySets/' },
+          { text: 'Mængder', link: '/Quantities/' },
+          { text: 'MængdeSæt', link: '/QuantitySets/' },
+          { text: 'Værdilister', link: '/Enumerations/' },
+          { text: 'Opgaver', link: '/Tasks/' },
+
+
         ]
       }
     ],
   }
 }
+
+
+
+
+
+
+
+
+

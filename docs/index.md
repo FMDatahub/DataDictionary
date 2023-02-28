@@ -1,10 +1,3 @@
-Overblik over data som benyttes i datahubben
+# DataDictionary
 
-- [Formål](/Purposes/)
-- [Templates](/Templates/)
-- [Attributer](/Attributes/)
-- [Egenskaber](/Properties/)
-- [Egenskabssæt](/PropertySets/)
-- [Værdilister](/Enumerations/)
-- [Dokumenter](/Documents/)
-- [Opgaver](/Tasks/)
+Har til formål at synligøre alt data der bruges i datahubben

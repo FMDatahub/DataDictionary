@@ -1,0 +1,3 @@
+# Indretnings element
+
+- [Møbel](/Furniture/)
