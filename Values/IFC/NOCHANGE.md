@@ -1,8 +1,8 @@
-# Number
+# NOCHANGE
 
 #### DK
 
-> Nummer
+> INGEN ÆNDRINGER
 
 # Description
 
@@ -10,7 +10,7 @@
 
 #### ENG
 
-> ?
+> Object has not been modified.
 
 #### DK
 
@@ -18,10 +18,6 @@
 
 </details>
 
-### Enum
-
-None
-
 ## Help us stay updated
 
-[Edit](https://github.com/FMDatahub/DataDictionary/tree/main/Quantities/Number.md)
+[Edit](https://github.com/FMDatahub/DataDictionary/tree/main/Enumerations/IFC/ChangeActionEnum.md)
