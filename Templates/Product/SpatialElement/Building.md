@@ -1,8 +1,8 @@
 # Building
 
-DK
-
-> Bygning
+| Dansk   |
+| ------- |
+| Bygning |
 
 # Description
 
@@ -14,7 +14,7 @@ DK
 
 #### DK
 
-> En bygning har et tag.
+> En bygning repræsenterer en struktur, der giver ly til sine beboere eller indhold og står ét sted. Bygningen bruges også til at give et grundlæggende element inden for det rumlige strukturhierarkiet for komponenterne i et byggeprojekt (sammen med grund, etage og rum).
 
 </details>
 
@@ -105,6 +105,6 @@ DK
 
 > Link
 
-## Help us stay updated
+### Help us stay updated
 
 > [Edit](https://github.com/FMDatahub/DataDictionary/blob/main/Classes/Product/SpatialElement/Building.md)
