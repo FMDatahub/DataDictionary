@@ -26,14 +26,14 @@ export default {
               {text: "Gruppe", link: "/Templates/Group/"},
               {text: "Proces", link: "/Templates/Process/"},
               {
-                text: "Produkt",
+                text: "Element",
                 collapsed: true,
                 link: "/Templates/Product/",
 
                 // SpatialElements
                 items: [
                   {
-                    text: "SpatialElement",
+                    text: "Struktur",
                     collapsed: true,
                     link: "/Templates/Product/",
                     items: [
@@ -71,56 +71,46 @@ export default {
                       },
                     ],
                   },
-
-                  // Elements
                   {
-                    text: "Element",
+                    text: "Bygget",
                     collapsed: true,
-                    link: "/Templates/Product/Element/",
+                    link: "/Templates/Product/Element/BuiltElement/",
                     items: [
                       {
-                        text: "BuiltElement",
-                        collapsed: true,
-                        link: "/Templates/Product/Element/BuiltElement/",
-                        items: [
-                          {
-                            text: "Søjle",
-                            link: "/Templates/Product/Element/BuiltElement/Column",
-                          },
-                          {
-                            text: "Dør",
-                            link: "/Templates/Product/Element/BuiltElement/Door",
-                          },
-                          {
-                            text: "Tag",
-                            link: "/Templates/Product/Element/BuiltElement/Roof",
-                          },
-                          {
-                            text: "Trappe",
-                            link: "/Templates/Product/Element/BuiltElement/Stair",
-                          },
-                          {
-                            text: "Væg",
-                            link: "/Templates/Product/Element/BuiltElement/Wall",
-                          },
-                          {
-                            text: "Vindue",
-                            link: "/Templates/Product/Element/BuiltElement/Window",
-                          },
-                        ],
+                        text: "Søjle",
+                        link: "/Templates/Product/Element/BuiltElement/Column",
                       },
-
-                      // FurnishingElement
                       {
-                        text: "FurnishingElement",
-                        collapsed: true,
-                        link: "/Templates/Product/Element/FurnishingElement/",
-                        items: [
-                          {
-                            text: "Møbler",
-                            link: "/Templates/Product/Element/FurnishingElement/Furniture",
-                          },
-                        ],
+                        text: "Dør",
+                        link: "/Templates/Product/Element/BuiltElement/Door",
+                      },
+                      {
+                        text: "Tag",
+                        link: "/Templates/Product/Element/BuiltElement/Roof",
+                      },
+                      {
+                        text: "Trappe",
+                        link: "/Templates/Product/Element/BuiltElement/Stair",
+                      },
+                      {
+                        text: "Væg",
+                        link: "/Templates/Product/Element/BuiltElement/Wall",
+                      },
+                      {
+                        text: "Vindue",
+                        link: "/Templates/Product/Element/BuiltElement/Window",
+                      },
+                    ],
+                  },
+                  {
+                    // FurnishingElement
+                    text: "Indretning",
+                    collapsed: true,
+                    link: "/Templates/Product/Element/FurnishingElement/",
+                    items: [
+                      {
+                        text: "Møbler",
+                        link: "/Templates/Product/Element/FurnishingElement/Furniture",
                       },
                     ],
                   },
