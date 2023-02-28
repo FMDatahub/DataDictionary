@@ -4,7 +4,7 @@
 
 - [Grund](Site.md)
 - [Jordstykke](Jordstykke.md)
-- [Bygning](Building.md)
+- [Bygning](/Templates/Product/SpatialElement/Building.md)
 - [Etage](BuildingStorey.md)
 - [Zone](Zones.md)
 - [Enhed](Enhed.md)

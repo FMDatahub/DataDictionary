@@ -4,10 +4,10 @@ En template beskriver det forventet indhold til et objekt
 
 > Lav et diagram der viser sammenhængende
 
-- [Aktør](/Actor/)
-- [Kontekst](/Context/)
-- [Kontrol](/Control/)
-- [Gruppe](/Group/)
-- [Process](/Process/)
-- [Produkt](/Product/)
-- [Ressource](/Resource/)
+- [Aktør](/Templates/Actor/)
+- [Kontekst](/Templates/Context/)
+- [Kontrol](/Templates/Control/)
+- [Gruppe](/Templates/Group/)
+- [Process](/Templates/Process/)
+- [Produkt](/Templates/Product/)
+- [Ressource](/Templates/Resource/)

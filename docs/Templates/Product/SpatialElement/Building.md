@@ -4,7 +4,7 @@ Dansk:
 
 > Bygning
 
-# Description
+## Description
 
 <details open markdown=1><summary markdown="span">Show descriptions</summary>
 
@@ -18,10 +18,9 @@ Dansk:
 
 </details>
 
-# Attributes
+## Attributes
 
 <details markdown=1><summary markdown="span">Show attributes</summary>
-<br>
 
 | IFC - Standard                                                            |
 | ------------------------------------------------------------------------- |
@@ -61,10 +60,9 @@ Dansk:
 
 </details>
 
-# Groups of properties
+## Groups of properties
 
 <details open markdown=1><summary markdown="span">Show groups</summary>
-<br>
 
 | ENG                                                                       | DK     | Type |
 | ------------------------------------------------------------------------- | ------ | ---- |
@@ -73,10 +71,9 @@ Dansk:
 
 </details>
 
-# Documents
+## Documents
 
 <details markdown=1><summary markdown="span">Show documents</summary>
-<br>
 
 | ENG     | DK          | Type |
 | ------- | ----------- | ---- |
@@ -84,7 +81,7 @@ Dansk:
 
 </details>
 
-# JSON from API
+## JSON from API
 
 ```json
 {
@@ -97,10 +94,10 @@ Dansk:
 }
 ```
 
-### Namespace URI
+#### Namespace URI
 
 > Link
 
-### Help us stay updated
+#### Help us stay updated
 
 > [Edit](https://github.com/FMDatahub/DataDictionary/blob/main/Classes/Product/SpatialElement/Building.md)
