@@ -3,6 +3,7 @@ export default {
   description: 'Just playing around.',
   srcDir: './',
   base: '/DataDictionary/',
+  ignoreDeadLinks: true,
   themeConfig: {
     sidebar: [
       {
