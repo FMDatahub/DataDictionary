@@ -2,7 +2,7 @@ export default {
   title: 'Dataordbog',
   description: 'Just playing around.',
   srcDir: './',
-  //base: '/repo/',
+  base: '/DataDictionary/',
   themeConfig: {
     sidebar: [
       {
