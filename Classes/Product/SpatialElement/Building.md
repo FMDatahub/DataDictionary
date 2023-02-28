@@ -14,8 +14,7 @@
 
 # Attributes
 
-<details closed>
-<summary>Show attributes</summary>
+<details markdown=1><summary markdown="span">Show attributes</summary>
 
 - [Id](../../Properties/Administratively/Id.md)
 - [GlobalId](../../Properties/Administratively/GlobalId.md)
