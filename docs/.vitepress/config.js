@@ -138,6 +138,7 @@ export default {
           // PropertySets
           {
             text: "Egenskabssæt",
+            collapsed: true,
             link: "/PropertySets/",
             items: [{text: "Egenskaber", link: "/Properties/"}],
           },
@@ -145,6 +146,7 @@ export default {
           // QuantitySets
           {
             text: "MængdeSæt",
+            collapsed: true,
             link: "/QuantitySets/",
             items: [{text: "Mængder", link: "/Quantities/"}],
           },
@@ -152,6 +154,7 @@ export default {
           // Enumerations
           {
             text: "Værdilister",
+            collapsed: true,
             link: "/Enumerations/",
             items: [{text: "Værdier", link: "/Values/"}],
           },

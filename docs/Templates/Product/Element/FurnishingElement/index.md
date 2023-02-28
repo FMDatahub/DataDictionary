@@ -1,3 +1,3 @@
 # Indretnings element
 
-- [Møbel](/Furniture/)
+- [Møbel](/Templates/Product/Element/FurnishingElement/Furniture)

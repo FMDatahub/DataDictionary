@@ -1,4 +1,4 @@
 # Elementer
 
-- [Bygget element](/BuiltElement/)
-- [Indretnings element](/FurnishingElement/)
+- [Bygget element](/Templates/Product/Element/BuiltElement/)
+- [Indretnings element](/Templates/Product/Element/FurnishingElement/)
