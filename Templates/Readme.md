@@ -1,4 +1,6 @@
-# Objekter
+# Templates
+
+Beskriver baselines
 
 - [Aktør](Actor)
 - [Kontekst](Context)

@@ -9,6 +9,8 @@
 - Brug BeatifulSoup til at hente værdier
 - Returner resultat som json
 
+> Kan helt sikkert optimeres, men giver forståelse for udtræk af MD filerne
+
 # Endpoints
 
 - getPurposes
