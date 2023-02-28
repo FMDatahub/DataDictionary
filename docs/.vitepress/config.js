@@ -43,7 +43,7 @@ export default {
                       },
                       {
                         text: "Jordstykke",
-                        link: "/Templates/Product/SpatialElement/Site",
+                        link: "/Templates/Product/SpatialElement/Jordstykke",
                       },
                       {
                         text: "Bygninger",
