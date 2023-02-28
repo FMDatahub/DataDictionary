@@ -18,10 +18,6 @@ Dansk:
 
 </details>
 
-# Domain:
-
-> IFC
-
 # Attributes
 
 <details markdown=1><summary markdown="span">Show attributes</summary>
