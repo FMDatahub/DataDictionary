@@ -18,6 +18,10 @@
 
 </details>
 
+### Data Type
+
+> str
+
 ### Enumeration
 
 [ChangeActionEnum](../../Properties/Administratively/GlobalId.md)

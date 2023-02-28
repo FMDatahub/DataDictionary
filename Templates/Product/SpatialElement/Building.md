@@ -66,10 +66,10 @@
 <details open markdown=1><summary markdown="span">Show groups</summary>
 <br>
 
-| ENG                                                       | DK     | Type |
-| --------------------------------------------------------- | ------ | ---- |
-| [BuildingCommon](../../../PropertySets/BuildingCommon.md) | Udfyld | Pset |
-| BuildingBaseQuantities                                    | Udfyld | Qtos |
+| ENG                                                                       | DK     | Type |
+| ------------------------------------------------------------------------- | ------ | ---- |
+| [BuildingCommon](../../../PropertySets/BuildingCommon.md)                 | Udfyld | Pset |
+| [BuildingBaseQuantities](../../../QuantitySets/BuildingBaseQuantities.md) | Udfyld | Qto  |
 
 </details>
 
