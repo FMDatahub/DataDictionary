@@ -1,6 +1,8 @@
 # Templates
 
-Beskriver baselines
+En template beskriver det forventet indhold til et objekt
+
+> Lav et diagram der viser sammenhængende
 
 - [Aktør](Actor)
 - [Kontekst](Context)

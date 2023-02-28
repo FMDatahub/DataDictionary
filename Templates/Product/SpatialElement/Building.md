@@ -7,6 +7,7 @@
 # Description
 
 <details open markdown=1><summary markdown="span">Show descriptions</summary>
+<br>
 
 #### ENG
 
@@ -21,13 +22,11 @@
 # Attributes
 
 <details markdown=1><summary markdown="span">Show attributes</summary>
+<br>
 
-| Name                                                                                      |
+| IFC - Standard                                                                            |
 | ----------------------------------------------------------------------------------------- |
-| [Id](../../Properties/Administratively/Id.md)                                             |
 | [GlobalId](../../Properties/Administratively/GlobalId.md)                                 |
-| [ParentContext](../../Properties/Administratively/ParentContext.md)                       |
-| [ParentProject](../../Properties/Administratively/ParentProject.md)                       |
 | [Version](../../Properties/Administratively/Version.md)                                   |
 | [Name](../../Properties/Administratively/Name.md)                                         |
 | [Type](../../Properties/Administratively/Type.md)                                         |
@@ -39,6 +38,9 @@
 | [CompositionType](../../Properties/Administratively/CompositionType.md)                   |
 | [ContainsElements](../../Properties/Administratively/ContainsElements.md)                 |
 | [Decomposes](../../Properties/Administratively/Decomposes.md)                             |
+| ----------------------------------------------------------------------------------------- |
+| IFC - OwnerHistory                                                                        |
+| ----------------------------------------------------------------------------------------- |
 | [ChangeAction](../../Properties/Administratively/ChangeAction.md)                         |
 | [CreationDate](../../Properties/Administratively/CreationDate.md)                         |
 | [LastModifiedDate](../../Properties/Administratively/LastModifiedDate.md)                 |
@@ -47,6 +49,12 @@
 | [OwningApplication](../../Properties/Administratively/OwningApplication.md)               |
 | [OwningUser](../../Properties/Administratively/OwningUser.md)                             |
 | [State](../../Properties/Administratively/State.md)                                       |
+| ----------------------------------------------------------------------------------------- |
+| KEID - Custom                                                                             |
+| ----------------------------------------------------------------------------------------- |
+| [Id](../../Properties/Administratively/Id.md)                                             |
+| [ParentContext](../../Properties/Administratively/ParentContext.md)                       |
+| [ParentProject](../../Properties/Administratively/ParentProject.md)                       |
 | [IsActive](../../Properties/Administratively/IsActive.md)                                 |
 | [Lat](../../Properties/Administratively/Lat.md)                                           |
 | [Lng](../../Properties/Administratively/Lng.md)                                           |
@@ -57,6 +65,7 @@
 # Groups of properties
 
 <details markdown=1><summary markdown="span">Show groups</summary>
+<br>
 
 | ENG                    | DK     | Type |
 | ---------------------- | ------ | ---- |
@@ -68,6 +77,7 @@
 # Documents
 
 <details markdown=1><summary markdown="span">Show documents</summary>
+<br>
 
 | ENG     | DK          | Type |
 | ------- | ----------- | ---- |
