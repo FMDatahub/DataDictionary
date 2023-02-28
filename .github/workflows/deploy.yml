@@ -21,10 +21,9 @@ jobs:
         with:
           node-version: 16
           cache: npm
-          cache-dependency-path: subdir/package-lock.json
-      - run: npm install --frozen-lockfile
+      - run: yarn install --frozen-lockfile
       - name: Build
-        run: npm docs:build
+        run: yarn docs:build
       - uses: actions/configure-pages@v2
       - uses: actions/upload-pages-artifact@v1
         with:
