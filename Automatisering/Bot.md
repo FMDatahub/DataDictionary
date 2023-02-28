@@ -5,6 +5,7 @@
 - Mindre manuelt arbejde, færre fejl.
 - Kvalitetssikring bot der tjekker for ventet formatering.
 - Marker hvilke afsnit er til botten. - Og dermed vil blive overskrevet.
+- O
 
 Eksempelvis på properties, skal man ku se hvilke propertysets der har brugt den.
 

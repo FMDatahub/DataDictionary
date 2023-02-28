@@ -1,6 +1,6 @@
 # Building
 
-#### DK
+DK
 
 > Bygning
 
@@ -17,6 +17,10 @@
 > En bygning har et tag.
 
 </details>
+
+# Domain:
+
+> IFC
 
 # Attributes
 
@@ -96,6 +100,10 @@
   "QuantitySets": []
 }
 ```
+
+### Namespace URI
+
+> Link
 
 ## Help us stay updated
 
