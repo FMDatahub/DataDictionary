@@ -1,6 +1,6 @@
 Overblik over data som benyttes i datahubben
 
-- [Formål](/docs/Purposes/Readme)
+- [Formål](/docs/Purposes/Overview)
 - [Templates](/docs/Templates/Readme)
 - [Attributer](/docs/Attributes/Readme)
 - [Egenskaber](/docs/Properties/Readme)
