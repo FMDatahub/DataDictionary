@@ -72,7 +72,7 @@ Dansk:
   "Name": "",
   "Description": [],
   "Documents": [],
-  "Properties": [],
+  "Attributes": [],
   "PropertySets": [],
   "QuantitySets": []
 }

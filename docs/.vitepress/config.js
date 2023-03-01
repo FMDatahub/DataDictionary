@@ -35,7 +35,7 @@ export default {
                   {
                     text: "Struktur",
                     collapsed: true,
-                    link: "/Templates/Product/",
+                    link: "/Templates/Product/SpatialElement/",
                     items: [
                       {
                         text: "Grund",
@@ -111,6 +111,96 @@ export default {
                       {
                         text: "Møbler",
                         link: "/Templates/Product/Element/FurnishingElement/Furniture",
+                      },
+                    ],
+                  },
+                  {
+                    // Distribution
+                    text: "Distribution",
+                    collapsed: true,
+                    link: "/Templates/Product/Element/Distribution/",
+                    items: [
+                      {
+                        text: "Control",
+                        collapsed: true,
+                        link: "/Templates/Product/Element/Distribution/Control/",
+                        items: [
+                          {
+                            text: "Actuator",
+                            link: "/Templates/Product/Element/Distribution/Control/Actuator",
+                          },
+                          {
+                            text: "Alarm",
+                            link: "/Templates/Product/Element/Distribution/Control/Alarm",
+                          },
+                          {
+                            text: "Controller",
+                            link: "/Templates/Product/Element/Distribution/Control/Controller",
+                          },
+                          {
+                            text: "FlowInstrument",
+                            link: "/Templates/Product/Element/Distribution/Control/FlowInstrument",
+                          },
+                          {
+                            text: "Sensor",
+                            link: "/Templates/Product/Element/Distribution/Control/Sensor",
+                          },
+                          {
+                            text: "UnitaryControl",
+                            link: "/Templates/Product/Element/Distribution/Control/UnitaryControl",
+                          },
+                        ],
+                      },
+                      {
+                        text: "Flow",
+                        collapsed: true,
+                        link: "/Templates/Product/Element/Distribution/Flow/",
+                        items: [
+                          {
+                            text: "DistributionChamber",
+                            link: "/Templates/Product/Element/Distribution/Flow/DistributionChamber",
+                          },
+                          {
+                            text: "EnergyConversionDevice",
+                            link: "/Templates/Product/Element/Distribution/Flow/EnergyConversionDevice",
+                          },
+                          {
+                            text: "FlowController",
+                            link: "/Templates/Product/Element/Distribution/Flow/FlowController",
+                          },
+                          {
+                            text: "FlowFitting",
+                            link: "/Templates/Product/Element/Distribution/Flow/FlowFitting",
+                          },
+                          {
+                            text: "FlowMovingDevice",
+                            link: "/Templates/Product/Element/Distribution/Flow/FlowMovingDevice",
+                          },
+                          {
+                            text: "FlowStorageDevice",
+                            link: "/Templates/Product/Element/Distribution/Control/FlowStorageDevice",
+                          },
+                          {
+                            text: "FlowTerminal",
+                            link: "/Templates/Product/Element/Distribution/Control/FlowTerminal",
+                          },
+                          {
+                            text: "FlowTreatmentDevice",
+                            link: "/Templates/Product/Element/Distribution/Control/FlowTreatmentDevice",
+                          },
+                        ],
+                      },
+                    ],
+                  },
+                  {
+                    // Træer og lign
+                    text: "Geografisk",
+                    collapsed: true,
+                    link: "/Templates/Product/Element/Geographic",
+                    items: [
+                      {
+                        text: "Træ",
+                        link: "/Templates/Product/Element/Geographic/Tree",
                       },
                     ],
                   },

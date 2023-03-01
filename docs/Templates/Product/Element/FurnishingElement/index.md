@@ -1,3 +1,3 @@
-# Indretnings element
+# Indretning
 
 - [Møbel](/Templates/Product/Element/FurnishingElement/Furniture)
