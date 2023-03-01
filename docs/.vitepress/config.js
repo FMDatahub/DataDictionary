@@ -9,7 +9,6 @@ export default {
     sidebar: [
       {
         text: "Oversigt",
-
         items: [
           // Formål
           {text: "Formål", link: "/Purposes/"},
@@ -158,35 +157,41 @@ export default {
                         items: [
                           {
                             text: "DistributionChamber",
-                            link: "/Templates/Product/Element/Distribution/Flow/DistributionChamber",
+                            link: "/Templates/Product/Element/Distribution/Flow/DistributionChamber/",
                           },
                           {
                             text: "EnergyConversionDevice",
-                            link: "/Templates/Product/Element/Distribution/Flow/EnergyConversionDevice",
+                            link: "/Templates/Product/Element/Distribution/Flow/EnergyConversionDevice/",
                           },
                           {
                             text: "FlowController",
-                            link: "/Templates/Product/Element/Distribution/Flow/FlowController",
+                            link: "/Templates/Product/Element/Distribution/Flow/FlowController/",
                           },
                           {
                             text: "FlowFitting",
-                            link: "/Templates/Product/Element/Distribution/Flow/FlowFitting",
+                            link: "/Templates/Product/Element/Distribution/Flow/FlowFitting/",
                           },
                           {
                             text: "FlowMovingDevice",
-                            link: "/Templates/Product/Element/Distribution/Flow/FlowMovingDevice",
+                            link: "/Templates/Product/Element/Distribution/Flow/FlowMovingDevice/",
                           },
                           {
                             text: "FlowStorageDevice",
-                            link: "/Templates/Product/Element/Distribution/Control/FlowStorageDevice",
+                            link: "/Templates/Product/Element/Distribution/Flow/FlowStorageDevice/",
                           },
                           {
                             text: "FlowTerminal",
-                            link: "/Templates/Product/Element/Distribution/Control/FlowTerminal",
+                            link: "/Templates/Product/Element/Distribution/Flow/FlowTerminal/",
                           },
                           {
                             text: "FlowTreatmentDevice",
-                            link: "/Templates/Product/Element/Distribution/Control/FlowTreatmentDevice",
+                            link: "/Templates/Product/Element/Distribution/Flow/FlowTreatmentDevice/",
+                            items: [
+                              {
+                                text: "DuctSilencer",
+                                link: "/Templates/Product/Element/Distribution/Flow/DuctSilencer",
+                              },
+                            ],
                           },
                         ],
                       },
@@ -196,7 +201,7 @@ export default {
                     // Træer og lign
                     text: "Geografisk",
                     collapsed: true,
-                    link: "/Templates/Product/Element/Geographic",
+                    link: "/Templates/Product/Element/Geographic/",
                     items: [
                       {
                         text: "Træ",
