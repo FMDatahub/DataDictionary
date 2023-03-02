@@ -8,7 +8,16 @@ export default {
   themeConfig: {
     sidebar: [
       // Formål
-      {text: "Formål", link: "/Purposes/"},
+      {
+        text: "Formål",
+        link: "/Purposes/",
+        items: [
+          {
+            text: "Afventer",
+            link: "/Templates/Product/Element/DistributionElement/Flow/AirTerminalBox",
+          },
+        ],
+      },
       // Templates
       {
         text: "Templates",
@@ -459,7 +468,16 @@ export default {
       },
 
       // Attributes
-      {text: "Attributer", link: "/Attributes/"},
+      {
+        text: "Attributer",
+        link: "/Attributes/",
+        items: [
+          {
+            text: "Afventer",
+            link: "/Templates/Product/Element/DistributionElement/Flow/AirTerminalBox",
+          },
+        ],
+      },
 
       // PropertySets
       {
@@ -486,7 +504,16 @@ export default {
       },
 
       // Tasks
-      {text: "Opgaver", link: "/Tasks/"},
+      {
+        text: "Opgaver",
+        link: "/Tasks/",
+        items: [
+          {
+            text: "Afventer",
+            link: "/Templates/Product/Element/DistributionElement/Flow/AirTerminalBox",
+          },
+        ],
+      },
     ],
   },
 };
