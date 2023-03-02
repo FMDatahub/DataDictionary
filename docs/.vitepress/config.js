@@ -526,7 +526,21 @@ export default {
       },
       {
         text: "API",
-        link: "/API/",
+        items: [
+          {
+            text: "Documentation",
+            link: "/API/",
+          },
+        ],
+      },
+      {
+        text: "Links",
+        items: [
+          {
+            text: "Portal",
+            link: "https://fmdatahub.github.io/Portal/",
+          },
+        ],
       },
     ],
   },
