@@ -10,6 +10,7 @@ export default {
       // Formål
       {
         text: "Formål",
+        collapsed: true,
         link: "/Purposes/",
         items: [
           {
@@ -470,6 +471,7 @@ export default {
       // Attributes
       {
         text: "Attributer",
+        collapsed: true,
         link: "/Attributes/",
         items: [
           {
