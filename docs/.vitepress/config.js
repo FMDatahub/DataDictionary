@@ -125,7 +125,7 @@ export default {
                   },
                   {
                     // DistributionElement control
-                    text: "DistributionElement: Control",
+                    text: "Distribution: Control",
                     collapsed: true,
                     link: "/Templates/Product/Element/DistributionElement/",
                     items: [
@@ -421,7 +421,7 @@ export default {
                   },
                   {
                     // DistributionElement flow
-                    text: "DistributionElement: Flow",
+                    text: "Distribution: Flow",
                     collapsed: true,
                     link: "/Templates/Product/Element/DistributionElement/",
                     items: [
