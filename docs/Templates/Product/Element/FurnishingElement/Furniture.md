@@ -1,1 +1,1 @@
-# Møbel
+# Inventar
