@@ -7,492 +7,486 @@ export default {
   ignoreDeadLinks: true,
   themeConfig: {
     sidebar: [
+      // Formål
+      {text: "Formål", link: "/Purposes/"},
+      // Templates
       {
-        text: "Oversigt",
+        text: "Templates",
+        collapsed: true,
+        link: "/Templates/",
         items: [
-          // Formål
-          {text: "Formål", link: "/Purposes/"},
-
-          // Templates
+          {text: "Aktør", link: "/Templates/Product/"},
+          {text: "Kontekst", link: "/Templates/Context/"},
+          {text: "Kontrol", link: "/Templates/Control/"},
+          {text: "Gruppe", link: "/Templates/Group/"},
+          {text: "Proces", link: "/Templates/Process/"},
           {
-            text: "Templates",
+            text: "Element",
             collapsed: true,
-            link: "/Templates/",
-            items: [
-              {text: "Aktør", link: "/Templates/Product/"},
-              {text: "Kontekst", link: "/Templates/Context/"},
-              {text: "Kontrol", link: "/Templates/Control/"},
-              {text: "Gruppe", link: "/Templates/Group/"},
-              {text: "Proces", link: "/Templates/Process/"},
-              {
-                text: "Element",
-                collapsed: true,
-                link: "/Templates/Product/",
+            link: "/Templates/Product/",
 
-                // SpatialElements
+            // SpatialElements
+            items: [
+              {
+                text: "Struktur",
+                collapsed: true,
+                link: "/Templates/Product/SpatialElement/",
                 items: [
                   {
-                    text: "Struktur",
-                    collapsed: true,
-                    link: "/Templates/Product/SpatialElement/",
+                    text: "Grund",
+                    link: "/Templates/Product/SpatialElement/Site",
+                  },
+                  {
+                    text: "Jordstykke",
+                    link: "/Templates/Product/SpatialElement/Jordstykke",
+                  },
+                  {
+                    text: "Bygninger",
+                    link: "/Templates/Product/SpatialElement/Building",
+                  },
+                  {
+                    text: "Etager",
+                    link: "/Templates/Product/SpatialElement/BuildingStorey",
+                  },
+                  {
+                    text: "Opgange",
+                    link: "/Templates/Product/SpatialElement/Opgang",
+                  },
+                  {
+                    text: "Enheder",
+                    link: "/Templates/Product/SpatialElement/Enhed",
+                  },
+                  {
+                    text: "Zoner",
+                    link: "/Templates/Product/SpatialElement/Zone",
+                  },
+                  {
+                    text: "Rum",
+                    link: "/Templates/Product/SpatialElement/Space",
+                  },
+                ],
+              },
+              {
+                text: "Bygget",
+                collapsed: true,
+                link: "/Templates/Product/Element/BuiltElement/",
+                items: [
+                  {
+                    text: "Søjle",
+                    link: "/Templates/Product/Element/BuiltElement/Column",
+                  },
+                  {
+                    text: "Dør",
+                    link: "/Templates/Product/Element/BuiltElement/Door",
+                  },
+                  {
+                    text: "Tag",
+                    link: "/Templates/Product/Element/BuiltElement/Roof",
+                  },
+                  {
+                    text: "Trappe",
+                    link: "/Templates/Product/Element/BuiltElement/Stair",
+                  },
+                  {
+                    text: "Væg",
+                    link: "/Templates/Product/Element/BuiltElement/Wall",
+                  },
+                  {
+                    text: "Vindue",
+                    link: "/Templates/Product/Element/BuiltElement/Window",
+                  },
+                ],
+              },
+              {
+                // FurnishingElement
+                text: "Indretning",
+                collapsed: true,
+                link: "/Templates/Product/Element/FurnishingElement/",
+                items: [
+                  {
+                    text: "Møbler",
+                    link: "/Templates/Product/Element/FurnishingElement/Furniture",
+                  },
+                ],
+              },
+              {
+                // DistributionElement control
+                text: "DistributionElement: Control",
+                collapsed: true,
+                link: "/Templates/Product/Element/DistributionElement/",
+                items: [
+                  {
+                    text: "DistributionElementChamber",
+                    link: "/Templates/Product/Element/DistributionElement/Flow/DistributionElementChamber/",
+                  },
+                  {
+                    text: "EnergyConversionDevice",
+                    link: "/Templates/Product/Element/DistributionElement/Flow/EnergyConversionDevice/",
                     items: [
                       {
-                        text: "Grund",
-                        link: "/Templates/Product/SpatialElement/Site",
+                        text: "AirToAirHeatRecovery",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/AirToAirHeatRecovery",
                       },
                       {
-                        text: "Jordstykke",
-                        link: "/Templates/Product/SpatialElement/Jordstykke",
+                        text: "Boiler",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/Boiler",
                       },
                       {
-                        text: "Bygninger",
-                        link: "/Templates/Product/SpatialElement/Building",
+                        text: "Burner",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/Burner",
                       },
                       {
-                        text: "Etager",
-                        link: "/Templates/Product/SpatialElement/BuildingStorey",
+                        text: "Chiller",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/Chiller",
                       },
                       {
-                        text: "Opgange",
-                        link: "/Templates/Product/SpatialElement/Opgang",
+                        text: "Coil",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/Coil",
                       },
                       {
-                        text: "Enheder",
-                        link: "/Templates/Product/SpatialElement/Enhed",
+                        text: "Condenser",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/Condenser",
                       },
                       {
-                        text: "Zoner",
-                        link: "/Templates/Product/SpatialElement/Zone",
+                        text: "CooledBeam",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/CooledBeam",
                       },
                       {
-                        text: "Rum",
-                        link: "/Templates/Product/SpatialElement/Space",
+                        text: "CoolingTower",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/CoolingTower",
+                      },
+                      {
+                        text: "ElectricGenerator",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/ElectricGenerator",
+                      },
+                      {
+                        text: "ElectricMotor",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/ElectricMotor",
+                      },
+                      {
+                        text: "Engine",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/Engine",
+                      },
+                      {
+                        text: "EvaporativeCooler",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/EvaporativeCooler",
+                      },
+                      {
+                        text: "Evaporator",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/Evaporator",
+                      },
+                      {
+                        text: "HeatExchanger",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/HeatExchanger",
+                      },
+                      {
+                        text: "Humidifier",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/Humidifier",
+                      },
+                      {
+                        text: "MotorConnection",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/MotorConnection",
+                      },
+                      {
+                        text: "SolarDevice",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/SolarDevice",
+                      },
+                      {
+                        text: "Transformer",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/Transformer",
+                      },
+                      {
+                        text: "TubeBundle",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/TubeBundle",
+                      },
+                      {
+                        text: "UnitaryEquipment",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/UnitaryEquipment",
                       },
                     ],
                   },
                   {
-                    text: "Bygget",
+                    text: "FlowController",
                     collapsed: true,
-                    link: "/Templates/Product/Element/BuiltElement/",
+                    link: "/Templates/Product/Element/DistributionElement/Flow/FlowController/",
                     items: [
                       {
-                        text: "Søjle",
-                        link: "/Templates/Product/Element/BuiltElement/Column",
+                        text: "AirTerminalBox",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/AirTerminalBox",
                       },
                       {
-                        text: "Dør",
-                        link: "/Templates/Product/Element/BuiltElement/Door",
+                        text: "Damper",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/Damper",
                       },
                       {
-                        text: "Tag",
-                        link: "/Templates/Product/Element/BuiltElement/Roof",
+                        text: "DistributionElementBoard",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/DistributionElementBoard",
                       },
                       {
-                        text: "Trappe",
-                        link: "/Templates/Product/Element/BuiltElement/Stair",
+                        text: "ElectricDistributionElementBoard",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/ElectricDistributionElementBoard",
                       },
                       {
-                        text: "Væg",
-                        link: "/Templates/Product/Element/BuiltElement/Wall",
+                        text: "ElectricTimeControl",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/ElectricTimeControl",
                       },
                       {
-                        text: "Vindue",
-                        link: "/Templates/Product/Element/BuiltElement/Window",
+                        text: "FlowMeter",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/FlowMeter",
+                      },
+                      {
+                        text: "ProtectiveDevice",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/ProtectiveDevice",
+                      },
+                      {
+                        text: "SwitchingDevice",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/SwitchingDevice",
+                      },
+                      {
+                        text: "Valve",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/Valve",
                       },
                     ],
                   },
                   {
-                    // FurnishingElement
-                    text: "Indretning",
+                    text: "FlowFitting",
                     collapsed: true,
-                    link: "/Templates/Product/Element/FurnishingElement/",
+                    link: "/Templates/Product/Element/DistributionElement/Flow/FlowFitting/",
                     items: [
                       {
-                        text: "Møbler",
-                        link: "/Templates/Product/Element/FurnishingElement/Furniture",
+                        text: "CableCarrierFitting",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/CableCarrierFitting",
+                      },
+                      {
+                        text: "CableFitting",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/CableFitting",
+                      },
+                      {
+                        text: "DuctFitting",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/DuctFitting",
+                      },
+                      {
+                        text: "JunctionBox",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/JunctionBox",
+                      },
+                      {
+                        text: "PipeFitting",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/PipeFitting",
                       },
                     ],
                   },
                   {
-                    // DistributionElement control
-                    text: "DistributionElement: Control",
+                    text: "FlowMovingDevice",
                     collapsed: true,
-                    link: "/Templates/Product/Element/DistributionElement/",
+                    link: "/Templates/Product/Element/DistributionElement/Flow/FlowMovingDevice/",
                     items: [
                       {
-                        text: "DistributionElementChamber",
-                        link: "/Templates/Product/Element/DistributionElement/Flow/DistributionElementChamber/",
+                        text: "Compressor",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/Compressor",
                       },
                       {
-                        text: "EnergyConversionDevice",
-                        link: "/Templates/Product/Element/DistributionElement/Flow/EnergyConversionDevice/",
-                        items: [
-                          {
-                            text: "AirToAirHeatRecovery",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/AirToAirHeatRecovery",
-                          },
-                          {
-                            text: "Boiler",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/Boiler",
-                          },
-                          {
-                            text: "Burner",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/Burner",
-                          },
-                          {
-                            text: "Chiller",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/Chiller",
-                          },
-                          {
-                            text: "Coil",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/Coil",
-                          },
-                          {
-                            text: "Condenser",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/Condenser",
-                          },
-                          {
-                            text: "CooledBeam",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/CooledBeam",
-                          },
-                          {
-                            text: "CoolingTower",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/CoolingTower",
-                          },
-                          {
-                            text: "ElectricGenerator",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/ElectricGenerator",
-                          },
-                          {
-                            text: "ElectricMotor",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/ElectricMotor",
-                          },
-                          {
-                            text: "Engine",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/Engine",
-                          },
-                          {
-                            text: "EvaporativeCooler",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/EvaporativeCooler",
-                          },
-                          {
-                            text: "Evaporator",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/Evaporator",
-                          },
-                          {
-                            text: "HeatExchanger",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/HeatExchanger",
-                          },
-                          {
-                            text: "Humidifier",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/Humidifier",
-                          },
-                          {
-                            text: "MotorConnection",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/MotorConnection",
-                          },
-                          {
-                            text: "SolarDevice",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/SolarDevice",
-                          },
-                          {
-                            text: "Transformer",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/Transformer",
-                          },
-                          {
-                            text: "TubeBundle",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/TubeBundle",
-                          },
-                          {
-                            text: "UnitaryEquipment",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/UnitaryEquipment",
-                          },
-                        ],
+                        text: "Fan",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/Fan",
                       },
                       {
-                        text: "FlowController",
-                        collapsed: true,
-                        link: "/Templates/Product/Element/DistributionElement/Flow/FlowController/",
-                        items: [
-                          {
-                            text: "AirTerminalBox",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/AirTerminalBox",
-                          },
-                          {
-                            text: "Damper",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/Damper",
-                          },
-                          {
-                            text: "DistributionElementBoard",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/DistributionElementBoard",
-                          },
-                          {
-                            text: "ElectricDistributionElementBoard",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/ElectricDistributionElementBoard",
-                          },
-                          {
-                            text: "ElectricTimeControl",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/ElectricTimeControl",
-                          },
-                          {
-                            text: "FlowMeter",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/FlowMeter",
-                          },
-                          {
-                            text: "ProtectiveDevice",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/ProtectiveDevice",
-                          },
-                          {
-                            text: "SwitchingDevice",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/SwitchingDevice",
-                          },
-                          {
-                            text: "Valve",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/Valve",
-                          },
-                        ],
-                      },
-                      {
-                        text: "FlowFitting",
-                        collapsed: true,
-                        link: "/Templates/Product/Element/DistributionElement/Flow/FlowFitting/",
-                        items: [
-                          {
-                            text: "CableCarrierFitting",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/CableCarrierFitting",
-                          },
-                          {
-                            text: "CableFitting",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/CableFitting",
-                          },
-                          {
-                            text: "DuctFitting",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/DuctFitting",
-                          },
-                          {
-                            text: "JunctionBox",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/JunctionBox",
-                          },
-                          {
-                            text: "PipeFitting",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/PipeFitting",
-                          },
-                        ],
-                      },
-                      {
-                        text: "FlowMovingDevice",
-                        collapsed: true,
-                        link: "/Templates/Product/Element/DistributionElement/Flow/FlowMovingDevice/",
-                        items: [
-                          {
-                            text: "Compressor",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/Compressor",
-                          },
-                          {
-                            text: "Fan",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/Fan",
-                          },
-                          {
-                            text: "Pump",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/Pump",
-                          },
-                        ],
-                      },
-                      {
-                        text: "FlowStorageDevice",
-                        collapsed: true,
-                        link: "/Templates/Product/Element/DistributionElement/Flow/FlowStorageDevice/",
-                        items: [
-                          {
-                            text: "ElectricFlowStorageDevice",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/ElectricFlowStorageDevice",
-                          },
-                          {
-                            text: "Tank",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/Tank",
-                          },
-                        ],
-                      },
-                      {
-                        text: "FlowTerminal",
-                        collapsed: true,
-                        link: "/Templates/Product/Element/DistributionElement/Flow/FlowTerminal/",
-                        items: [
-                          {
-                            text: "AirTerminal",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/AirTerminal",
-                          },
-                          {
-                            text: "AudioVisualAppliance",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/AudioVisualAppliance",
-                          },
-                          {
-                            text: "CommunicationsAppliance",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/CommunicationsAppliance",
-                          },
-                          {
-                            text: "ElectricAppliance",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/ElectricAppliance",
-                          },
-                          {
-                            text: "FireSuppressionTerminal",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/FireSuppressionTerminal",
-                          },
-                          {
-                            text: "Lamp",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/Lamp",
-                          },
-                          {
-                            text: "LightFixture",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/LightFixture",
-                          },
-                          {
-                            text: "LiquidTerminal",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/LiquidTerminal",
-                          },
-                          {
-                            text: "MedicalDevice",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/MedicalDevice",
-                          },
-                          {
-                            text: "MobileTelecommunicationsAppliance",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/MobileTelecommunicationsAppliance",
-                          },
-                          {
-                            text: "Outlet",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/Outlet",
-                          },
-                          {
-                            text: "SanitaryTerminal",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/SanitaryTerminal",
-                          },
-                          {
-                            text: "Signal",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/Signal",
-                          },
-                          {
-                            text: "SpaceHeater",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/SpaceHeater",
-                          },
-                          {
-                            text: "StackTerminal",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/StackTerminal",
-                          },
-                          {
-                            text: "WasteTerminal",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/WasteTerminal",
-                          },
-                        ],
-                      },
-                      {
-                        text: "FlowTreatmentDevice",
-                        collapsed: true,
-                        link: "/Templates/Product/Element/DistributionElement/Flow/FlowTreatmentDevice/",
-                        items: [
-                          {
-                            text: "DuctSilencer",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/DuctSilencer",
-                          },
-                          {
-                            text: "ElectricFlowTreatmentDevice",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/ElectricFlowTreatmentDevice",
-                          },
-                          {
-                            text: "Filter",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/Filter",
-                          },
-                          {
-                            text: "Interceptor",
-                            link: "/Templates/Product/Element/DistributionElement/Flow/Interceptor",
-                          },
-                        ],
+                        text: "Pump",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/Pump",
                       },
                     ],
                   },
                   {
-                    // DistributionElement flow
-                    text: "DistributionElement: Flow",
+                    text: "FlowStorageDevice",
                     collapsed: true,
-                    link: "/Templates/Product/Element/DistributionElement/",
+                    link: "/Templates/Product/Element/DistributionElement/Flow/FlowStorageDevice/",
                     items: [
                       {
-                        text: "Actuator",
-                        link: "/Templates/Product/Element/DistributionElement/Control/Actuator",
+                        text: "ElectricFlowStorageDevice",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/ElectricFlowStorageDevice",
                       },
                       {
-                        text: "Alarm",
-                        link: "/Templates/Product/Element/DistributionElement/Control/Alarm",
-                      },
-                      {
-                        text: "Controller",
-                        link: "/Templates/Product/Element/DistributionElement/Control/Controller",
-                      },
-                      {
-                        text: "FlowInstrument",
-                        link: "/Templates/Product/Element/DistributionElement/Control/FlowInstrument",
-                      },
-                      {
-                        text: "Sensor",
-                        link: "/Templates/Product/Element/DistributionElement/Control/Sensor",
-                      },
-                      {
-                        text: "UnitaryControl",
-                        link: "/Templates/Product/Element/DistributionElement/Control/UnitaryControl",
+                        text: "Tank",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/Tank",
                       },
                     ],
                   },
-
                   {
-                    // Træer og lign
-                    text: "Geografisk",
+                    text: "FlowTerminal",
                     collapsed: true,
-                    link: "/Templates/Product/Element/Geographic/",
+                    link: "/Templates/Product/Element/DistributionElement/Flow/FlowTerminal/",
                     items: [
                       {
-                        text: "Træ",
-                        link: "/Templates/Product/Element/Geographic/Tree",
+                        text: "AirTerminal",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/AirTerminal",
+                      },
+                      {
+                        text: "AudioVisualAppliance",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/AudioVisualAppliance",
+                      },
+                      {
+                        text: "CommunicationsAppliance",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/CommunicationsAppliance",
+                      },
+                      {
+                        text: "ElectricAppliance",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/ElectricAppliance",
+                      },
+                      {
+                        text: "FireSuppressionTerminal",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/FireSuppressionTerminal",
+                      },
+                      {
+                        text: "Lamp",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/Lamp",
+                      },
+                      {
+                        text: "LightFixture",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/LightFixture",
+                      },
+                      {
+                        text: "LiquidTerminal",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/LiquidTerminal",
+                      },
+                      {
+                        text: "MedicalDevice",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/MedicalDevice",
+                      },
+                      {
+                        text: "MobileTelecommunicationsAppliance",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/MobileTelecommunicationsAppliance",
+                      },
+                      {
+                        text: "Outlet",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/Outlet",
+                      },
+                      {
+                        text: "SanitaryTerminal",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/SanitaryTerminal",
+                      },
+                      {
+                        text: "Signal",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/Signal",
+                      },
+                      {
+                        text: "SpaceHeater",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/SpaceHeater",
+                      },
+                      {
+                        text: "StackTerminal",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/StackTerminal",
+                      },
+                      {
+                        text: "WasteTerminal",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/WasteTerminal",
+                      },
+                    ],
+                  },
+                  {
+                    text: "FlowTreatmentDevice",
+                    collapsed: true,
+                    link: "/Templates/Product/Element/DistributionElement/Flow/FlowTreatmentDevice/",
+                    items: [
+                      {
+                        text: "DuctSilencer",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/DuctSilencer",
+                      },
+                      {
+                        text: "ElectricFlowTreatmentDevice",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/ElectricFlowTreatmentDevice",
+                      },
+                      {
+                        text: "Filter",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/Filter",
+                      },
+                      {
+                        text: "Interceptor",
+                        link: "/Templates/Product/Element/DistributionElement/Flow/Interceptor",
                       },
                     ],
                   },
                 ],
               },
+              {
+                // DistributionElement flow
+                text: "DistributionElement: Flow",
+                collapsed: true,
+                link: "/Templates/Product/Element/DistributionElement/",
+                items: [
+                  {
+                    text: "Actuator",
+                    link: "/Templates/Product/Element/DistributionElement/Control/Actuator",
+                  },
+                  {
+                    text: "Alarm",
+                    link: "/Templates/Product/Element/DistributionElement/Control/Alarm",
+                  },
+                  {
+                    text: "Controller",
+                    link: "/Templates/Product/Element/DistributionElement/Control/Controller",
+                  },
+                  {
+                    text: "FlowInstrument",
+                    link: "/Templates/Product/Element/DistributionElement/Control/FlowInstrument",
+                  },
+                  {
+                    text: "Sensor",
+                    link: "/Templates/Product/Element/DistributionElement/Control/Sensor",
+                  },
+                  {
+                    text: "UnitaryControl",
+                    link: "/Templates/Product/Element/DistributionElement/Control/UnitaryControl",
+                  },
+                ],
+              },
 
-              // Ressources
-              {text: "Ressource", link: "/Templates/Resource/"},
+              {
+                // Træer og lign
+                text: "Geografisk",
+                collapsed: true,
+                link: "/Templates/Product/Element/Geographic/",
+                items: [
+                  {
+                    text: "Træ",
+                    link: "/Templates/Product/Element/Geographic/Tree",
+                  },
+                ],
+              },
             ],
           },
 
-          // Attributes
-          {text: "Attributer", link: "/Attributes/"},
-
-          // PropertySets
-          {
-            text: "Egenskabssæt",
-            collapsed: true,
-            link: "/PropertySets/",
-            items: [{text: "Egenskaber", link: "/Properties/"}],
-          },
-
-          // QuantitySets
-          {
-            text: "MængdeSæt",
-            collapsed: true,
-            link: "/QuantitySets/",
-            items: [{text: "Mængder", link: "/Quantities/"}],
-          },
-
-          // Enumerations
-          {
-            text: "Værdilister",
-            collapsed: true,
-            link: "/Enumerations/",
-            items: [{text: "Værdier", link: "/Values/"}],
-          },
-
-          // Tasks
-          {text: "Opgaver", link: "/Tasks/"},
+          // Ressources
+          {text: "Ressource", link: "/Templates/Resource/"},
         ],
       },
+
+      // Attributes
+      {text: "Attributer", link: "/Attributes/"},
+
+      // PropertySets
+      {
+        text: "Egenskabssæt",
+        collapsed: true,
+        link: "/PropertySets/",
+        items: [{text: "Egenskaber", link: "/Properties/"}],
+      },
+
+      // QuantitySets
+      {
+        text: "MængdeSæt",
+        collapsed: true,
+        link: "/QuantitySets/",
+        items: [{text: "Mængder", link: "/Quantities/"}],
+      },
+
+      // Enumerations
+      {
+        text: "Værdilister",
+        collapsed: true,
+        link: "/Enumerations/",
+        items: [{text: "Værdier", link: "/Values/"}],
+      },
+
+      // Tasks
+      {text: "Opgaver", link: "/Tasks/"},
     ],
   },
 };
