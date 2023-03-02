@@ -15,6 +15,7 @@ export default {
         items: [
           {
             text: "Afventer",
+            collapsed: true,
             link: "/Templates/Product/Element/DistributionElement/Flow/AirTerminalBox",
           },
         ],
@@ -508,10 +509,12 @@ export default {
       // Tasks
       {
         text: "Opgaver",
+        collapsed: true,
         link: "/Tasks/",
         items: [
           {
             text: "Afventer",
+            collapsed: true,
             link: "/Templates/Product/Element/DistributionElement/Flow/AirTerminalBox",
           },
         ],
