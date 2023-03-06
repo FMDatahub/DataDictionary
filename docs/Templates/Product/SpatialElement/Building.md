@@ -64,10 +64,9 @@ En bygning repræsenterer en struktur, der giver ly til sine beboere eller indho
 {
   "Name": "",
   "Description": [],
-  "Documents": [],
   "Attributes": [],
-  "PropertySets": [],
-  "QuantitySets": []
+  "GroupsOfProperties": [],
+  "Documents": [],
 }
 ```
 
