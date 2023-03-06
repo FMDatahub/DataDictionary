@@ -16,72 +16,65 @@ Dansk:
 
 ## Attributes
 
-| IFC - Standard                                                            |
-| ------------------------------------------------------------------------- |
-| [GlobalId](../../Properties/Administratively/GlobalId.md)                 |
-| [Version](../../Properties/Administratively/Version.md)                   |
-| [Name](../../Properties/Administratively/Name.md)                         |
-| [Type](../../Properties/Administratively/Type.md)                         |
-| [Description](../../Properties/Administratively/Description.md)           |
-| [IsDecomposedBy](../../Properties/Administratively/IsDecomposedBy.md)     |
-| [LongName](../../Properties/Administratively/LongName.md)                 |
-| [ObjectType](../../Properties/Administratively/ObjectType.md)             |
-| [Representation](../../Properties/Administratively/Representation.md)     |
-| [CompositionType](../../Properties/Administratively/CompositionType.md)   |
-| [ContainsElements](../../Properties/Administratively/ContainsElements.md) |
-| [Decomposes](../../Properties/Administratively/Decomposes.md)             |
+#### IFC - Standard
 
-| IFC - OwnerHistory                                                                        |
-| ----------------------------------------------------------------------------------------- |
-| [ChangeAction](../../Properties/Administratively/ChangeAction.md)                         |
-| [CreationDate](../../Properties/Administratively/CreationDate.md)                         |
-| [LastModifiedDate](../../Properties/Administratively/LastModifiedDate.md)                 |
-| [LastModifyingApplication](../../Properties/Administratively/LastModifyingApplication.md) |
-| [LastModifyingUser](../../Properties/Administratively/LastModifyingUser.md)               |
-| [OwningApplication](../../Properties/Administratively/OwningApplication.md)               |
-| [OwningUser](../../Properties/Administratively/OwningUser.md)                             |
-| [State](../../Properties/Administratively/State.md)                                       |
+- [GlobalId](../../Properties/Administratively/GlobalId.md)
+- [Version](../../Properties/Administratively/Version.md)
+- [Name](../../Properties/Administratively/Name.md)
+- [Type](../../Properties/Administratively/Type.md)
+- [Description](../../Properties/Administratively/Description.md)
+- [IsDecomposedBy](../../Properties/Administratively/IsDecomposedBy.md) 
+- [LongName](../../Properties/Administratively/LongName.md)               
+- [ObjectType](../../Properties/Administratively/ObjectType.md)             
+- [Representation](../../Properties/Administratively/Representation.md)     
+- [CompositionType](../../Properties/Administratively/CompositionType.md)   
+- [ContainsElements](../../Properties/Administratively/ContainsElements.md) 
+- [Decomposes](../../Properties/Administratively/Decomposes.md)             
 
-| KEID - Custom                                                       |
-| ------------------------------------------------------------------- |
-| [Id](../../Properties/Administratively/Id.md)                       |
-| [ParentContext](../../Properties/Administratively/ParentContext.md) |
-| [ParentProject](../../Properties/Administratively/ParentProject.md) |
-| [IsActive](../../Properties/Administratively/IsActive.md)           |
-| [Lat](../../Properties/Administratively/Lat.md)                     |
-| [Lng](../../Properties/Administratively/Lng.md)                     |
-| [Polygon](../../Properties/Administratively/Polygon.md)             |
+#### IFC - OwnerHistory
+- [ChangeAction](../../Properties/Administratively/ChangeAction.md)                         
+- [CreationDate](../../Properties/Administratively/CreationDate.md)                         
+- [LastModifiedDate](../../Properties/Administratively/LastModifiedDate.md)                 
+- [LastModifyingApplication](../../Properties/Administratively/LastModifyingApplication.md) 
+- [LastModifyingUser](../../Properties/Administratively/LastModifyingUser.md)               
+- [OwningApplication](../../Properties/Administratively/OwningApplication.md)               
+- [OwningUser](../../Properties/Administratively/OwningUser.md)                             
+- [State](../../Properties/Administratively/State.md)                                       
+
+#### KEID - Custom                                                       
+- [Id](../../Properties/Administratively/Id.md)                       
+- [ParentContext](../../Properties/Administratively/ParentContext.md) 
+- [ParentProject](../../Properties/Administratively/ParentProject.md) 
+- [IsActive](../../Properties/Administratively/IsActive.md)           
+- [Lat](../../Properties/Administratively/Lat.md)                     
+- [Lng](../../Properties/Administratively/Lng.md)                     
+- [Polygon](../../Properties/Administratively/Polygon.md)             
 
 ## Groups of properties
-
-| ENG                                                                       | DK     | Type |
-| ------------------------------------------------------------------------- | ------ | ---- |
-| [BuildingCommon](../../../PropertySets/BuildingCommon.md)                 | Udfyld | Pset |
-| [BuildingBaseQuantities](../../../QuantitySets/BuildingBaseQuantities.md) | Udfyld | Qto  |
+- [BuildingCommon](../../../PropertySets/BuildingCommon.md)          
+- [BuildingBaseQuantities](../../../QuantitySets/BuildingBaseQuantities.md) 
 
 ## Documents
 
-| ENG     | DK          | Type |
-| ------- | ----------- | ---- |
-| Missing | Energimærke | Pdf  |
+- Energimærke 
 
 ## JSON from API
 
 ```json
 {
   "Name": "",
-  "Description": [],
-  "Documents": [],
+  "Description": [{"ENG": ""}, {"DK": ""}],
   "Attributes": [],
-  "PropertySets": [],
-  "QuantitySets": []
+  "GroupsOfProperties": [],
+  "Documents": [],
 }
 ```
 
 ## Namespace URI
 
-> Link
+> [Link](https://fmdatahub.github.io/Datadictionary/Templates/Product/SpatialElement/Building.html)
+
 
 ## Help us stay updated
 
-> [Edit](https://github.com/FMDatahub/DataDictionary/blob/main/Classes/Product/SpatialElement/Building.md)
+> [Edit](https://github.com/FMDatahub/Datadictionary/blob/main/Classes/Product/SpatialElement/Building.md)
