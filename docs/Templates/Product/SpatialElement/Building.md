@@ -2,7 +2,7 @@
 
 Dansk:
 
-Bygning
+> Bygning
 
 ## Description
 
