@@ -48,31 +48,37 @@ export default {
                     items: [
                       {
                         text: "Grund",
+                        collapsed: true,
                         link: "/Templates/Product/SpatialElement/Site",
+                        items: [
+                          {
+                            text: "Jordstykke",
+                            link: "/Templates/Product/SpatialElement/Jordstykke",
+                          },
+                        ],
                       },
                       {
-                        text: "Jordstykke",
-                        link: "/Templates/Product/SpatialElement/Jordstykke",
-                      },
-                      {
-                        text: "Bygninger",
+                        text: "Bygning",
                         link: "/Templates/Product/SpatialElement/Building",
                       },
                       {
-                        text: "Etager",
+                        text: "Etage",
                         link: "/Templates/Product/SpatialElement/BuildingStorey",
                       },
                       {
-                        text: "Opgange",
-                        link: "/Templates/Product/SpatialElement/Opgang",
-                      },
-                      {
-                        text: "Enheder",
-                        link: "/Templates/Product/SpatialElement/Enhed",
-                      },
-                      {
-                        text: "Zoner",
+                        text: "Zone",
+                        collapsed: true,
                         link: "/Templates/Product/SpatialElement/Zone",
+                        items: [
+                          {
+                            text: "Opgang",
+                            link: "/Templates/Product/SpatialElement/Opgang",
+                          },
+                          {
+                            text: "Enhed",
+                            link: "/Templates/Product/SpatialElement/Enhed",
+                          },
+                        ],
                       },
                       {
                         text: "Rum",
@@ -118,7 +124,7 @@ export default {
                     link: "/Templates/Product/Element/FurnishingElement/",
                     items: [
                       {
-                        text: "Møbler",
+                        text: "Inventar",
                         link: "/Templates/Product/Element/FurnishingElement/Furniture",
                       },
                     ],
@@ -479,8 +485,126 @@ export default {
             link: "/Attributes/",
             items: [
               {
-                text: "Afventer",
-                link: "/Templates/Product/Element/DistributionElement/Flow/AirTerminalBox",
+                text: "KEID",
+                collapsed: true,
+                link: "Attributes/KEID/",
+                items: [
+                  {text: "Id", link: "Attributes/KEID/Id"},
+                  {
+                    text: "ParentContext",
+                    link: "Attributes/KEID/ParentContext",
+                  },
+                  {
+                    text: "ParentProject",
+                    link: "Attributes/KEID/ParentProject",
+                  },
+                  {
+                    text: "Lat",
+                    link: "Attributes/KEID/Lat",
+                  },
+                  {
+                    text: "Lng",
+                    link: "Attributes/KEID/Lng",
+                  },
+                  {
+                    text: "Polygon",
+                    link: "Attributes/KEID/Polygon",
+                  },
+                ],
+              },
+              {
+                text: "Standard",
+                collapsed: true,
+                link: "Attributes/IFC/",
+                items: [
+                  {
+                    text: "CompositionType",
+                    link: "Attributes/IFC/CompositionType",
+                  },
+                  {
+                    text: "ContainsElements",
+                    link: "Attributes/IFC/ContainsElements",
+                  },
+                  {
+                    text: "Decomposes",
+                    link: "Attributes/IFC/Decomposes",
+                  },
+                  {
+                    text: "Description",
+                    link: "Attributes/IFC/Description",
+                  },
+                  {
+                    text: "GlobalId",
+                    link: "Attributes/IFC/GlobalId",
+                  },
+                  {
+                    text: "IsDecomposedBy",
+                    link: "Attributes/IFC/IsDecomposedBy",
+                  },
+                  {
+                    text: "LongName",
+                    link: "Attributes/IFC/LongName",
+                  },
+                  {
+                    text: "Name",
+                    link: "Attributes/IFC/Name",
+                  },
+                  {
+                    text: "ObjectType",
+                    link: "Attributes/IFC/ObjectType",
+                  },
+                  {
+                    text: "Representation",
+                    link: "Attributes/IFC/Representation",
+                  },
+                  {
+                    text: "Type",
+                    link: "Attributes/IFC/Type",
+                  },
+                ],
+              },
+              {
+                text: "OwnerHistory",
+                collapsed: true,
+                link: "Attributes/OwnerHistory/",
+                items: [
+                  {
+                    text: "ChangeAction",
+                    link: "Attributes/OwnerHistory/ChangeAction",
+                  },
+                  {
+                    text: "CreationDate",
+                    link: "Attributes/OwnerHistory/CreationDate",
+                  },
+                  {
+                    text: "LastModifiedDate",
+                    link: "Attributes/OwnerHistory/LastModifiedDate",
+                  },
+                  {
+                    text: "LastModifyingApplication",
+                    link: "Attributes/OwnerHistory/LastModifyingApplication",
+                  },
+                  {
+                    text: "LastModifyingUser",
+                    link: "Attributes/OwnerHistory/LastModifyingUser",
+                  },
+                  {
+                    text: "OwningApplication",
+                    link: "Attributes/OwnerHistory/OwningApplication",
+                  },
+                  {
+                    text: "OwningUser",
+                    link: "Attributes/OwnerHistory/OwningUser",
+                  },
+                  {
+                    text: "State",
+                    link: "Attributes/OwnerHistory/State",
+                  },
+                  {
+                    text: "Version",
+                    link: "Attributes/OwnerHistory/Version",
+                  },
+                ],
               },
             ],
           },
