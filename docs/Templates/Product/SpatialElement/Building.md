@@ -72,7 +72,7 @@ Dansk:
 
 ## Namespace URI
 
-> [Link](https://github.com/FMDatahub/Datadictionary/blob/main/docs/Templates/Product/SpatialElement/Building.md)
+> [Link](https://fmdatahub.github.io/Datadictionary/Templates/Product/SpatialElement/Building.html)
 
 
 ## Help us stay updated
