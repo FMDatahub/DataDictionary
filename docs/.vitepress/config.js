@@ -13,6 +13,7 @@ export default {
     },
     search: true,
     searchMaxSuggestions: 10,
+    searchPlaceholder: "Søg...",
     editLink: {
       pattern:
         "https://github.com/FMDatahub/Datadictionary/tree/main/docs/:path",
