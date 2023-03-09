@@ -63,6 +63,8 @@ DK:
 
 ## JSON from API
 
+[API Link]([https://duckduckgo.com](http://vna-api-dev.azurewebsites.net/DataDictionary/getSpatialTemplate?Name=Building))
+
 ```json
 {
   "Name": "",
@@ -73,3 +75,5 @@ DK:
   "URI: "",
 }
 ```
+
+
