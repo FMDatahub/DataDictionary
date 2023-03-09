@@ -6,6 +6,11 @@ export default {
   //cleanUrls: true,
   ignoreDeadLinks: true,
   themeConfig: {
+    editLink: {
+      pattern:
+        "https://github.com/FMDatahub/Datadictionary/tree/main/docs/:path",
+      text: "Rediger denne side på GitHub",
+    },
     sidebar: [
       {
         text: "Beskrivelser",

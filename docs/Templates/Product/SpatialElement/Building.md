@@ -23,40 +23,43 @@ Dansk:
 - [Name](../../Properties/Administratively/Name.md)
 - [Type](../../Properties/Administratively/Type.md)
 - [Description](../../Properties/Administratively/Description.md)
-- [IsDecomposedBy](../../Properties/Administratively/IsDecomposedBy.md) 
-- [LongName](../../Properties/Administratively/LongName.md)               
-- [ObjectType](../../Properties/Administratively/ObjectType.md)             
-- [Representation](../../Properties/Administratively/Representation.md)     
-- [CompositionType](../../Properties/Administratively/CompositionType.md)   
-- [ContainsElements](../../Properties/Administratively/ContainsElements.md) 
-- [Decomposes](../../Properties/Administratively/Decomposes.md)             
+- [IsDecomposedBy](../../Properties/Administratively/IsDecomposedBy.md)
+- [LongName](../../Properties/Administratively/LongName.md)
+- [ObjectType](../../Properties/Administratively/ObjectType.md)
+- [Representation](../../Properties/Administratively/Representation.md)
+- [CompositionType](../../Properties/Administratively/CompositionType.md)
+- [ContainsElements](../../Properties/Administratively/ContainsElements.md)
+- [Decomposes](../../Properties/Administratively/Decomposes.md)
 
 #### IFC - OwnerHistory
-- [ChangeAction](../../Properties/Administratively/ChangeAction.md)                         
-- [CreationDate](../../Properties/Administratively/CreationDate.md)                         
-- [LastModifiedDate](../../Properties/Administratively/LastModifiedDate.md)                 
-- [LastModifyingApplication](../../Properties/Administratively/LastModifyingApplication.md) 
-- [LastModifyingUser](../../Properties/Administratively/LastModifyingUser.md)               
-- [OwningApplication](../../Properties/Administratively/OwningApplication.md)               
-- [OwningUser](../../Properties/Administratively/OwningUser.md)                             
-- [State](../../Properties/Administratively/State.md)                                       
 
-#### KEID - Custom                                                       
-- [Id](../../Properties/Administratively/Id.md)                       
-- [ParentContext](../../Properties/Administratively/ParentContext.md) 
-- [ParentProject](../../Properties/Administratively/ParentProject.md) 
-- [IsActive](../../Properties/Administratively/IsActive.md)           
-- [Lat](../../Properties/Administratively/Lat.md)                     
-- [Lng](../../Properties/Administratively/Lng.md)                     
-- [Polygon](../../Properties/Administratively/Polygon.md)             
+- [ChangeAction](../../Properties/Administratively/ChangeAction.md)
+- [CreationDate](../../Properties/Administratively/CreationDate.md)
+- [LastModifiedDate](../../Properties/Administratively/LastModifiedDate.md)
+- [LastModifyingApplication](../../Properties/Administratively/LastModifyingApplication.md)
+- [LastModifyingUser](../../Properties/Administratively/LastModifyingUser.md)
+- [OwningApplication](../../Properties/Administratively/OwningApplication.md)
+- [OwningUser](../../Properties/Administratively/OwningUser.md)
+- [State](../../Properties/Administratively/State.md)
+
+#### KEID - Custom
+
+- [Id](../../Properties/Administratively/Id.md)
+- [ParentContext](../../Properties/Administratively/ParentContext.md)
+- [ParentProject](../../Properties/Administratively/ParentProject.md)
+- [IsActive](../../Properties/Administratively/IsActive.md)
+- [Lat](../../Properties/Administratively/Lat.md)
+- [Lng](../../Properties/Administratively/Lng.md)
+- [Polygon](../../Properties/Administratively/Polygon.md)
 
 ## Groups of properties
-- [BuildingCommon](../../../PropertySets/BuildingCommon.md)          
-- [BuildingBaseQuantities](../../../QuantitySets/BuildingBaseQuantities.md) 
+
+- [BuildingCommon](../../../PropertySets/BuildingCommon.md)
+- [BuildingBaseQuantities](../../../QuantitySets/BuildingBaseQuantities.md)
 
 ## Documents
 
-- Energimærke 
+- Energimærke
 
 ## JSON from API
 
@@ -66,15 +69,10 @@ Dansk:
   "Description": [{"ENG": ""}, {"DK": ""}],
   "Attributes": [],
   "GroupsOfProperties": [],
-  "Documents": [],
+  "Documents": []
 }
 ```
 
 ## Namespace URI
 
 > [Link](https://fmdatahub.github.io/Datadictionary/Templates/Product/SpatialElement/Building.html)
-
-
-## Help us stay updated
-
-> [Edit](https://github.com/FMDatahub/Datadictionary/blob/main/Classes/Product/SpatialElement/Building.md)
