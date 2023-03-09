@@ -632,7 +632,16 @@ export default {
             collapsed: true,
             link: "/Properties/",
             items: [
-              {text: "Administrativt", link: "/Properties/Administratively/"},
+              {
+                text: "Administrativt",
+                link: "/Properties/Administratively/",
+                items: [
+                  {
+                    text: "CCITopnode",
+                    link: "/Properties/Administratively/CCITopnode",
+                  },
+                ],
+              },
               {text: "Aftale", link: "/Properties/Appointment/"},
               {text: "Funktion", link: "/Properties/Function/"},
               {text: "Ydeevne", link: "/Properties/Performance/"},
