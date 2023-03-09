@@ -1,6 +1,6 @@
 # Building
 
-Dansk:
+DK:
 
 > Bygning
 
@@ -56,6 +56,7 @@ Dansk:
 
 - [BuildingCommon](../../../PropertySets/BuildingCommon.md)
 - [BuildingBaseQuantities](../../../QuantitySets/BuildingBaseQuantities.md)
+- [CCI](../../../PropertySets/CCI.md)
 
 ## Documents
 
@@ -63,16 +64,17 @@ Dansk:
 
 ## JSON from API
 
+[API Link](http://vna-api-dev.azurewebsites.net/DataDictionary/getSpatialTemplate?Name=Building)
+
 ```json
 {
   "Name": "",
   "Description": [{"ENG": ""}, {"DK": ""}],
   "Attributes": [],
   "GroupsOfProperties": [],
-  "Documents": []
+  "Documents": [],
+  "URI: "",
 }
 ```
 
-## Namespace URI
 
-> [Link](https://fmdatahub.github.io/Datadictionary/Templates/Product/SpatialElement/Building.html)
