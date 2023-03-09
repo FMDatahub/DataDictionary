@@ -56,6 +56,7 @@ DK:
 
 - [BuildingCommon](../../../PropertySets/BuildingCommon.md)
 - [BuildingBaseQuantities](../../../QuantitySets/BuildingBaseQuantities.md)
+- [CCI](../../../PropertySets/CCI.md)
 
 ## Documents
 
