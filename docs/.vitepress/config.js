@@ -502,7 +502,7 @@ export default {
                 collapsed: true,
                 link: "Attributes/KEID/",
                 items: [
-                  {text: "Id", link: "Attributes/KEID/Id"},
+                  {text: "Id", link: "/Attributes/KEID/Id"},
                   {
                     text: "ParentContext",
                     link: "/Attributes/KEID/ParentContext",
