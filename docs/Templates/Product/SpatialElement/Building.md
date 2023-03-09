@@ -69,6 +69,7 @@ DK:
   "Description": [{"ENG": ""}, {"DK": ""}],
   "Attributes": [],
   "GroupsOfProperties": [],
-  "Documents": []
+  "Documents": [],
+  "URI: "",
 }
 ```
