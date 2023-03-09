@@ -1,20 +1,10 @@
-# Building
+# Bygning
 
-DK:
-
-> Bygning
-
-## Description
-
-#### ENG
-
-> A building represents a structure that provides shelter for its occupants or contents and stands in one place. The building is also used to provide a basic element within the spatial structure hierarchy for the components of a building project (together with site, storey, and space).
-
-#### DK
+## Beskrivelse
 
 > En bygning repræsenterer en struktur, der giver ly til sine beboere eller indhold og står ét sted. Bygningen bruges også til at give et grundlæggende element inden for det rumlige strukturhierarkiet for komponenterne i et byggeprojekt (sammen med grund, etage og rum).
 
-## Attributes
+## Attributer
 
 #### IFC - Standard
 
@@ -52,24 +42,24 @@ DK:
 - [Lng](../../Properties/Administratively/Lng.md)
 - [Polygon](../../Properties/Administratively/Polygon.md)
 
-## Groups of properties
+## Grupper af egenskaber
 
 - [BuildingCommon](../../../PropertySets/BuildingCommon.md)
 - [BuildingBaseQuantities](../../../QuantitySets/BuildingBaseQuantities.md)
 - [CCI](../../../PropertySets/CCI.md)
 
-## Documents
+## Dokumenter
 
 - Energimærke
 
-## JSON from API
+## JSON fra API
 
 [API Link](http://vna-api-dev.azurewebsites.net/DataDictionary/getSpatialTemplate?Name=Building)
 
 ```json
 {
   "Name": "",
-  "Description": [{"ENG": ""}, {"DK": ""}],
+  "Description": "",
   "Attributes": [],
   "GroupsOfProperties": [],
   "Documents": [],
