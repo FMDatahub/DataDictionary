@@ -603,18 +603,66 @@ export default {
 
           // PropertySets
           {
-            text: "Egenskabssæt",
+            text: "Grupper af egenskaber",
             collapsed: true,
-            link: "/PropertySets/",
-            items: [{text: "Egenskaber", link: "/Properties/"}],
+            link: "/GroupsOfProperties/",
+            items: [
+              {
+                text: "BuildingCommon",
+                link: "/GroupsOfProperties/BuildingCommon",
+              },
+              {
+                text: "BuildingBaseQuantities",
+                link: "/GroupsOfProperties/BuildingBaseQuantities",
+              },
+              {
+                text: "DoorBaseQuantities",
+                link: "/GroupsOfProperties/DoorBaseQuantities",
+              },
+              {
+                text: "WindowBaseQuantities",
+                link: "/GroupsOfProperties/WindowBaseQuantities",
+              },
+            ],
           },
 
-          // QuantitySets
+          // Properties
           {
-            text: "MængdeSæt",
+            text: "Egenskaber",
             collapsed: true,
-            link: "/QuantitySets/",
-            items: [{text: "Mængder", link: "/Quantities/"}],
+            link: "/Properties/",
+            items: [
+              {text: "Administrativt", link: "/Properties/Administratively/"},
+              {text: "Aftale", link: "/Properties/Appointment/"},
+              {text: "Funktion", link: "/Properties/Function/"},
+              {text: "Ydeevne", link: "/Properties/Performance/"},
+              {
+                text: "Materiale og produkt",
+                link: "/Properties/MaterialAndProduct/",
+              },
+              {
+                text: "Form",
+                collapsed: true,
+                link: "/Properties/Form/",
+                items: [
+                  {text: "Højde", link: "/Properties/Form/Height"},
+                  {text: "Længde", link: "/Properties/Form/Length"},
+                  {text: "Bredde", link: "/Properties/Form/Width"},
+                ],
+              },
+              {text: "Placering", link: "/Properties/Placement/"},
+              {text: "Økonomi", link: "/Properties/Economy/"},
+              {text: "Tid", link: "/Properties/Time/"},
+              {text: "Oplevelse", link: "/Properties/Experience/"},
+              {
+                text: "Sundhed og sikkerhed",
+                link: "/Properties/HealthAndSafety/",
+              },
+              {text: "Relation", link: "/Properties/Relation/"},
+              {text: "Produktion", link: "/Properties/Production/"},
+              {text: "Kvalitet", link: "/Properties/Quality/"},
+              {text: "Vedligeholdelse", link: "/Properties/Maintenance/"},
+            ],
           },
 
           // Enumerations
@@ -622,7 +670,26 @@ export default {
             text: "Værdilister",
             collapsed: true,
             link: "/Enumerations/",
-            items: [{text: "Værdier", link: "/Values/"}],
+            items: [
+              {
+                text: "CCS",
+                collapsed: true,
+                link: "/Enumerations/CCS/",
+                items: [
+                  {
+                    text: "Classification",
+                    collapsed: true,
+                    link: "/Enumerations/CCS/Classifikation/",
+                  },
+                ],
+              },
+            ],
+          },
+
+          {
+            text: "Værdier",
+            collapsed: true,
+            link: "/Values/",
           },
 
           // Tasks
