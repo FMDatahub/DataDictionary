@@ -497,127 +497,106 @@ export default {
             collapsed: true,
             link: "/Attributes/",
             items: [
+              {text: "Id", link: "/Attributes/KEID/Id"},
               {
-                text: "KEID",
-                collapsed: true,
-                link: "Attributes/KEID/",
-                items: [
-                  {text: "Id", link: "/Attributes/KEID/Id"},
-                  {
-                    text: "ParentContext",
-                    link: "/Attributes/KEID/ParentContext",
-                  },
-                  {
-                    text: "ParentProject",
-                    link: "/Attributes/KEID/ParentProject",
-                  },
-                  {
-                    text: "Lat",
-                    link: "/Attributes/KEID/Lat",
-                  },
-                  {
-                    text: "Lng",
-                    link: "/Attributes/KEID/Lng",
-                  },
-                  {
-                    text: "Polygon",
-                    link: "/Attributes/KEID/Polygon",
-                  },
-                ],
+                text: "ParentContext",
+                link: "/Attributes/KEID/ParentContext",
               },
               {
-                text: "Standard",
-                collapsed: true,
-                link: "Attributes/IFC/",
-                items: [
-                  {
-                    text: "CompositionType",
-                    link: "/Attributes/IFC/CompositionType",
-                  },
-                  {
-                    text: "ContainsElements",
-                    link: "/Attributes/IFC/ContainsElements",
-                  },
-                  {
-                    text: "Decomposes",
-                    link: "/Attributes/IFC/Decomposes",
-                  },
-                  {
-                    text: "Description",
-                    link: "/Attributes/IFC/Description",
-                  },
-                  {
-                    text: "GlobalId",
-                    link: "/Attributes/IFC/GlobalId",
-                  },
-                  {
-                    text: "IsDecomposedBy",
-                    link: "/Attributes/IFC/IsDecomposedBy",
-                  },
-                  {
-                    text: "LongName",
-                    link: "/Attributes/IFC/LongName",
-                  },
-                  {
-                    text: "Name",
-                    link: "/Attributes/IFC/Name",
-                  },
-                  {
-                    text: "ObjectType",
-                    link: "/Attributes/IFC/ObjectType",
-                  },
-                  {
-                    text: "Representation",
-                    link: "/Attributes/IFC/Representation",
-                  },
-                  {
-                    text: "Type",
-                    link: "/Attributes/IFC/Type",
-                  },
-                ],
+                text: "ParentProject",
+                link: "/Attributes/KEID/ParentProject",
               },
               {
-                text: "OwnerHistory",
-                collapsed: true,
-                link: "Attributes/OwnerHistory/",
-                items: [
-                  {
-                    text: "ChangeAction",
-                    link: "/Attributes/OwnerHistory/ChangeAction",
-                  },
-                  {
-                    text: "CreationDate",
-                    link: "/Attributes/OwnerHistory/CreationDate",
-                  },
-                  {
-                    text: "LastModifiedDate",
-                    link: "/Attributes/OwnerHistory/LastModifiedDate",
-                  },
-                  {
-                    text: "LastModifyingApplication",
-                    link: "/Attributes/OwnerHistory/LastModifyingApplication",
-                  },
-                  {
-                    text: "LastModifyingUser",
-                    link: "/Attributes/OwnerHistory/LastModifyingUser",
-                  },
-                  {
-                    text: "OwningApplication",
-                    link: "/Attributes/OwnerHistory/OwningApplication",
-                  },
-                  {
-                    text: "OwningUser",
-                    link: "/Attributes/OwnerHistory/OwningUser",
-                  },
-                  {
-                    text: "State",
-                    link: "/Attributes/OwnerHistory/State",
-                  },
-                  {
-                    text: "Version",
-                    link: "/Attributes/OwnerHistory/Version",
-                  },
-                ],
+                text: "Lat",
+                link: "/Attributes/KEID/Lat",
+              },
+              {
+                text: "Lng",
+                link: "/Attributes/KEID/Lng",
+              },
+              {
+                text: "Polygon",
+                link: "/Attributes/KEID/Polygon",
+              },
+              {
+                text: "CompositionType",
+                link: "/Attributes/IFC/CompositionType",
+              },
+              {
+                text: "ContainsElements",
+                link: "/Attributes/IFC/ContainsElements",
+              },
+              {
+                text: "Decomposes",
+                link: "/Attributes/IFC/Decomposes",
+              },
+              {
+                text: "Description",
+                link: "/Attributes/IFC/Description",
+              },
+              {
+                text: "GlobalId",
+                link: "/Attributes/IFC/GlobalId",
+              },
+              {
+                text: "IsDecomposedBy",
+                link: "/Attributes/IFC/IsDecomposedBy",
+              },
+              {
+                text: "LongName",
+                link: "/Attributes/IFC/LongName",
+              },
+              {
+                text: "Name",
+                link: "/Attributes/IFC/Name",
+              },
+              {
+                text: "ObjectType",
+                link: "/Attributes/IFC/ObjectType",
+              },
+              {
+                text: "Representation",
+                link: "/Attributes/IFC/Representation",
+              },
+              {
+                text: "Type",
+                link: "/Attributes/IFC/Type",
+              },
+              {
+                text: "ChangeAction",
+                link: "/Attributes/OwnerHistory/ChangeAction",
+              },
+              {
+                text: "CreationDate",
+                link: "/Attributes/OwnerHistory/CreationDate",
+              },
+              {
+                text: "LastModifiedDate",
+                link: "/Attributes/OwnerHistory/LastModifiedDate",
+              },
+              {
+                text: "LastModifyingApplication",
+                link: "/Attributes/OwnerHistory/LastModifyingApplication",
+              },
+              {
+                text: "LastModifyingUser",
+                link: "/Attributes/OwnerHistory/LastModifyingUser",
+              },
+              {
+                text: "OwningApplication",
+                link: "/Attributes/OwnerHistory/OwningApplication",
+              },
+              {
+                text: "OwningUser",
+                link: "/Attributes/OwnerHistory/OwningUser",
+              },
+              {
+                text: "State",
+                link: "/Attributes/OwnerHistory/State",
+              },
+              {
+                text: "Version",
+                link: "/Attributes/OwnerHistory/Version",
               },
             ],
           },
