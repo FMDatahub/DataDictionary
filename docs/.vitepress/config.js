@@ -505,23 +505,23 @@ export default {
                   {text: "Id", link: "Attributes/KEID/Id"},
                   {
                     text: "ParentContext",
-                    link: "Attributes/KEID/ParentContext",
+                    link: "/Attributes/KEID/ParentContext",
                   },
                   {
                     text: "ParentProject",
-                    link: "Attributes/KEID/ParentProject",
+                    link: "/Attributes/KEID/ParentProject",
                   },
                   {
                     text: "Lat",
-                    link: "Attributes/KEID/Lat",
+                    link: "/Attributes/KEID/Lat",
                   },
                   {
                     text: "Lng",
-                    link: "Attributes/KEID/Lng",
+                    link: "/Attributes/KEID/Lng",
                   },
                   {
                     text: "Polygon",
-                    link: "Attributes/KEID/Polygon",
+                    link: "/Attributes/KEID/Polygon",
                   },
                 ],
               },
@@ -532,47 +532,47 @@ export default {
                 items: [
                   {
                     text: "CompositionType",
-                    link: "Attributes/IFC/CompositionType",
+                    link: "/Attributes/IFC/CompositionType",
                   },
                   {
                     text: "ContainsElements",
-                    link: "Attributes/IFC/ContainsElements",
+                    link: "/Attributes/IFC/ContainsElements",
                   },
                   {
                     text: "Decomposes",
-                    link: "Attributes/IFC/Decomposes",
+                    link: "/Attributes/IFC/Decomposes",
                   },
                   {
                     text: "Description",
-                    link: "Attributes/IFC/Description",
+                    link: "/Attributes/IFC/Description",
                   },
                   {
                     text: "GlobalId",
-                    link: "Attributes/IFC/GlobalId",
+                    link: "/Attributes/IFC/GlobalId",
                   },
                   {
                     text: "IsDecomposedBy",
-                    link: "Attributes/IFC/IsDecomposedBy",
+                    link: "/Attributes/IFC/IsDecomposedBy",
                   },
                   {
                     text: "LongName",
-                    link: "Attributes/IFC/LongName",
+                    link: "/Attributes/IFC/LongName",
                   },
                   {
                     text: "Name",
-                    link: "Attributes/IFC/Name",
+                    link: "/Attributes/IFC/Name",
                   },
                   {
                     text: "ObjectType",
-                    link: "Attributes/IFC/ObjectType",
+                    link: "/Attributes/IFC/ObjectType",
                   },
                   {
                     text: "Representation",
-                    link: "Attributes/IFC/Representation",
+                    link: "/Attributes/IFC/Representation",
                   },
                   {
                     text: "Type",
-                    link: "Attributes/IFC/Type",
+                    link: "/Attributes/IFC/Type",
                   },
                 ],
               },
@@ -583,39 +583,39 @@ export default {
                 items: [
                   {
                     text: "ChangeAction",
-                    link: "Attributes/OwnerHistory/ChangeAction",
+                    link: "/Attributes/OwnerHistory/ChangeAction",
                   },
                   {
                     text: "CreationDate",
-                    link: "Attributes/OwnerHistory/CreationDate",
+                    link: "/Attributes/OwnerHistory/CreationDate",
                   },
                   {
                     text: "LastModifiedDate",
-                    link: "Attributes/OwnerHistory/LastModifiedDate",
+                    link: "/Attributes/OwnerHistory/LastModifiedDate",
                   },
                   {
                     text: "LastModifyingApplication",
-                    link: "Attributes/OwnerHistory/LastModifyingApplication",
+                    link: "/Attributes/OwnerHistory/LastModifyingApplication",
                   },
                   {
                     text: "LastModifyingUser",
-                    link: "Attributes/OwnerHistory/LastModifyingUser",
+                    link: "/Attributes/OwnerHistory/LastModifyingUser",
                   },
                   {
                     text: "OwningApplication",
-                    link: "Attributes/OwnerHistory/OwningApplication",
+                    link: "/Attributes/OwnerHistory/OwningApplication",
                   },
                   {
                     text: "OwningUser",
-                    link: "Attributes/OwnerHistory/OwningUser",
+                    link: "/Attributes/OwnerHistory/OwningUser",
                   },
                   {
                     text: "State",
-                    link: "Attributes/OwnerHistory/State",
+                    link: "/Attributes/OwnerHistory/State",
                   },
                   {
                     text: "Version",
-                    link: "Attributes/OwnerHistory/Version",
+                    link: "/Attributes/OwnerHistory/Version",
                   },
                 ],
               },
