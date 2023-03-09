@@ -59,7 +59,7 @@
 ```json
 {
   "Name": "",
-  "Description": [{"ENG": ""}, {"DK": ""}],
+  "Description": "",
   "Attributes": [],
   "GroupsOfProperties": [],
   "Documents": [],
