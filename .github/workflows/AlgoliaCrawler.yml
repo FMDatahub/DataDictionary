@@ -11,7 +11,12 @@ jobs:
     steps:
       # checkout this repo
       - name: Checkout Repo
-        uses: actions/checkout@v2
+         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
 
       - name: Vercel-MAIN => Algolia crawler creation and recrawl on preview (Push on Main branch)
         uses: algolia/algoliasearch-crawler-github-actions@v1
