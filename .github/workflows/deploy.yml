@@ -23,6 +23,8 @@ jobs:
           cache: npm
           cache-dependency-path: package-lock.json
       - run: npm install --frozen-lockfile
+      - name: Algolia Crawler Automatic Crawl
+        uses: algolia/algoliasearch-crawler-github-actions@v1.1.0
       - name: Build
         run: npm run docs:build
       - uses: actions/configure-pages@v2
