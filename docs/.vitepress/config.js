@@ -634,6 +634,7 @@ export default {
             items: [
               {
                 text: "Administrativt",
+                collapsed: true,
                 link: "/Properties/Administratively/",
                 items: [
                   {
@@ -671,27 +672,6 @@ export default {
               {text: "Produktion", link: "/Properties/Production/"},
               {text: "Kvalitet", link: "/Properties/Quality/"},
               {text: "Vedligeholdelse", link: "/Properties/Maintenance/"},
-            ],
-          },
-
-          // Enumerations
-          {
-            text: "Værdilister",
-            collapsed: true,
-            link: "/Enumerations/",
-            items: [
-              {
-                text: "CCS",
-                collapsed: true,
-                link: "/Enumerations/CCS/",
-                items: [
-                  {
-                    text: "Classification",
-                    collapsed: true,
-                    link: "/Enumerations/CCS/Classifikation/",
-                  },
-                ],
-              },
             ],
           },
 
