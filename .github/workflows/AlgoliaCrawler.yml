@@ -23,5 +23,5 @@ jobs:
           crawler-api-key: ${{ secrets.CRAWLER_API_KEY }}
           algolia-app-id: ${{ secrets.ALGOLIA_APP_ID }}
           algolia-api-key: ${{ secrets.ALGOLIA_API_KEY }}
-          site-url: "https://algoliasearch-crawler-github-actions.vercel.app/"
+          site-url: "https://fmdatahub.github.io/Datadictionary/"
           override-config: true
