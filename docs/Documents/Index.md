@@ -1,4 +1,4 @@
-### Dokumenter
+# Dokumenter
 
 - [Energimærkning](Energimaerkning.md)
 
