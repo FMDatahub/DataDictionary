@@ -41,7 +41,6 @@ export default {
         "Quantities",
         "DataTypes",
         "Tasks",
-        "API",
       ],
       withIndex: false,
       // includeEmptyGroup: false
