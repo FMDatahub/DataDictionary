@@ -23,7 +23,7 @@ export default {
     },
     sidebar: generateSidebar({
       root: "/docs",
-      rootGroupText: "Opslag",
+      rootGroupText: "Vis dataordbog",
       useTitleFromFileHeading: true,
       hyphenToSpace: true,
       // underscoreToSpace: true,
