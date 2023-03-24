@@ -1,3 +1,0 @@
-# Geografisk
-
-- [Træ](Tree.md)
