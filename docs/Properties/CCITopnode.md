@@ -1,40 +1,16 @@
 # CCITopnode
 
-## Domain
-
-CCI Construction
-
-## Overordnet klassifikation / Parent classification
-
-?
-
-## Defination
+## Beskrivelse
 
 Identificerer den overordnede klasse af objekter som objektet tilhører
 
-## Beskrivelse
-
-?
-
-## Unik kode
+### Forkortelse
 
 AAVK
 
-## IFC Navn
+## Kategori
 
-None
-
-## Område
-
-[Administratively](../Values/CCI/Egenskabskategori/Administratively.md)
-
-## DataType
-
-String
-
-## Egenskabsværditype / PropertyValueKind
-
-Single
+[Administrativt](../Values/CCI/Egenskabskategori/Administratively.md)
 
 ## Værdier
 
@@ -51,4 +27,36 @@ Single
 - [Materiel](../../../Values/CCI/CCITopnode/Materiel.md)
 - [Proces](../../../Values/CCI/CCITopnode/Proces.md)
 
-# URI
+## DataType
+
+String
+
+## Egenskabsværditype
+
+Single
+
+## Mapping
+
+### Guids
+
+| System | GUID                                 |
+| ------ | ------------------------------------ |
+| KEID   | dfeeb41b-2585-4450-9ac8-4ffd7ae0bcd6 |
+
+### IFC
+
+None
+
+## JSON fra API
+
+[API Link](http://vna-api-dev.azurewebsites.net/DataDictionary/getSpatialTemplate?Name=Building)
+
+```json
+{
+  "Name": "",
+  "Category": "",
+  "Description": "",
+  "Mapping": "",
+  "URI: "",
+}
+```

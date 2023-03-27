@@ -1,27 +1,37 @@
 # ChangeAction
 
-#### DK
+## Beskrivelse
 
-> Ændringshandling
+Hjælper med at spore ændringer foretaget på objekter inden for modellen, og dermed muliggøre bedre samarbejde og koordination mellem interessenter.
 
-# Description
+## Værdier
 
-#### ENG
+- [ADDED](../Values/IFC/Ownerhistory/ADDED.md)
+- [DELETED](../Values/IFC/Ownerhistory/DELETED.md)
+- [MODIFIED](../Values/IFC/Ownerhistory/MODIFIED.md)
+- [NOCHANGE](../Values/IFC/Ownerhistory/NOCHANGE.md)
 
-> Enumeration that defines the actions associated with changes made to the object.
+## DataType
 
-#### DK
+[IfcText](../DataTypes/IfcText.md)
 
-> ?
+## Mapping
 
-### Data Type
+| System | GUID                                 |
+| ------ | ------------------------------------ |
+| KEID   | 353341f5-b72b-4945-9130-0dfd661f67c6 |
 
-> str
+## JSON fra API
 
-### Enumeration
+[API Link](http://vna-api-dev.azurewebsites.net/DataDictionary/getSpatialTemplate?Name=Building)
 
-[ChangeActionEnum](../../Properties/Administratively/GlobalId.md)
-
-# Guids
-
-Der er forskellige iforhold til udbyder, list dem. Skal bruges til evt. mapping
+```json
+{
+  "Name": "",
+  "Description": "",
+  "DataType": "",
+  "Values": [],
+  "Mapping": "",
+  "URI": ""
+}
+```

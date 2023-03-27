@@ -6,51 +6,52 @@
 
 ## Attributer
 
-#### IFC - Standard
-
-- [GlobalId](../../Properties/Administratively/GlobalId.md)
-- [Version](../../Properties/Administratively/Version.md)
-- [Name](../../Properties/Administratively/Name.md)
-- [Type](../../Properties/Administratively/Type.md)
-- [Description](../../Properties/Administratively/Description.md)
-- [IsDecomposedBy](../../Properties/Administratively/IsDecomposedBy.md)
-- [LongName](../../Properties/Administratively/LongName.md)
-- [ObjectType](../../Properties/Administratively/ObjectType.md)
-- [Representation](../../Properties/Administratively/Representation.md)
-- [CompositionType](../../Properties/Administratively/CompositionType.md)
-- [ContainsElements](../../Properties/Administratively/ContainsElements.md)
-- [Decomposes](../../Properties/Administratively/Decomposes.md)
-
-#### IFC - OwnerHistory
-
-- [ChangeAction](../../Properties/Administratively/ChangeAction.md)
-- [CreationDate](../../Properties/Administratively/CreationDate.md)
-- [LastModifiedDate](../../Properties/Administratively/LastModifiedDate.md)
-- [LastModifyingApplication](../../Properties/Administratively/LastModifyingApplication.md)
-- [LastModifyingUser](../../Properties/Administratively/LastModifyingUser.md)
-- [OwningApplication](../../Properties/Administratively/OwningApplication.md)
-- [OwningUser](../../Properties/Administratively/OwningUser.md)
-- [State](../../Properties/Administratively/State.md)
-
-#### KEID - Custom
-
-- [Id](../../Properties/Administratively/Id.md)
-- [ParentContext](../../Properties/Administratively/ParentContext.md)
-- [ParentProject](../../Properties/Administratively/ParentProject.md)
-- [IsActive](../../Properties/Administratively/IsActive.md)
-- [Lat](../../Properties/Administratively/Lat.md)
-- [Lng](../../Properties/Administratively/Lng.md)
-- [Polygon](../../Properties/Administratively/Polygon.md)
+- [Id](https://fmdatahub.github.io/Datadictionary/Attributes/Id.html)
+- [ParentContext](https://fmdatahub.github.io/Datadictionary/Attributes/ParentContext.html)
+- [ParentProject](https://fmdatahub.github.io/Datadictionary/Attributes/ParentProject.html)
+- [Type](https://fmdatahub.github.io/Datadictionary/Attributes/Type.html)
+- [Name](https://fmdatahub.github.io/Datadictionary/Attributes/Name.html)
+- [LongName](https://fmdatahub.github.io/Datadictionary/Attributes/LongName.html)
+- [Description](https://fmdatahub.github.io/Datadictionary/Attributes/Description.html)
+- [Version](https://fmdatahub.github.io/Datadictionary/Attributes/Version.html)
+- [State](https://fmdatahub.github.io/Datadictionary/Attributes/State.html)
+- [IsActive](https://fmdatahub.github.io/Datadictionary/Attributes/IsActive.html)
+- [CreationDate](https://fmdatahub.github.io/Datadictionary/Attributes/CreationDate.html)
+- [OwningUser](https://fmdatahub.github.io/Datadictionary/Attributes/OwningUser.html)
+- [OwningApplication](https://fmdatahub.github.io/Datadictionary/Attributes/OwningApplication.html)
+- [ChangeAction](https://fmdatahub.github.io/Datadictionary/Attributes/ChangeAction.html)
+- [LastModifiedDate](https://fmdatahub.github.io/Datadictionary/Attributes/LastModifiedDate.html)
+- [LastModifyingUser](https://fmdatahub.github.io/Datadictionary/Attributes/LastModifyingUser.html)
+- [IdInOwningApplication](https://fmdatahub.github.io/Datadictionary/Attributes/IdInOwningApplication.html)
+- [LastModifyingApplication](https://fmdatahub.github.io/Datadictionary/Attributes/LastModifyingApplication.html)
+- [SameAs](https://fmdatahub.github.io/Datadictionary/Attributes/SameAs.html)
+- [IsDecomposedBy](https://fmdatahub.github.io/Datadictionary/Attributes/IsDecomposedBy.html)
+- [Decomposes](https://fmdatahub.github.io/Datadictionary/Attributes/Decomposes.html)
+- [Lat](https://fmdatahub.github.io/Datadictionary/Attributes/Lat.html)
+- [Lng](https://fmdatahub.github.io/Datadictionary/Attributes/Lng.html)
+- [Polygon](https://fmdatahub.github.io/Datadictionary/Attributes/Polygon.html)
+- [BFENummer](https://fmdatahub.github.io/Datadictionary/Attributes/BFENummer.html)
 
 ## Grupper af egenskaber
 
+### Propertysets
+
 - [BuildingCommon](../../../PropertySets/BuildingCommon.md)
+- [CCI_Administrative](../../GroupsOfProperties/CCI_Administrative.md)
+
+### Quantitysets
+
 - [BuildingBaseQuantities](../../../QuantitySets/BuildingBaseQuantities.md)
-- [CCI](../../../PropertySets/CCI.md)
 
 ## Dokumenter
 
-- Energimærke
+- [Energimærkning](../../Documents/Energimaerkning.md)
+
+## Mapping
+
+| System | GUID                                 |
+| ------ | ------------------------------------ |
+| KEID   | 25507954-99ba-494b-a079-2d86d4554501 |
 
 ## JSON fra API
 
@@ -63,8 +64,7 @@
   "Attributes": [],
   "GroupsOfProperties": [],
   "Documents": [],
+  "Mapping": "",
   "URI: "",
 }
 ```
-
-

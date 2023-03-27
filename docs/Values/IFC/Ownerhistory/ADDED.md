@@ -1,23 +1,17 @@
 # ADDED
 
-#### DK
+## Beskrivelse
 
-> TILFØJET
+?
 
-# Description
+## Mapping
 
-<details open markdown=1><summary markdown="span">Show descriptions</summary>
+### Guids
 
-#### ENG
+| System | GUID |
+| ------ | ---- |
+| KEID   | ?    |
 
-> The object has been created by the user and application defined by the OwningUser and OwningApplication respectively.
+### IFC
 
-#### DK
-
-> ?
-
-</details>
-
-## Help us stay updated
-
-[Edit](https://github.com/FMDatahub/DataDictionary/tree/main/Enumerations/IFC/ChangeActionEnum.md)
+None

@@ -1,23 +1,17 @@
 # NOCHANGE
 
-#### DK
+## Beskrivelse
 
-> INGEN ÆNDRINGER
+?
 
-# Description
+## Mapping
 
-<details open markdown=1><summary markdown="span">Show descriptions</summary>
+### Guids
 
-#### ENG
+| System | GUID |
+| ------ | ---- |
+| KEID   | ?    |
 
-> Object has not been modified.
+### IFC
 
-#### DK
-
-> ?
-
-</details>
-
-## Help us stay updated
-
-[Edit](https://github.com/FMDatahub/DataDictionary/tree/main/Enumerations/IFC/ChangeActionEnum.md)
+None

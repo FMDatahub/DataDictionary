@@ -1,23 +1,17 @@
 # MODIFIED
 
-#### DK
+## Beskrivelse
 
-> Æ^NDRET
+?
 
-# Description
+## Mapping
 
-<details open markdown=1><summary markdown="span">Show descriptions</summary>
+### Guids
 
-#### ENG
+| System | GUID |
+| ------ | ---- |
+| KEID   | ?    |
 
-> A modification to the object has been made by the user and application defined by the LastModifyingUser and LastModifyingApplication respectively.
+### IFC
 
-#### DK
-
-> ?
-
-</details>
-
-## Help us stay updated
-
-[Edit](https://github.com/FMDatahub/DataDictionary/tree/main/Enumerations/IFC/ChangeActionEnum.md)
+None
