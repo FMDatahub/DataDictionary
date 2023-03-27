@@ -1,4 +1,4 @@
-# Plantegning
+# BIM model
 
 ## Beskrivelse
 

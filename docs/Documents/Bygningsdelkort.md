@@ -1,4 +1,4 @@
-# Plantegning
+# Bygningsdelkort
 
 ## Beskrivelse
 

@@ -1,4 +1,4 @@
-# Plantegning
+# Oversigt over gulvflader
 
 ## Beskrivelse
 

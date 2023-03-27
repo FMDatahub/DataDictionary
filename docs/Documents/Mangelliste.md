@@ -1,4 +1,4 @@
-# Plantegning
+# Mangelliste
 
 ## Beskrivelse
 

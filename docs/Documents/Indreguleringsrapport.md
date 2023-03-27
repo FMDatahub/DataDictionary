@@ -1,4 +1,4 @@
-# Plantegning
+# Indreguleringsrapport
 
 ## Beskrivelse
 

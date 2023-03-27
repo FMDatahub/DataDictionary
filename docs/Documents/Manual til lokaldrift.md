@@ -1,4 +1,4 @@
-# Plantegning
+# Manual til lokaldrift
 
 ## Beskrivelse
 

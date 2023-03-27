@@ -1,4 +1,4 @@
-# Plantegning
+# Blower Door test
 
 ## Beskrivelse
 
