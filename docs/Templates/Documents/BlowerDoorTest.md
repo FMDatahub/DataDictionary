@@ -1,4 +1,4 @@
-# Blower Door test
+# Blower door test
 
 ## Beskrivelse
 
