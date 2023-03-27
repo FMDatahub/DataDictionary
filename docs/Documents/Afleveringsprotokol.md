@@ -2,6 +2,10 @@
 
 ## Beskrivelse
 
+## Attributer
+
+## Egenskabssæt
+
 ## Forventet placering
 
 ?
