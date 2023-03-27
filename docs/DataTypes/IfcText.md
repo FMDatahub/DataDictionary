@@ -1,4 +1,4 @@
-# IfcText
+# Strengværdi
 
 ## Description
 

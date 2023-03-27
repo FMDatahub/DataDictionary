@@ -1,12 +1,10 @@
 # BuildingBaseQuantities
 
-#### DK
+## DK
 
 > Bygningsbasismængder
 
-# Description
-
-<details open markdown=1><summary markdown="span">Show descriptions</summary>
+## Description
 
 #### ENG
 
@@ -16,12 +14,7 @@
 
 > ?
 
-</details>
-
-# Properties
-
-<details open markdown=1><summary markdown="span">Show properties</summary>
-<br>
+## Properties
 
 - [Height](../Properties/Form/Height.md)
 - EavesHeight
@@ -30,9 +23,3 @@
 - NetFloorArea
 - GrossVolume
 - NetVolume
-
-</details>
-
-## Help us stay updated
-
-> [Edit](https://github.com/FMDatahub/DataDictionary/blob/main/Classes/Product/SpatialElement/Building.md)

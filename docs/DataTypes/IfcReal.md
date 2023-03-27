@@ -1,0 +1,1 @@
+# Flydende-komma talværdi

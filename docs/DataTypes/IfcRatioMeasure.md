@@ -1,0 +1,1 @@
+# Forholdsværdi
