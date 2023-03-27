@@ -1,4 +1,4 @@
-# Overdragelse til Ejendomsadminstation
+# Overdragelse til EA
 
 ## Beskrivelse
 
