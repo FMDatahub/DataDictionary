@@ -1,0 +1,1 @@
+# Nedbrydning og bortskaffelse
