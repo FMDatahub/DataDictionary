@@ -5,6 +5,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 .nuxt/
+.temp
 
 # C extensions
 *.so
