@@ -1,1 +1,0 @@
-# Trukket tilbage/udgået
