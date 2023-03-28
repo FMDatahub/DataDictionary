@@ -23,8 +23,6 @@ jobs:
           cache: npm
           cache-dependency-path: package-lock.json
       - run: npm install --frozen-lockfile
-        env:
-          NODE_OPTIONS: --max-old-space-size=4096
       - name: Build
         run: npm run docs:build
       - uses: actions/configure-pages@v2
