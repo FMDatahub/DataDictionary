@@ -1,3 +1,23 @@
 # CompositionType
 
-[Rediger](https://github.com/FMDatahub/DataDictionary/tree/main/Properties/Administratively/CompositionType.md)
+## Beskrivelse
+
+## Værdiliste
+
+None
+
+## DataType
+
+[IfcText](../DataTypes/IfcText.md)
+
+## JSON fra API
+
+```json
+{
+  "Name": "",
+  "Description": "",
+  "DataType": "",
+  "ValueList": "",
+  "URI": ""
+}
+```

@@ -1,10 +1,6 @@
-# Decomposes
+# Forholdsværdi
 
 ## Beskrivelse
-
-## Værdiliste
-
-None
 
 ## DataType
 
@@ -12,12 +8,13 @@ None
 
 ## JSON fra API
 
+[API Link](http://vna-api-dev.azurewebsites.net/DataDictionary/getSpatialTemplate?Name=Building)
+
 ```json
 {
   "Name": "",
   "Description": "",
   "DataType": "",
-  "ValueList": "",
   "URI": ""
 }
 ```

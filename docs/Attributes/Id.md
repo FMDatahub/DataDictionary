@@ -1,17 +1,23 @@
 # Id
 
-### Definition:
+## Beskrivelse
 
-Wooop wooaps
+## Værdiliste
 
-### Beskrivelse:
+None
 
-Wooop wooaps
+## DataType
 
-### Domain
+[IfcText](../DataTypes/IfcText.md)
 
-KEID
+## JSON fra API
 
-### Type
-
-Wooop wooaps
+```json
+{
+  "Name": "",
+  "Description": "",
+  "DataType": "",
+  "ValueList": "",
+  "URI": ""
+}
+```
