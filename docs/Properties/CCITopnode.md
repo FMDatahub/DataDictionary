@@ -35,14 +35,6 @@ String
 
 Single
 
-## Mapping
-
-### Guids
-
-| System | GUID                                 |
-| ------ | ------------------------------------ |
-| KEID   | dfeeb41b-2585-4450-9ac8-4ffd7ae0bcd6 |
-
 ### IFC
 
 None
@@ -56,7 +48,6 @@ None
   "Name": "",
   "Category": "",
   "Description": "",
-  "Mapping": "",
   "URI: "",
 }
 ```
