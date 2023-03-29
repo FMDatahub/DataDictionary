@@ -2,4 +2,19 @@
 
 ## Beskrivelse
 
-Woopas
+?
+
+## Egenskaber
+
+?
+
+## JSON fra API
+
+```json
+{
+  "Name": "",
+  "Description": "",
+  "Properties": [],
+  "URI: "",
+}
+```

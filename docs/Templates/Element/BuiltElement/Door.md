@@ -2,7 +2,7 @@
 
 ## Beskrivelse
 
-?
+En dør er en åbning i en væg, der tillader passage mellem rum eller inde og ude. Den kan åbnes og lukkes ved hjælp af et håndtag eller en knop og er ofte lavet af materialer som træ, metal eller glas.
 
 ## Domain
 

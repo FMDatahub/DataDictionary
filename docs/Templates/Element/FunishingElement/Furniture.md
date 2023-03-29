@@ -1,8 +1,8 @@
-# Trappe
+# Inventar
 
 ## Beskrivelse
 
-En trappe er en konstruktion af trin eller trappetrin, der forbinder to eller flere etager i en bygning eller på en skråning. Den er designet til at gøre det nemmere for mennesker at bevæge sig op og ned mellem forskellige niveauer og kan være lavet af forskellige materialer som træ, metal, beton eller sten.
+Inventar refererer til genstande og udstyr, der er fastgjort eller indbygget i en bygning og ikke let kan fjernes. Disse genstande er en integreret del af bygningen og bruges til at gøre den funktionel og beboelig. Eksempler på inventar inkluderer belysningsarmaturer, radiatorer, indbyggede skabe, faste hylder og køkken- eller badeværelsesinstallationer som håndvaske, toiletter og brusere.
 
 ## Domain
 
