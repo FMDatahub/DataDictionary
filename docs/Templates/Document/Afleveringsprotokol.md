@@ -16,38 +16,35 @@ En afleveringsprotokol er et dokument, der viser, at et byggeprojekt er færdigt
 
 Egenskabssæt som tilsvare joined tabeller, hvad skal der til at opbygge dokumentet?
 
-### AI
+AI: Hvad vil vi undersøge i dokumentet? Sit eget sæt?
 
-Hvad vil vi undersøge i dokumentet?
+## Predefineret værdier
+
+Bruges til at kunne generer mappestrukturen
+
+### Fagområder
+
+Link til værdi ?
+
+### Vidensområder
+
+Link til værdi ?
+
+### Proces type
+
+Link til værdi ?
+
+### Dokument form
+
+Link til værdi ?
+
+### Dokument indhold
+
+Link til værdi ?
 
 ## Filtype
 
 - [PDF](../../FileExtensions/PDF.md)
-- Hvordan kravstiller vi orginal fil?
-
-## Predefineret metadata
-
-Bruges til at kunne generer mappestrukturen
-
-### Discipline
-
-? Ikke så nemt at udfylde
-
-### Knowledge
-
-? Ikke så nemt at udfylde
-
-### ProcessType
-
-? Ikke så nemt at udfylde
-
-### DocumentForm
-
-? Ikke så nemt at udfylde
-
-### DocumentContent
-
-? Ikke så nemt at udfylde
 
 ## JSON fra API
 
@@ -57,7 +54,7 @@ Bruges til at kunne generer mappestrukturen
   "Description": "",
   "Attributes": [],
   "GroupsOfProperties": [],
-  "Documents": [],
+  "PredefinedValues": [],
   "URI: "",
 }
 ```
