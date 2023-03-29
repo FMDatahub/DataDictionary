@@ -1,27 +1,5 @@
 # Length
 
-#### DK
+## Beskrivelse
 
-> Længde
-
-# Description
-
-<details open markdown=1><summary markdown="span">Show descriptions</summary>
-
-#### ENG
-
-> ?
-
-#### DK
-
-> ?
-
-</details>
-
-### Enum
-
-None
-
-## Help us stay updated
-
-[Edit](https://github.com/FMDatahub/DataDictionary/tree/main/Quantities/Length.md)
+"Length" henviser i programmering til en funktion eller en egenskab, der bruges til at bestemme størrelsen af en samling, en liste, en streng eller en anden sekvens af elementer. Længden af en sekvens er normalt målt i antallet af elementer eller tegn i sekvensen.

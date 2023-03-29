@@ -1,27 +1,5 @@
 # Weigth
 
-#### DK
+## Beskrivelse
 
-> Vægt
-
-# Description
-
-<details open markdown=1><summary markdown="span">Show descriptions</summary>
-
-#### ENG
-
-> ?
-
-#### DK
-
-> ?
-
-</details>
-
-### Enum
-
-None
-
-## Help us stay updated
-
-[Edit](https://github.com/FMDatahub/DataDictionary/tree/main/Quantities/Weigth.md)
+"Weight" henviser til den kraft, der virker på et objekt som følge af tyngdekraften. Det er normalt målt i kilogram og repræsenterer mængden af materiale, som er indeholdt i objektet.

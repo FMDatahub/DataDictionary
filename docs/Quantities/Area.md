@@ -1,27 +1,5 @@
 # Area
 
-#### DK
+## Beskrivelse
 
-> Areal
-
-# Description
-
-<details open markdown=1><summary markdown="span">Show descriptions</summary>
-
-#### ENG
-
-> ?
-
-#### DK
-
-> ?
-
-</details>
-
-### Enum
-
-None
-
-## Help us stay updated
-
-[Edit](https://github.com/FMDatahub/DataDictionary/tree/main/Quantities/Area.md)
+"Area" henviser til den rumlige udstrækning af en todimensionel flade, såsom en figur eller et område på en flade. Det er normalt målt i kvadratmeter eller kvadratcentimeter, afhængigt af konteksten og den anvendte måleenhed.

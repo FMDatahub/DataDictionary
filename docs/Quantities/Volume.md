@@ -1,27 +1,5 @@
 # Volume
 
-#### DK
+## Beskrivelse
 
-> Volume
-
-# Description
-
-<details open markdown=1><summary markdown="span">Show descriptions</summary>
-
-#### ENG
-
-> ?
-
-#### DK
-
-> ?
-
-</details>
-
-### Enum
-
-None
-
-## Help us stay updated
-
-[Edit](https://github.com/FMDatahub/DataDictionary/tree/main/Quantities/Volume.md)
+"Volume" henviser til den rumlige udstrækning af et tredimensionelt objekt eller en struktur. Det er normalt målt i kubikmeter eller kubikcentimeter, afhængigt af konteksten og den anvendte måleenhed.

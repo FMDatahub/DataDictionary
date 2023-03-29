@@ -1,27 +1,5 @@
 # Time
 
-#### DK
+## Beskrivelse
 
-> Tid
-
-# Description
-
-<details open markdown=1><summary markdown="span">Show descriptions</summary>
-
-#### ENG
-
-> ?
-
-#### DK
-
-> ?
-
-</details>
-
-### Enum
-
-None
-
-## Help us stay updated
-
-[Edit](https://github.com/FMDatahub/DataDictionary/tree/main/Quantities/Time.md)
+"Time" henviser til den måling af, hvor lang tid der er gået fra et bestemt tidspunkt eller et tidsinterval. Det kan defineres som den måling af tidsintervallet mellem to hændelser eller tidsperioder.
