@@ -8,7 +8,7 @@ En væg er en lodret struktur, der adskiller og støtter rum i en bygning. Vægg
 
 IFC
 
-# Parent classification
+## Parent classification
 
 BuiltElement
 

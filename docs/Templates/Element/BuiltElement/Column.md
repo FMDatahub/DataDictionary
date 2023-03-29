@@ -8,7 +8,7 @@ En lodret strukturel komponent, der ofte er cylindrisk i form og fungerer som st
 
 IFC
 
-# Parent classification
+## Parent classification
 
 BuiltElement
 

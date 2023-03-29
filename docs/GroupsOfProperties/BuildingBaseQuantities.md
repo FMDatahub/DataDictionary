@@ -2,7 +2,7 @@
 
 ## Beskrivelse
 
-Base quantities that are common to the definition of all occurrences of building.
+BuildingBaseQuantities indeholder kvantitative oplysninger om forskellige bygningskomponenter og bygningens overordnede egenskaber.
 
 ## Egenskaber
 
