@@ -6,7 +6,7 @@ Nødvendigheder for Datahub
 
 ## Domain
 
-KEID
+Database
 
 ## Attributer
 
