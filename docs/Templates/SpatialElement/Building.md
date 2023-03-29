@@ -47,15 +47,7 @@
 
 - [Energimærkning](../../Documents/Energimaerkning.md)
 
-## Mapping
-
-| System | GUID                                 |
-| ------ | ------------------------------------ |
-| KEID   | 25507954-99ba-494b-a079-2d86d4554501 |
-
 ## JSON fra API
-
-[API Link](http://vna-api-dev.azurewebsites.net/DataDictionary/getSpatialTemplate?Name=Building)
 
 ```json
 {
@@ -64,7 +56,6 @@
   "Attributes": [],
   "GroupsOfProperties": [],
   "Documents": [],
-  "Mapping": "",
   "URI: "",
 }
 ```
