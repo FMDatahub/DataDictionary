@@ -24,3 +24,42 @@ Hvad vil vi undersøge i dokumentet?
 
 - [PDF](../../FileExtensions/PDF.md)
 - Hvordan kravstiller vi orginal fil?
+
+## Predefineret metadata
+
+### Stage
+
+? Ikke så nemt at udfylde
+
+### Discipline
+
+? Ikke så nemt at udfylde
+
+### Knowledge
+
+? Ikke så nemt at udfylde
+
+### ProcessType
+
+? Ikke så nemt at udfylde
+
+### DocumentForm
+
+? Ikke så nemt at udfylde
+
+### DocumentContent
+
+? Ikke så nemt at udfylde
+
+## JSON fra API
+
+```json
+{
+  "Name": "",
+  "Description": "",
+  "Attributes": [],
+  "GroupsOfProperties": [],
+  "Documents": [],
+  "URI: "",
+}
+```
