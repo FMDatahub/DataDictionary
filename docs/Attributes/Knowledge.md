@@ -1,12 +1,12 @@
-# ChangeAction
+# Knowledge
 
 ## Beskrivelse
 
-Hjælper med at spore ændringer foretaget på objekter inden for modellen, og dermed muliggøre bedre samarbejde og koordination mellem interessenter.
+?
 
 ## Værdiliste
 
-- [ChangeAction](../Values/IFC/ChangeAction/)
+[Knowledge](../Values/A104/Knowledge)
 
 ## DataType
 
