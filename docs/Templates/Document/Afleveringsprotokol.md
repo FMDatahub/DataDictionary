@@ -10,6 +10,7 @@ En afleveringsprotokol er et dokument, der viser, at et byggeprojekt er færdigt
 - [IfcRoot](../../GroupsOfAttributes/IfcRoot.md)
 - [IfcOwnerHistory](../../GroupsOfAttributes/IfcOwnerHistory.md)
 - [lIfcDocumentInformationabel](../../GroupsOfAttributes/IfcDocumentInformation.md)
+- [A104](../../GroupsOfAttributes/A104.md)
 
 ## Egenskabssæt
 

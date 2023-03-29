@@ -4,7 +4,11 @@
 
 ?
 
-## Attributes
+## Domain
+
+IFC
+
+## Attributer
 
 - [Version](../../Attributes/Version.html)
 - [State](../../Attributes/State.html)
@@ -18,22 +22,14 @@
 - [IdInOwningApplication](../../Attributes/IdInOwningApplication.html)
 - [LastModifyingApplication](../../Attributes/LastModifyingApplication.html)
 
-## Mapping
-
-| System | GUID |
-| ------ | ---- |
-| KEID   |      |
-
 ## JSON fra API
-
-[API Link](http://vna-api-dev.azurewebsites.net/DataDictionary/getSpatialTemplate?Name=Building)
 
 ```json
 {
   "Name": "",
   "Description": "",
+  "Domain": "",
   "Attributes": [],
-  "Mapping": "",
   "URI: "",
 }
 ```

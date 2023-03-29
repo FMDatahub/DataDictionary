@@ -8,29 +8,21 @@ En grundlæggende klasse i IFC-standarden
 
 IFC
 
-## Attributes
+## Attributer
 
 - [GlobalId](../Attributes/GlobalId.md)
 - [ChangeAction](../Attributes/ChangeAction.md)
 - [Name](../Attributes/Name.md)
 - [Description](../Attributes/Description.md)
 
-## Mapping
-
-| System | GUID |
-| ------ | ---- |
-| KEID   |      |
-
 ## JSON fra API
-
-[API Link](http://vna-api-dev.azurewebsites.net/DataDictionary/getSpatialTemplate?Name=Building)
 
 ```json
 {
   "Name": "",
   "Description": "",
+  "Domain": "",
   "Attributes": [],
-  "Mapping": "",
   "URI: "",
 }
 ```

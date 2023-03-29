@@ -1,14 +1,14 @@
-# IfcElement
+# IfcDocumentInformation
 
 ## Beskrivelse
 
 ?
 
-# Domain
+## Domain
 
 IFC
 
-## Attributes
+## Attributer
 
 - [Identification](../../Attributes/Identification.html)
 - [Location](../../Attributes/Location.html)
@@ -24,29 +24,15 @@ IFC
 - [ValidFrom](../../Attributes/ValidFrom.html)
 - [ValidUntil](../../Attributes/ValidUntil.html)
 - [Confidentiallity](../../Attributes/Confidentiallity.html)
-- [Stage](../../Attributes/Stage.html)
-- [Discipline](../../Attributes/Discipline.html)
-- [Knowledge](../../Attributes/Knowledge.html)
-- [ProcessType](../../Attributes/ProcessType.html)
-- [DocumentForm](../../Attributes/DocumentForm.html)
-- [DocumentContent](../../Attributes/DocumentContent.html)
-
-## Mapping
-
-| System | GUID |
-| ------ | ---- |
-| KEID   |      |
 
 ## JSON fra API
-
-[API Link](http://vna-api-dev.azurewebsites.net/DataDictionary/getSpatialTemplate?Name=Building)
 
 ```json
 {
   "Name": "",
   "Description": "",
+  "Domain": "",
   "Attributes": [],
-  "Mapping": "",
   "URI: "",
 }
 ```

@@ -1,4 +1,4 @@
-# Datahub
+# Base
 
 ## Beskrivelse
 
@@ -8,7 +8,7 @@ Nødvendigheder for Datahub
 
 KEID
 
-## Attributes
+## Attributer
 
 - [Id](../Attributes/Id.md)
 - [ParentContext](../Attributes/ParentContext.md)
@@ -17,22 +17,14 @@ KEID
 - [Longitude](../Attributes/Longitude.md)
 - [Polygon](../Attributes/Polygon.md)
 
-## Mapping
-
-| System | GUID |
-| ------ | ---- |
-| KEID   |      |
-
 ## JSON fra API
-
-[API Link](http://vna-api-dev.azurewebsites.net/DataDictionary/getSpatialTemplate?Name=Building)
 
 ```json
 {
   "Name": "",
   "Description": "",
+  "Domain": "",
   "Attributes": [],
-  "Mapping": "",
   "URI: "",
 }
 ```
