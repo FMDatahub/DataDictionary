@@ -42,7 +42,7 @@ Link til værdi ?
 
 Link til værdi ?
 
-## Filtype
+### Filtype
 
 - [PDF](../../FileExtensions/PDF.md)
 
