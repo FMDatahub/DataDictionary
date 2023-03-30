@@ -4,6 +4,8 @@
 
 En skabelon, der beskriver, hvordan data skal struktureres og præsenteres inden for bygge- og anlægsbranchen. En datatemplate inkluderer specifikke datafelter og attributter, der er nødvendige for at beskrive et produkt eller en bygningsdel korrekt og i overensstemmelse med gældende standarder og regulativer. Det gør det muligt for branchens aktører at udveksle og arbejde med data på en ensartet og standardiseret måde.
 
+## Endpoint
+
 ## JSON
 
 ```json
