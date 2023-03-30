@@ -46,29 +46,3 @@
 ## Dokumenter
 
 - [Energimærkning](../../Documents/Energimaerkning.md)
-
-## JSON
-
-```json
-{
-  "Id": "",
-  "NameDK": "",
-  "DefDK": "",
-  "ValCode": "",
-  "IFDGUID": "",
-  "IFCName": "",
-  "IFCDef": "",
-  "IFCDataType": "",
-  "IFCParentClassification": "",
-  "Domain": "",
-  "DomainVersion": "",
-  "Owner": "",
-  "DataType": "",
-  "URI": "",
-  "LOI": "",
-  "Attributesets": "",
-  "Propertysets": [],
-  "Documents": [],
-  "PredefinedValues": [{"key:value"}],
-}
-```
