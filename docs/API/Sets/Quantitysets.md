@@ -2,6 +2,8 @@
 
 ## Beskrivelse
 
+En gruppe af quantities
+
 ## JSON
 
 ```json
