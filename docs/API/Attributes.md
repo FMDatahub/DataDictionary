@@ -1,6 +1,8 @@
-# Attributes
+# Attributer
 
 ## Beskrivelse
+
+Er knyttet til en bestemt klasse, objekt eller datastruktur. Attributter bruges til at lagre og manipulere data og repræsenterer forskellige aspekter af det element, de er knyttet til.
 
 ## JSON
 

@@ -1,6 +1,8 @@
-# ValueLists
+# Værdilister
 
 ## Beskrivelse
+
+Prædefineret liste over mulige værdier for en bestemt egenskab. Værdilister bruges til at begrænse de tilladte værdier for en egenskab og sikre, at dataene forbliver konsistente og standardiserede på tværs af systemet.
 
 ## JSON
 

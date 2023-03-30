@@ -1,6 +1,8 @@
-# Properties
+# Egenskaber
 
 ## Beskrivelse
+
+Et træk eller en karakteristik ved et produkt, materiale eller bygningsdel. Egenskaber hjælper med at beskrive og adskille produkter fra hinanden og giver vigtige oplysninger om deres specifikationer og funktioner.
 
 ## JSON
 

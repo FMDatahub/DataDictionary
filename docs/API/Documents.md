@@ -1,6 +1,8 @@
-# Documents
+# Dokumenter
 
 ## Beskrivelse
+
+Typisk til en fil eller et sæt af oplysninger, der beskriver et produkt, en bygningsdel, en proces eller et aspekt af et byggeprojekt. Dokumenter kan omfatte tekniske specifikationer, produktdata, CAD-tegninger, BIM-modeller (Building Information Modeling), arbejdsinstruktioner, sikkerhedsdokumentation, kvalitetsrapporter og kontrakter, blandt andre.
 
 ## JSON
 

@@ -1,6 +1,8 @@
-# Quantities
+# Mængder
 
 ## Beskrivelse
+
+Numeriske værdier, der angiver et bestemt antal, volumen, længde eller vægt af et produkt, materiale eller en bygningsdel i bygge- og anlægsbranchen. Mængder er vigtige for at kunne planlægge og estimere ressourceforbrug, omkostninger og arbejdstimer i et byggeprojekt.
 
 ## JSON
 

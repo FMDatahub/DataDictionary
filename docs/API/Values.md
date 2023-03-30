@@ -1,6 +1,8 @@
-# Values
+# Værdier
 
 ## Beskrivelse
+
+Specifikke data, der er knyttet til en egenskab, attribut eller variabel. Værdier kan være numeriske, tekstbaserede, booleanske (sand/falsk) eller andre dataformer. I bygge- og anlægsbranchen er værdier de faktiske oplysninger, der beskriver en egenskab eller karakteristik ved et produkt, materiale eller en bygningsdel.
 
 ## JSON
 
