@@ -47,15 +47,28 @@
 
 - [Energimærkning](../../Documents/Energimaerkning.md)
 
-## JSON fra API
+## JSON
 
 ```json
 {
-  "Name": "",
-  "Description": "",
-  "Attributes": [],
-  "GroupsOfProperties": [],
+  "Id": "",
+  "NameDK": "",
+  "DefDK": "",
+  "ValCode": "",
+  "IFDGUID": "",
+  "IFCName": "",
+  "IFCDef": "",
+  "IFCDataType": "",
+  "IFCParentClassification": "",
+  "Domain": "",
+  "DomainVersion": "",
+  "Owner": "",
+  "DataType": "",
+  "URI": "",
+  "LOI": "",
+  "Attributesets": "",
+  "Propertysets": [],
   "Documents": [],
-  "URI: "",
+  "PredefinedValues": [{"key:value"}],
 }
 ```

@@ -21,14 +21,28 @@ BuiltElement
 - [IfcProduct](../../../GroupsOfAttributes/IfcProduct.md)
 - [IfcElement](../../GroupsOfAttributes/IfcElement.md)
 
-## JSON fra API
+## JSON
 
 ```json
 {
-  "Name": "",
-  "Description": "",
+  "Id": "",
+  "NameDK": "",
+  "DefDK": "",
+  "ValCode": "",
+  "IFDGUID": "",
+  "IFCName": "",
+  "IFCDef": "",
+  "IFCDataType": "",
+  "IFCParentClassification": "",
   "Domain": "",
-  "AttributeSets": [],
-  "URI: "",
+  "DomainVersion": "",
+  "Owner": "",
+  "DataType": "",
+  "URI": "",
+  "LOI": "",
+  "Attributesets": "",
+  "Propertysets": [],
+  "Documents": [],
+  "PredefinedValues": [{"key:value"}],
 }
 ```
