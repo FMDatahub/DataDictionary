@@ -30,17 +30,15 @@ export default {
       collapsed: true,
 
       sortByFileName: [
-        "Guide",
-        "Purposes",
-        "Templates",
-        "Attributes",
+        "DataTemplates",
         "GroupsOfProperties",
+        "Attributes",
         "Properties",
-        "Values",
-        "Documents",
         "Quantities",
-        "DataTypes",
+        "ValueLists",
+        "Documents",
         "Tasks",
+        "API",
       ],
       withIndex: false,
       // includeEmptyGroup: false
