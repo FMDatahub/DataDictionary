@@ -7,14 +7,3 @@ WindowBaseQuantities indeholder kvantitative oplysninger om vinduer og deres ege
 ## Egenskaber
 
 ?
-
-## JSON fra API
-
-```json
-{
-  "Name": "",
-  "Description": "",
-  "Properties": [],
-  "URI: "",
-}
-```

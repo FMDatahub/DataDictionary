@@ -7,14 +7,3 @@ Almindelige oplysninger om en bygning, såsom dens placering, funktion og ejersk
 ## Egenskaber
 
 ?
-
-## JSON fra API
-
-```json
-{
-  "Name": "",
-  "Description": "",
-  "Properties": [],
-  "URI: "",
-}
-```

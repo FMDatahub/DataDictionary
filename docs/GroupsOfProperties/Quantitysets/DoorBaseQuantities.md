@@ -7,14 +7,3 @@ DoorBaseQuantities indeholder kvantitative oplysninger om døre og deres egenska
 ## Egenskaber
 
 ?
-
-## JSON fra API
-
-```json
-{
-  "Name": "",
-  "Description": "",
-  "Properties": [],
-  "URI: "",
-}
-```
