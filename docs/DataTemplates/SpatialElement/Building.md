@@ -2,37 +2,18 @@
 
 ## Beskrivelse
 
-> En bygning repræsenterer en struktur, der giver ly til sine beboere eller indhold og står ét sted. Bygningen bruges også til at give et grundlæggende element inden for det rumlige strukturhierarkiet for komponenterne i et byggeprojekt (sammen med grund, etage og rum).
+En bygning repræsenterer en struktur, der giver ly til sine beboere eller indhold og står ét sted. Bygningen bruges også til at give et grundlæggende element inden for det rumlige strukturhierarkiet for komponenterne i et byggeprojekt (sammen med grund, etage og rum).
 
-## Attributer
+## Groups of properties
 
-- [Id](https://fmdatahub.github.io/Datadictionary/Attributes/Id.html)
-- [ParentContext](https://fmdatahub.github.io/Datadictionary/Attributes/ParentContext.html)
-- [ParentProject](https://fmdatahub.github.io/Datadictionary/Attributes/ParentProject.html)
-- [Type](https://fmdatahub.github.io/Datadictionary/Attributes/Type.html)
-- [Name](https://fmdatahub.github.io/Datadictionary/Attributes/Name.html)
-- [LongName](https://fmdatahub.github.io/Datadictionary/Attributes/LongName.html)
-- [Description](https://fmdatahub.github.io/Datadictionary/Attributes/Description.html)
-- [Version](https://fmdatahub.github.io/Datadictionary/Attributes/Version.html)
-- [State](https://fmdatahub.github.io/Datadictionary/Attributes/State.html)
-- [IsActive](https://fmdatahub.github.io/Datadictionary/Attributes/IsActive.html)
-- [CreationDate](https://fmdatahub.github.io/Datadictionary/Attributes/CreationDate.html)
-- [OwningUser](https://fmdatahub.github.io/Datadictionary/Attributes/OwningUser.html)
-- [OwningApplication](https://fmdatahub.github.io/Datadictionary/Attributes/OwningApplication.html)
-- [ChangeAction](https://fmdatahub.github.io/Datadictionary/Attributes/ChangeAction.html)
-- [LastModifiedDate](https://fmdatahub.github.io/Datadictionary/Attributes/LastModifiedDate.html)
-- [LastModifyingUser](https://fmdatahub.github.io/Datadictionary/Attributes/LastModifyingUser.html)
-- [IdInOwningApplication](https://fmdatahub.github.io/Datadictionary/Attributes/IdInOwningApplication.html)
-- [LastModifyingApplication](https://fmdatahub.github.io/Datadictionary/Attributes/LastModifyingApplication.html)
-- [SameAs](https://fmdatahub.github.io/Datadictionary/Attributes/SameAs.html)
-- [IsDecomposedBy](https://fmdatahub.github.io/Datadictionary/Attributes/IsDecomposedBy.html)
-- [Decomposes](https://fmdatahub.github.io/Datadictionary/Attributes/Decomposes.html)
-- [Lat](https://fmdatahub.github.io/Datadictionary/Attributes/Lat.html)
-- [Lng](https://fmdatahub.github.io/Datadictionary/Attributes/Lng.html)
-- [Polygon](https://fmdatahub.github.io/Datadictionary/Attributes/Polygon.html)
-- [BFENummer](https://fmdatahub.github.io/Datadictionary/Attributes/BFENummer.html)
+### Attributesets
 
-## Grupper af egenskaber
+- [Base](../../../GroupsOfAttributes/Base.md)
+- [IfcRoot](../../../GroupsOfAttributes/IfcRoot.md)
+- [IfcObjectDefinition](../../../GroupsOfAttributes/IfcObjectDefinition.md)
+- [IfcObject](../../../GroupsOfAttributes/IfcObject.md)
+- [IfcProduct](../../../GroupsOfAttributes/IfcProduct.md)
+- [IfcSpatialElement](../../Sets/Attributesets/IfcSpatialElement.md)
 
 ### Propertysets
 
@@ -46,3 +27,19 @@
 ## Dokumenter
 
 - [Energimærkning](../../Documents/Energimaerkning.md)
+
+## Dataordbogs værdier
+
+| Column                                                                 | Value |
+| ---------------------------------------------------------------------- | ----- |
+| [ValCode](../../Attributes/ValCode.md)                                 |       |
+| [Domain](../../Attributes/Domain.md)                                   |       |
+| [DomainVersion](../../Attributes/DomainVersion.md)                     |       |
+| [Owner](../../Attributes/Owner.md)                                     | KEID  |
+| [DataType](../../Attributes/DataType.md)                               |       |
+| [LOI](../../Attributes/LOI.md)                                         |       |
+| [Purposes](../../Attributes/LOI.md)                                    |       |
+| [IFDGuid](../../Attributes/IFDGuid.md)                                 |       |
+| [IFCDef](../../Attributes/IFCDef.md)                                   |       |
+| [IFCDataType](../../Attributes/IFCDataType.md)                         |       |
+| [IFCParentClassification](../../Attributes/IFCParentClassification.md) |       |

@@ -1,5 +1,7 @@
 # Rumligt element
 
+## Beskrivelse
+
 ## Det her er også ejendomsstrukturen
 
 - [Grund](Site.md)

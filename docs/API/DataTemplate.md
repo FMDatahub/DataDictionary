@@ -15,7 +15,7 @@ En skabelon, der beskriver, hvordan data skal struktureres og præsenteres inden
   "NameDK": "", // Dansk navn
   "DefDK": "", // Defination på dansk
   "ValCode": "", // Kort form af navnet
-  "IFDGUID": "", // GUID i BSDD
+  "IFDGuid": "", // GUID i BSDD
   "IFCName": "", // Navn ifølge IFC
   "IFCDef": "", // Defination ifølge IFC
   "IFCDataType": "", // Datatype ifølge IFC
@@ -26,6 +26,7 @@ En skabelon, der beskriver, hvordan data skal struktureres og præsenteres inden
   "DataType": "", // Data type
   "URI": "", // Link til dette json objekt
   "LOI": "", // I hvilke LOI er dette objekt relevant?
+  "Purposes": "", // I hvilke formål er dette objekt relevant?
   "Attributesets": "", // Tilknyttet attributesets
   "Propertysets": [], // Tilknyttet propertysets
   "Documents": [], // Tilknyttet dokumenter
