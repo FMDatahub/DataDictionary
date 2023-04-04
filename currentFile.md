@@ -20,7 +20,7 @@ En bygning repræsenterer en struktur, der giver ly til sine beboere eller indho
 | [IFCDataType](../../Attributes/IFCDataType.md)                         |       |
 | [IFCParentClassification](../../Attributes/IFCParentClassification.md) |       |
 
-## Sets
+## GroupsOfProperties
 
 ### Attributesets
 

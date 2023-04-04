@@ -31,9 +31,11 @@ export default {
 
       sortByFileName: [
         "DataTemplates",
-        "GroupsOfProperties",
+        "Attributesets",
         "Attributes",
+        "Propertysets",
         "Properties",
+        "Quantitysets",
         "Quantities",
         "ValueLists",
         "Documents",

@@ -1,2 +1,0 @@
-
-# Skal køre ved commit
