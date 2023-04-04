@@ -1,4 +1,4 @@
-# Weigth
+# Vægt
 
 ## Beskrivelse
 

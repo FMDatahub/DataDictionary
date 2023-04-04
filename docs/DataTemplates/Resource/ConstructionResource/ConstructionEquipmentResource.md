@@ -1,1 +1,1 @@
-# ConstructionEquipmentResource
+# Byggeudstyrsressource

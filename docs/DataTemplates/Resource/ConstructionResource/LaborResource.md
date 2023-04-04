@@ -1,1 +1,1 @@
-# LaborResource
+# Arbejdsressource

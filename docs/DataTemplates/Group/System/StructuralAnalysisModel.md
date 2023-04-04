@@ -1,1 +1,1 @@
-# StructuralAnalysisModel
+# Strukturel analysemodel

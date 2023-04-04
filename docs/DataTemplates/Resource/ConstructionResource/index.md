@@ -1,1 +1,1 @@
-# ConstructionResource
+# Byggeri ressource

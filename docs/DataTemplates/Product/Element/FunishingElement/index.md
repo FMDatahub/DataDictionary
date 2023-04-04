@@ -1,1 +1,1 @@
-# FunishingElement
+# Indretningselement

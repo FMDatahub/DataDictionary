@@ -1,1 +1,1 @@
-# ConstructionProductResource
+# Byggeproduktressource

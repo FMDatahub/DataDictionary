@@ -1,4 +1,4 @@
-# Time
+# Tid
 
 ## Beskrivelse
 

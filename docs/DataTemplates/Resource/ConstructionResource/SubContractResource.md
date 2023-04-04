@@ -1,1 +1,1 @@
-# SubContractResource
+# Underkontraktressource

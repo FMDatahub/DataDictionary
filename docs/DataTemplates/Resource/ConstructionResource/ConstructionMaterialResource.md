@@ -1,1 +1,1 @@
-# ConstructionMaterialResource
+# Byggemateriale ressource
