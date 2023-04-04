@@ -4,7 +4,7 @@
 
 En bygning repræsenterer en struktur, der giver ly til sine beboere eller indhold og står ét sted. Bygningen bruges også til at give et grundlæggende element inden for det rumlige strukturhierarkiet for komponenterne i et byggeprojekt (sammen med grund, etage og rum).
 
-## PredefinedValues
+## Predefined
 
 | Column                                                                 | Value |
 | ---------------------------------------------------------------------- | ----- |
