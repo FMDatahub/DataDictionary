@@ -1,10 +1,10 @@
 # Bygning
 
-## Beskrivelse
+## Description
 
 En bygning repræsenterer en struktur, der giver ly til sine beboere eller indhold og står ét sted. Bygningen bruges også til at give et grundlæggende element inden for det rumlige strukturhierarkiet for komponenterne i et byggeprojekt (sammen med grund, etage og rum).
 
-## Groups of properties
+## GroupsOfProperties
 
 ### Attributesets
 
@@ -24,11 +24,11 @@ En bygning repræsenterer en struktur, der giver ly til sine beboere eller indho
 
 - [BuildingBaseQuantities](../../../QuantitySets/BuildingBaseQuantities.md)
 
-## Dokumenter
+## Documents
 
 - [Energimærkning](../../Documents/Energimaerkning.md)
 
-## Prædefineret værdier
+## PredefinedValues
 
 | Column                                                                 | Value |
 | ---------------------------------------------------------------------- | ----- |
