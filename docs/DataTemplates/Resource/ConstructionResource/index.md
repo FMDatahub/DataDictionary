@@ -1,1 +1,1 @@
-# Byggeri ressource
+# Byggeri

@@ -1,1 +1,1 @@
-# Mandskab ressource
+# Mandskab
