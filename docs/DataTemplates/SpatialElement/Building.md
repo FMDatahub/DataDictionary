@@ -4,6 +4,22 @@
 
 En bygning repræsenterer en struktur, der giver ly til sine beboere eller indhold og står ét sted. Bygningen bruges også til at give et grundlæggende element inden for det rumlige strukturhierarkiet for komponenterne i et byggeprojekt (sammen med grund, etage og rum).
 
+## PredefinedValues
+
+| Column                                                                 | Value |
+| ---------------------------------------------------------------------- | ----- |
+| [ValCode](../../Attributes/ValCode.md)                                 |       |
+| [Domain](../../Attributes/Domain.md)                                   |       |
+| [DomainVersion](../../Attributes/DomainVersion.md)                     |       |
+| [Owner](../../Attributes/Owner.md)                                     | KEID  |
+| [DataType](../../Attributes/DataType.md)                               |       |
+| [LOI](../../Attributes/LOI.md)                                         |       |
+| [Purposes](../../Attributes/LOI.md)                                    |       |
+| [IFDGuid](../../Attributes/IFDGuid.md)                                 |       |
+| [IFCDef](../../Attributes/IFCDef.md)                                   |       |
+| [IFCDataType](../../Attributes/IFCDataType.md)                         |       |
+| [IFCParentClassification](../../Attributes/IFCParentClassification.md) |       |
+
 ## GroupsOfProperties
 
 ### Attributesets
@@ -27,19 +43,3 @@ En bygning repræsenterer en struktur, der giver ly til sine beboere eller indho
 ## Documents
 
 - [Energimærkning](../../Documents/Energimaerkning.md)
-
-## PredefinedValues
-
-| Column                                                                 | Value |
-| ---------------------------------------------------------------------- | ----- |
-| [ValCode](../../Attributes/ValCode.md)                                 |       |
-| [Domain](../../Attributes/Domain.md)                                   |       |
-| [DomainVersion](../../Attributes/DomainVersion.md)                     |       |
-| [Owner](../../Attributes/Owner.md)                                     | KEID  |
-| [DataType](../../Attributes/DataType.md)                               |       |
-| [LOI](../../Attributes/LOI.md)                                         |       |
-| [Purposes](../../Attributes/LOI.md)                                    |       |
-| [IFDGuid](../../Attributes/IFDGuid.md)                                 |       |
-| [IFCDef](../../Attributes/IFCDef.md)                                   |       |
-| [IFCDataType](../../Attributes/IFCDataType.md)                         |       |
-| [IFCParentClassification](../../Attributes/IFCParentClassification.md) |       |
