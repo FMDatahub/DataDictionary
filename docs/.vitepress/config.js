@@ -87,10 +87,10 @@ function generateSidebar(dir = "../../docs", basePath = "/") {
 
 export default {
   title: "Dataordbog",
-  description: "Just playing around.",
+  description: "Metadata",
   srcDir: "./",
   base: "/Datadictionary/",
-  //cleanUrls: true,
+  cleanUrls: true,
   ignoreDeadLinks: true,
   themeConfig: {
     algolia: {
