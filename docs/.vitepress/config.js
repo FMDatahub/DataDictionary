@@ -4,6 +4,12 @@ const require = createRequire(import.meta.url);
 const fs = require("fs");
 const path = require("path");
 
+function extractTitle(content) {
+  const titleRegex = /^#\s+(.+)$/m;
+  const match = content.match(titleRegex);
+  return match ? match[1] : null;
+}
+
 const sortOrder = [
   "DataTemplates",
   "Attributesets",
@@ -62,8 +68,19 @@ function generateSidebar(dir = "../../docs", basePath = "/") {
           folderPath
         );
 
+        const indexFilePath = path.join(docsDir, entry.name, "index.md");
+
+        let title = entry.name;
+        if (fs.existsSync(indexFilePath)) {
+          // Read the content of the index.md file
+          const indexContent = fs.readFileSync(indexFilePath, "utf-8");
+
+          // Extract the title from the content
+          title = extractTitle(indexContent) || entry.name;
+        }
+
         return {
-          text: entry.name,
+          text: title,
           link: indexPath,
           items: children,
           collapsed: true,
@@ -73,8 +90,17 @@ function generateSidebar(dir = "../../docs", basePath = "/") {
         const filePath = path.join(basePath, fileWithoutExtension);
 
         if (fileWithoutExtension !== "index") {
+          // Read the content of the .md file
+          const content = fs.readFileSync(
+            path.join(docsDir, entry.name),
+            "utf-8"
+          );
+
+          // Extract the title from the content
+          const title = extractTitle(content) || fileWithoutExtension;
+
           return {
-            text: fileWithoutExtension,
+            text: title,
             link: filePath,
           };
         }

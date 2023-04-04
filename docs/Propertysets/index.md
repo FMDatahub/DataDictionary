@@ -1,1 +1,1 @@
-# Propertysets
+# Egenskabssæt
