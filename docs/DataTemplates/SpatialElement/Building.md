@@ -28,7 +28,7 @@ En bygning repræsenterer en struktur, der giver ly til sine beboere eller indho
 
 - [Energimærkning](../../Documents/Energimaerkning.md)
 
-## Dataordbogs værdier
+## Prædefineret værdier
 
 | Column                                                                 | Value |
 | ---------------------------------------------------------------------- | ----- |
