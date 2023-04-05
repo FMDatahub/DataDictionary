@@ -58,7 +58,11 @@ function generateSidebar(dir = "../../docs", basePath = "/") {
   entries.sort(sortEntries);
 
   const sidebar = entries
-    .filter((entry) => !entry.name.startsWith("."))
+    .filter(
+      (entry) =>
+        !entry.name.startsWith(".") &&
+        (entry.isDirectory() || entry.name.endsWith(".md"))
+    )
     .map((entry) => {
       if (entry.isDirectory()) {
         const folderPath = path.join(basePath, entry.name);
