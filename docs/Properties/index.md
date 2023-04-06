@@ -1,5 +1,5 @@
-# Egenskaber
+# Mængdeangivelser
 
 ## Beskrivelse
 
-Egenskaber er beskrivende data, der angiver, hvordan et objekt er defineret
+De værdier og enheder, der bruges til at beskrive en given mængde eller størrelse.

@@ -2,4 +2,4 @@
 
 ## Beskrivelse
 
-Længde er en måling af afstanden mellem to punkter i en linje eller langs en kurve. Det kan defineres som den dimension, der repræsenterer den horisontale eller longitudinale udstrækning af et objekt eller en struktur.
+"Length" henviser i programmering til en funktion eller en egenskab, der bruges til at bestemme størrelsen af en samling, en liste, en streng eller en anden sekvens af elementer. Længden af en sekvens er normalt målt i antallet af elementer eller tegn i sekvensen.
