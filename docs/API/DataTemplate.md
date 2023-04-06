@@ -15,6 +15,7 @@ En skabelon, der beskriver, hvordan data skal struktureres og præsenteres inden
   "NameDK": "", // Dansk navn
   "DefDK": "", // Defination på dansk
   "ValCode": "", // Kort form af navnet
+  "IFCClassName" // IFCClass name
   "IFDGuid": "", // GUID i BSDD
   "IFCName": "", // Navn ifølge IFC
   "IFCDef": "", // Defination ifølge IFC

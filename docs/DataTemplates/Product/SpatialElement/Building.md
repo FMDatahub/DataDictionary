@@ -14,7 +14,8 @@ En bygning repræsenterer en struktur, der giver ly til sine beboere eller indho
 | [Owner](../../Attributes/Owner.md)                                     | KEID  |
 | [DataType](../../Attributes/DataType.md)                               |       |
 | [LOI](../../Attributes/LOI.md)                                         |       |
-| [Purposes](../../Attributes/LOI.md)                                    |       |
+| [Purposes](../../Attributes/LOI.md)                                    |               |
+| [IFCClassName](../../Attributes/IFCClassName.md)                       | IfcBuilding   |
 | [IFDGuid](../../Attributes/IFDGuid.md)                                 |       |
 | [IFCDef](../../Attributes/IFCDef.md)                                   |       |
 | [IFCDataType](../../Attributes/IFCDataType.md)                         |       |
