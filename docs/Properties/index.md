@@ -1,4 +1,4 @@
-# Mængdeangivelser
+# Egenskaber
 
 ## Beskrivelse
 
