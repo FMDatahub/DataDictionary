@@ -20,4 +20,4 @@ En grund kan bestå af et enkelt jordstykke eller flere jordstykker, der er samm
 | [IFCDef](../../Attributes/IFCDef.md)                                   |       |
 | [IFCDataType](../../Attributes/IFCDataType.md)                         |       |
 | [ParentClassification](../../Attributes/IFCParentClassification.md) |       |
-| [CompositionType](../../Attributes/IFCCompositionType.md) |   Element    |
+| [CompositionType](../../Attributes/CompositionType.md) |   Element    |
