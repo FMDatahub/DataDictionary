@@ -1,4 +1,4 @@
-# DataTypes
+# Datatyper
 
 - str
 - int
