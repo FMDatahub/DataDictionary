@@ -1,4 +1,4 @@
-# Vindue basis mængder
+# Qto_WindowBaseQuantities
 
 ## Beskrivelse
 

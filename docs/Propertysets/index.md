@@ -1,4 +1,4 @@
-# Sæt
+# Egenskabssæt
 
 ## Beskrivelse
 

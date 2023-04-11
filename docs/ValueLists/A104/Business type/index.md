@@ -1,1 +1,1 @@
-# Business type
+# Virksomhedstype
