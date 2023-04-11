@@ -1,4 +1,4 @@
-# DELETED
+# Slettet
 
 ## Beskrivelse
 

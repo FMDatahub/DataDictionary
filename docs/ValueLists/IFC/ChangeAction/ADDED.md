@@ -1,4 +1,4 @@
-# ADDED
+# Tilføjet
 
 ## Beskrivelse
 
