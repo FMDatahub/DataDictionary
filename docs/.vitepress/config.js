@@ -13,6 +13,7 @@ function extractTitle(content) {
 const sortOrder = [
   "DataTemplates",
   "Attributes",
+  "Attributesets",
   "Properties",
   "Propertysets",
   "Sets",
