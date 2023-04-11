@@ -4,6 +4,10 @@
 
 Specifikke data, der er knyttet til en egenskab, attribut eller variabel. Værdier kan være numeriske, tekstbaserede, booleanske (sand/falsk) eller andre dataformer. I bygge- og anlægsbranchen er værdier de faktiske oplysninger, der beskriver en egenskab eller karakteristik ved et produkt, materiale eller en bygningsdel.
 
+## Endpoint
+
+?
+
 ## JSON
 
 ```json
@@ -13,17 +17,17 @@ Specifikke data, der er knyttet til en egenskab, attribut eller variabel. Værdi
   "NameDK": "", // Dansk navn
   "DefDK": "", // Defination på dansk
   "ValCode": "", // Kort form af navnet
-  "IFDGUID": "", // GUID i BSDD
+  "IFDGuid": "", // GUID i BSDD
   "IFCName": "", // Navn ifølge IFC
   "IFCDef": "", // Defination ifølge IFC
   "IFCDataType": "", // Datatype ifølge IFC
-  "IFCParentClassification": "", // ParentClassification ifølge IFC
+  "ParentClassification": "", // ParentClassification ifølge IFC
   "Domain": "", // Domæne
   "DomainVersion": "", // Domæne version
   "Owner": "", // Udgiver
   "DataType": "", // Data type
   "URI": "", // Link til dette json objekt
   "Purposes": "", // I hvilke formål er dette objekt relevant?
-  "JSON": "" // Objekt der indeholder valgmulighederne
+  "Options": "" // Objekt der indeholder valgmulighederne
 }
 ```

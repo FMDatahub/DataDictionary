@@ -6,6 +6,8 @@ En skabelon, der beskriver, hvordan data skal struktureres og præsenteres inden
 
 ## Endpoint
 
+?
+
 ## JSON
 
 ```json
@@ -19,7 +21,7 @@ En skabelon, der beskriver, hvordan data skal struktureres og præsenteres inden
   "IFCName": "", // Navn ifølge IFC
   "IFCDef": "", // Defination ifølge IFC
   "IFCDataType": "", // Datatype ifølge IFC
-  "IFCParentClassification": "", // ParentClassification ifølge IFC
+  "ParentClassification": "", // ParentClassification ifølge IFC
   "Domain": "", // Domæne
   "DomainVersion": "", // Domæne version
   "Owner": "", // Udgiver
@@ -27,7 +29,7 @@ En skabelon, der beskriver, hvordan data skal struktureres og præsenteres inden
   "URI": "", // Link til dette json objekt
   "LOI": "", // I hvilke LOI er dette objekt relevant?
   "Purposes": "", // I hvilke formål er dette objekt relevant?
-  "Attributesets": "", // Tilknyttet attributesets
+  "Attributes": "", // Hent tilknyttet sæt, og derefter attributes fra hvert sæt
   "Propertysets": [], // Tilknyttet propertysets
   "Documents": [], // Tilknyttet dokumenter
   "PredefinedValues": [{"key:value"}], // Værdier som indsættes ved oprettelse

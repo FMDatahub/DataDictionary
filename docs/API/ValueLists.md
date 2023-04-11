@@ -4,6 +4,10 @@
 
 Prædefineret liste over mulige værdier for en bestemt egenskab. Værdilister bruges til at begrænse de tilladte værdier for en egenskab og sikre, at dataene forbliver konsistente og standardiserede på tværs af systemet.
 
+## Endpoint
+
+?
+
 ## JSON
 
 ```json
@@ -13,11 +17,11 @@ Prædefineret liste over mulige værdier for en bestemt egenskab. Værdilister b
   "NameDK": "", // Dansk navn
   "DefDK": "", // Defination på dansk
   "ValCode": "", // Kort form af navnet
-  "IFDGUID": "", // GUID i BSDD
+  "IFDGuid": "", // GUID i BSDD
   "IFCName": "", // Navn ifølge IFC
   "IFCDef": "", // Defination ifølge IFC
   "IFCDataType": "", // Datatype ifølge IFC
-  "IFCParentClassification": "", // ParentClassification ifølge IFC
+  "ParentClassification": "", // ParentClassification ifølge IFC
   "Domain": "", // Domæne
   "DomainVersion": "", // Domæne version
   "Owner": "", // Udgiver

@@ -4,6 +4,10 @@
 
 Et træk eller en karakteristik ved et produkt, materiale eller bygningsdel. Egenskaber hjælper med at beskrive og adskille produkter fra hinanden og giver vigtige oplysninger om deres specifikationer og funktioner.
 
+## Endpoint
+
+?
+
 ## JSON
 
 ```json
@@ -13,11 +17,11 @@ Et træk eller en karakteristik ved et produkt, materiale eller bygningsdel. Ege
   "NameDK": "", // Dansk navn
   "DefDK": "", // Defination på dansk
   "ValCode": "", // Kort form af navnet
-  "IFDGUID": "", // GUID i BSDD
+  "IFDGuid": "", // GUID i BSDD
   "IFCName": "", // Navn ifølge IFC
   "IFCDef": "", // Defination ifølge IFC
   "IFCDataType": "", // Datatype ifølge IFC
-  "IFCParentClassification": "", // ParentClassification ifølge IFC
+  "ParentClassification": "", // ParentClassification ifølge IFC
   "Domain": "", // Domæne
   "DomainVersion": "", // Domæne version
   "Owner": "", // Udgiver

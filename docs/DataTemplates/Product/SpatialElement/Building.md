@@ -6,24 +6,22 @@ En bygning repræsenterer en struktur, der giver ly til sine beboere eller indho
 
 ## Predefined
 
-| Column                                                                 | Value |
-| ---------------------------------------------------------------------- | ----- |
-| [ValCode](../../Attributes/ValCode.md)                                 |       |
-| [Domain](../../Attributes/Domain.md)                                   |       |
-| [DomainVersion](../../Attributes/DomainVersion.md)                     |       |
-| [Owner](../../Attributes/Owner.md)                                     | KEID  |
-| [DataType](../../Attributes/DataType.md)                               |       |
-| [LOI](../../Attributes/LOI.md)                                         |       |
-| [Purposes](../../Attributes/LOI.md)                                    |               |
-| [IFCName](../../Attributes/IFCName.md)                       | IfcBuilding   |
-| [IFDGuid](../../Attributes/IFDGuid.md)                                 |       |
-| [IFCDef](../../Attributes/IFCDef.md)                                   |       |
-| [IFCDataType](../../Attributes/IFCDataType.md)                         |       |
-| [IFCParentClassification](../../Attributes/IFCParentClassification.md) |       |
+| Column                                                              | Value       |
+| ------------------------------------------------------------------- | ----------- |
+| [ValCode](../../Attributes/ValCode.md)                              |             |
+| [Domain](../../Attributes/Domain.md)                                |             |
+| [DomainVersion](../../Attributes/DomainVersion.md)                  |             |
+| [Owner](../../Attributes/Owner.md)                                  | KEID        |
+| [DataType](../../Attributes/DataType.md)                            |             |
+| [LOI](../../Attributes/LOI.md)                                      |             |
+| [Purposes](../../Attributes/LOI.md)                                 |             |
+| [IFCName](../../Attributes/IFCName.md)                              | IfcBuilding |
+| [IFDGuid](../../Attributes/IFDGuid.md)                              |             |
+| [IFCDef](../../Attributes/IFCDef.md)                                |             |
+| [IFCDataType](../../Attributes/IFCDataType.md)                      |             |
+| [ParentClassification](../../Attributes/IFCParentClassification.md) |             |
 
-## Sets
-
-### Attributesets
+## Attributes
 
 - [Base](../../../GroupsOfAttributes/Base.md)
 - [IfcRoot](../../../GroupsOfAttributes/IfcRoot.md)
@@ -32,14 +30,11 @@ En bygning repræsenterer en struktur, der giver ly til sine beboere eller indho
 - [IfcProduct](../../../GroupsOfAttributes/IfcProduct.md)
 - [IfcSpatialElement](../../Sets/Attributesets/IfcSpatialElement.md)
 
-### Propertysets
+## Propertysets
 
-- [BuildingCommon](../../../PropertySets/BuildingCommon.md)
+- [Pset_BuildingCommon](../../../PropertySets/Pset_BuildingCommon.md)
+- [Qtos_BuildingBaseQuantities](../../../QuantitySets/Qtos_BuildingBaseQuantities.md)
 - [CCI_Administrative](../../GroupsOfProperties/CCI_Administrative.md)
-
-### Quantitysets
-
-- [BuildingBaseQuantities](../../../QuantitySets/BuildingBaseQuantities.md)
 
 ## Documents
 
