@@ -139,7 +139,6 @@ export default {
       {
         text: "Dokumentation",
         link: "https://fmdatahub.github.io/Documentation/",
-        target: "_self",
         rel: false,
       },
     ],
