@@ -138,7 +138,7 @@ export default {
     nav: [
       {
         text: "Dokumentation",
-        link: "https://fmdatahub.github.io/Documentation/Datahub/Integrationer/API/Routers/Datadictionary/",
+        link: "https://fmdatahub.github.io/Documentation/Datahub/Integrationer/API/Routers/Datadictionary/DataTemplate",
         rel: false,
       },
     ],
