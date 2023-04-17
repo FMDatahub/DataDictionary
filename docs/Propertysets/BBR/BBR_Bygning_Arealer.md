@@ -1,9 +1,5 @@
-# BBR
+# BBR_Arealer
 
 ## Beskrivelse
 
-Egenskaber fra BBR
-
 ## Egenskaber
-
-?
