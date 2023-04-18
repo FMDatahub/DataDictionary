@@ -1,0 +1,1 @@
+# Klasser af egenskaber
