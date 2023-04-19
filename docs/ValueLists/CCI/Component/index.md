@@ -1,4 +1,4 @@
-# Komponenter
+# Komponent
 
 ## Beskrivelse
 
