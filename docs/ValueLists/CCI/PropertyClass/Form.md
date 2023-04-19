@@ -12,3 +12,17 @@ Egenskaber vedrørende facon.
 4. Facon kan være krav til geometrien af en overflade, fx
    udtrykt ved størrelse af huller, toppe og skævheder.
 5. Facon kan være tolerancer knyttet til geometriske mål.
+
+## Predefined
+
+| Column                                                              | Value            |
+| ------------------------------------------------------------------- | ---------------- |
+| [ValCode](../../Attributes/ValCode.md)                              |                  |
+| [Domain](../../Attributes/Domain.md)                                | CCI Construction |
+| [DomainVersion](../../Attributes/DomainVersion.md)                  |                  |
+| [Owner](../../Attributes/Owner.md)                                  | Molio            |
+| [DataType](../../Attributes/DataType.md)                            |                  |
+| [LOI](../../Attributes/LOI.md)                                      |                  |
+| [IFDGuid](../../Attributes/IFDGuid.md)                              |                  |
+| [ParentClassification](../../Attributes/IFCParentClassification.md) |                  |
+| [RelatedIFCEntity](../../Attributes/RelatedIFCEntity.md)            |                  |

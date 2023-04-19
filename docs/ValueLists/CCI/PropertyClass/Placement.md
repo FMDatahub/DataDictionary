@@ -16,3 +16,17 @@ Egenskaber vedrørende stedfæstelse.
 5. Stedfæstelsen kan være til forskellige tidspunkter.
 6. Stedfæstelsen kan være udtrykt ved geometriske krav til
    placeringsnøjagtighed, dvs. tolerancer for placeringen.
+
+## Predefined
+
+| Column                                                              | Value            |
+| ------------------------------------------------------------------- | ---------------- |
+| [ValCode](../../Attributes/ValCode.md)                              |                  |
+| [Domain](../../Attributes/Domain.md)                                | CCI Construction |
+| [DomainVersion](../../Attributes/DomainVersion.md)                  |                  |
+| [Owner](../../Attributes/Owner.md)                                  | Molio            |
+| [DataType](../../Attributes/DataType.md)                            |                  |
+| [LOI](../../Attributes/LOI.md)                                      |                  |
+| [IFDGuid](../../Attributes/IFDGuid.md)                              |                  |
+| [ParentClassification](../../Attributes/IFCParentClassification.md) |                  |
+| [RelatedIFCEntity](../../Attributes/RelatedIFCEntity.md)            |                  |
