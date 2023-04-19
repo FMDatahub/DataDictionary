@@ -2,11 +2,16 @@
 
 ## Beskrivelse
 
-?
+## Predefined
 
-## Værdier
-
-- [ADDED](../Values/IFC/Ownerhistory/ADDED.md)
-- [DELETED](../Values/IFC/Ownerhistory/DELETED.md)
-- [MODIFIED](../Values/IFC/Ownerhistory/MODIFIED.md)
-- [NOCHANGE](../Values/IFC/Ownerhistory/NOCHANGE.md)
+| Column                                                              | Value         |
+| ------------------------------------------------------------------- | ------------- |
+| [ValCode](../../Attributes/ValCode.md)                              |               |
+| [Domain](../../Attributes/Domain.md)                                | IFC           |
+| [DomainVersion](../../Attributes/DomainVersion.md)                  |               |
+| [Owner](../../Attributes/Owner.md)                                  | buildingSMART |
+| [DataType](../../Attributes/DataType.md)                            |               |
+| [LOI](../../Attributes/LOI.md)                                      |               |
+| [IFDGuid](../../Attributes/IFDGuid.md)                              |               |
+| [ParentClassification](../../Attributes/IFCParentClassification.md) |               |
+| [RelatedIFCEntity](../../Attributes/RelatedIFCEntity.md)            |               |
