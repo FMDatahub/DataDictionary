@@ -1,4 +1,4 @@
-# Vidensområder
+# Vidensområde
 
 ## Beskrivelse
 
