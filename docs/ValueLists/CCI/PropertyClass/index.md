@@ -1,4 +1,4 @@
-# Klasser af egenskaber
+# Egenskabsklasse
 
 ## Beskrivelse
 
