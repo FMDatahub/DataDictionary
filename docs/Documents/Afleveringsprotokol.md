@@ -18,30 +18,22 @@ Egenskabssæt som tilsvare joined tabeller, hvad skal der til at opbygge dokumen
 
 AI: Hvad vil vi undersøge i dokumentet? Sit eget sæt?
 
-## Predefineret værdier
+## Predefined
 
-Bruges til at kunne generer mappestrukturen
-
-### Fagområder
-
-Link til værdi ?
-
-### Vidensområder
-
-Link til værdi ?
-
-### Proces type
-
-Link til værdi ?
-
-### Dokument form
-
-Link til værdi ?
-
-### Dokument indhold
-
-Link til værdi ?
-
-### Filtype
-
-- [PDF](../../FileExtensions/PDF.md)
+| Column                                                              | Value         |
+| ------------------------------------------------------------------- | ------------- |
+| [ValCode](../../Attributes/ValCode.md)                              |               |
+| [Domain](../../Attributes/Domain.md)                                | IFC           |
+| [DomainVersion](../../Attributes/DomainVersion.md)                  |               |
+| [Owner](../../Attributes/Owner.md)                                  | buildingSMART |
+| [DataType](../../Attributes/DataType.md)                            |               |
+| [LOI](../../Attributes/LOI.md)                                      |               |
+| [IFDGuid](../../Attributes/IFDGuid.md)                              |               |
+| [ParentClassification](../../Attributes/IFCParentClassification.md) |               |
+| [Fagområder](../../Attributes/Fagområder.md)                        |               |
+| [Vidensområder](../../Attributes/Vidensområder.md)                  |               |
+| [ProcesType](../../Attributes/Procestype.md)                        |               |
+| [Dokument form](../../Attributes/Dokumentform.md)                   |               |
+| [Dokument indhold](../../Attributes/DokumentIndhold.md)             |               |
+| [Filtype](../../Attributes/Filtype.md)                              | PDF           |
+| [RelatedIFCEntity](../../Attributes/RelatedIFCEntity.md)            |               |
