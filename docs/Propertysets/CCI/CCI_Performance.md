@@ -6,4 +6,5 @@
 
 ## Egenskaber
 
-?
+- Brandklasse
+- Varmeledningsevne

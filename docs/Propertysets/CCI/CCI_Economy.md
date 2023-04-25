@@ -6,4 +6,4 @@
 
 ## Egenskaber
 
-?
+- Genoprettelsesprocent

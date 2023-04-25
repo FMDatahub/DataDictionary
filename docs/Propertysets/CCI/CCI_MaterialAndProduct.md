@@ -6,4 +6,6 @@
 
 ## Egenskaber
 
-?
+- Beslagssæt
+- Materialegruppe
+- Objekttype

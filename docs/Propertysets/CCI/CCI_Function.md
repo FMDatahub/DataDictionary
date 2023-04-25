@@ -6,4 +6,6 @@
 
 ## Egenskaber
 
-?
+- Flugtvej
+- Har automatik
+- Objektfunktion

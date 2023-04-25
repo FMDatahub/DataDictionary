@@ -6,4 +6,5 @@
 
 ## Egenskaber
 
-?
+- Bredde
+- Objektform

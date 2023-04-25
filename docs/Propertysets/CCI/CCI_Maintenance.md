@@ -6,4 +6,5 @@
 
 ## Egenskaber
 
-?
+- Vedligeholdelsesinterval
+- Vedligeholdelsesprocent
