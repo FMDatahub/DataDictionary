@@ -30,8 +30,8 @@ AI: Hvad vil vi undersøge i dokumentet? Sit eget sæt?
 | [LOI](../../Attributes/LOI.md)                                      |               |
 | [IFDGuid](../../Attributes/IFDGuid.md)                              |               |
 | [ParentClassification](../../Attributes/IFCParentClassification.md) |               |
-| [Fagområder](../../Attributes/Fagområder.md)                        |               |
-| [Vidensområder](../../Attributes/Vidensområder.md)                  |               |
+| [Fagområde](../../Attributes/Fagområder.md)                         |               |
+| [Vidensområde](../../Attributes/Vidensområder.md)                   |               |
 | [ProcesType](../../Attributes/Procestype.md)                        |               |
 | [Dokument form](../../Attributes/Dokumentform.md)                   |               |
 | [Dokument indhold](../../Attributes/DokumentIndhold.md)             |               |
