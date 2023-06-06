@@ -1,1 +1,0 @@
-# BBR_Jordstykke_Oplysninger
