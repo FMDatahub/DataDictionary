@@ -23,6 +23,8 @@ areal, arealet af samtlige etager (samlet bygningsareal), materialer m.m.
 | [IFCDef](../../../Attributes/Base/IFCDef.md)                                |             |
 | [IFCDataType](../../../Attributes/Base/IFCDataType.md)                      |             |
 | [ParentClassification](../../../Attributes/Base/IFCParentClassification.md) |             |
+| [ParentClassification](../../../Attributes/Base/IFCParentClassification.md) |             |
+| [CompositionType](../../../Attributes/Base/CompositionType.md)              | ELEMENT     |
 
 ## Attributesets
 
@@ -35,12 +37,12 @@ areal, arealet af samtlige etager (samlet bygningsareal), materialer m.m.
 
 ## Propertysets
 
-- [Pset_BuildingCommon](../../../PropertySets/IFC/Pset_BuildingCommon.md)
-- [Pset_Address](../../../PropertySets/IFC/Pset_Address.md)
-- [Pset_BuildingUse](../../../PropertySets/IFC/Pset_BuildingUse.md)
-- [Pset_PropertyAgreement](../../../PropertySets/IFC/Pset_PropertyAgreement.md)
-- [CCI_Administrative](../../../PropertySets/CCI/CCI_Administrative.md)
-- [Qtos_BuildingBaseQuantities](../../../PropertySets/IFC/Qto_BuildingBaseQuantities.md)
+- [Pset_BuildingCommon](../../../Grundlag/IFC/PropertySets/Pset_BuildingCommon.md)
+- [Pset_Address](../../../Grundlag/IFC/PropertySets/Pset_Address.md)
+- [Pset_BuildingUse](../../../Grundlag/IFC/PropertySets/Pset_BuildingUse.md)
+- [Pset_PropertyAgreement](../../../Grundlag/IFC/PropertySets/Pset_PropertyAgreement.md)
+- [CCI_Administrative](../../../Grundlag/IFC/PropertySets/CCI_Administrative.md)
+- [Qtos_BuildingBaseQuantities](../../../Grundlag/IFC/PropertySets/Qto_BuildingBaseQuantities.md)
 
 ## Documents
 
