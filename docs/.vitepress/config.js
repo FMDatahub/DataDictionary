@@ -10,16 +10,7 @@ function extractTitle(content) {
   return match ? match[1] : null;
 }
 
-const sortOrder = [
-  "DataTemplates",
-  "Attributes",
-  "Attributesets",
-  "Properties",
-  "Propertysets",
-  "Sets",
-  "Documents",
-  "ValueLists",
-];
+const sortOrder = ["IFC", "CCI", "A104", "BBR"];
 
 function sortEntries(a, b) {
   const aIndex = sortOrder.indexOf(a.name);
