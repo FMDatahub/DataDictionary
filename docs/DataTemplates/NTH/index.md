@@ -1,48 +1,55 @@
-# Kan være hver deres tabel i databasen
+# Oplæg til tabeller
 
-| Entity                              | Description                                                                                    |
-| ----------------------------------- | ---------------------------------------------------------------------------------------------- |
-| IfcActor                            | Represents any participant in the building project. This could be a person or an organization. |
-| IfcOrganization                     | Represents an organization such as a company or governmental body.                             |
-| IfcPerson                           | Represents an individual human being.                                                          |
-| IfcProduct                          | A general class for all physical objects.                                                      |
-| IfcElement                          | The generalization of all physical constituents that make up a building or a construction.     |
-| IfcBuildingElement                  | Represents components that are permanent or temporary part of a building.                      |
-| IfcDistributionElement              | Represents elements of a building's distribution systems, such as piping and ductwork.         |
-| IfcVirtualElement                   | Represents elements that are not physically tangible, like spaces or voids.                    |
-| IfcCivilElement                     | Represents elements of civil engineering infrastructure, such as roads, bridges, etc.          |
-| IfcProject                          | Represents the highest level of a construction project.                                        |
-| IfcPropertySet                      | Represents a set of properties attached to objects.                                            |
-| IfcSpace                            | Represents spaces within a building, like rooms or hallways.                                   |
-| IfcBuilding                         | Represents a building.                                                                         |
-| IfcBuildingStorey                   | Represents a storey within a building.                                                         |
-| IfcSite                             | Represents a construction site.                                                                |
-| IfcMaterial                         | Represents a material used in construction.                                                    |
-| IfcMaterialLayer                    | Represents a layer of a layered material.                                                      |
-| IfcMaterialList                     | Represents a list of materials.                                                                |
-| IfcMaterialLayerSet                 | Represents a set of material layers.                                                           |
-| IfcMaterialLayerSetUsage            | Describes how a set of material layers is used.                                                |
-| IfcMaterialProperties               | Associates material-related properties with a material.                                        |
-| IfcProperty                         | Represents a property of an object.                                                            |
-| IfcComplexProperty                  | Represents a complex property which is a set of properties.                                    |
-| IfcSimpleProperty                   | Represents a simple property.                                                                  |
-| IfcQuantity                         | Represents a measure value or calculated amount.                                               |
-| IfcSpatialStructureElement          | Represents spatial elements in a building, like building, site, etc.                           |
-| IfcProcess                          | Represents processes, like tasks, procedures, events, etc.                                     |
-| IfcTask                             | Represents a single task that is performed.                                                    |
-| IfcProcedure                        | Represents a standard procedure.                                                               |
-| IfcEvent                            | Represents an event that triggers a process.                                                   |
-| IfcResource                         | Represents resources used in processes.                                                        |
-| IfcWorkControl                      | Represents a control over work, like a work schedule or work plan.                             |
-| IfcCostItem                         | Represents an item of cost.                                                                    |
-| IfcCostSchedule                     | Represents a schedule of costs.                                                                |
-| IfcCostValue                        | Represents a cost value.                                                                       |
-| IfcTimeSeries                       | Represents a series of values over time.                                                       |
-| IfcStructuralActivity               | Represents a structural activity, like loads.                                                  |
-| IfcStructuralItem                   | Represents a structural item, like a beam or column.                                           |
-| IfcStructuralMember                 | Represents a structural member of a building, like a beam or column.                           |
-| IfcStructuralConnection             | Represents a connection between structural members.                                            |
-| IfcRepresentation                   | Represents the graphical representation of an object.                                          |
-| IfcProductRepresentation            | Represents the representation of a product.                                                    |
-| IfcMaterialDefinitionRepresentation | Represents the graphical representation of a material.                                         |
-| IfcPresentationLayerAssignment      | Used to control visibility and graphic display of objects.                                     |
+| Entitet                             | Beskrivelse                                                                                                    |
+| ----------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| IfcActor                            | Repræsenterer enhver deltager i byggeprojektet, dette kunne være en person eller en organisation.              |
+| IfcOrganization                     | Repræsenterer en organisation, som f.eks. et firma eller en regeringsenhed.                                    |
+| IfcPerson                           | Repræsenterer et individuelt menneske.                                                                         |
+| IfcProduct                          | En generel klasse for alle fysiske objekter inden for byggeriet.                                               |
+| IfcElement                          | Generaliseringen af alle fysiske bestanddele, der udgør en bygning eller et konstruktionsarbejde.              |
+| IfcBuildingElement                  | Repræsenterer komponenter, der er en permanent eller midlertidig del af en bygning.                            |
+| IfcDistributionElement              | Repræsenterer elementer af en bygnings distributionssystemer, såsom rørledninger og kanaler.                   |
+| IfcVirtualElement                   | Repræsenterer elementer, der ikke er fysisk håndgribelige, som rum eller tomrum.                               |
+| IfcCivilElement                     | Repræsenterer elementer af civil ingeniørinfrastruktur, såsom veje, broer osv.                                 |
+| IfcProject                          | Repræsenterer det højeste niveau af et byggeprojekt.                                                           |
+| IfcPropertySet                      | Repræsenterer et sæt af egenskaber knyttet til objekter.                                                       |
+| IfcSpace                            | Repræsenterer rum inden i en bygning, som værelser eller gangarealer.                                          |
+| IfcBuilding                         | Repræsenterer en bygning.                                                                                      |
+| IfcBuildingStorey                   | Repræsenterer en etage inden for en bygning.                                                                   |
+| IfcSite                             | Repræsenterer en grund eller jordstykke.                                                                       |
+| IfcMaterial                         | Repræsenterer et materiale brugt i konstruktionen.                                                             |
+| IfcMaterialLayer                    | Repræsenterer et lag af et lagdelt materiale.                                                                  |
+| IfcMaterialList                     | Repræsenterer en liste over materialer.                                                                        |
+| IfcMaterialLayerSet                 | Repræsenterer et sæt af materialelag.                                                                          |
+| IfcMaterialLayerSetUsage            | Beskriver, hvordan et sæt af materialelag bruges.                                                              |
+| IfcMaterialProperties               | Associerer materiale-relaterede egenskaber med et materiale.                                                   |
+| IfcProperty                         | Repræsenterer en egenskab for et objekt.                                                                       |
+| IfcComplexProperty                  | Repræsenterer en kompleks egenskab, der er et sæt af egenskaber.                                               |
+| IfcSimpleProperty                   | Repræsenterer en simpel egenskab.                                                                              |
+| IfcQuantity                         | Repræsenterer en måleværdi eller beregnet mængde.                                                              |
+| IfcSpatialStructureElement          | Repræsenterer rumlige elementer i en bygning, som bygning, område osv.                                         |
+| IfcProcess                          | Repræsenterer processer, som opgaver, procedurer, begivenheder osv.                                            |
+| IfcTask                             | Repræsenterer en enkelt opgave, der udføres.                                                                   |
+| IfcProcedure                        | Repræsenterer en standardprocedure.                                                                            |
+| IfcEvent                            | Repræsenterer en begivenhed, der udløser en proces.                                                            |
+| IfcResource                         | Repræsenterer ressourcer brugt i processer.                                                                    |
+| IfcWorkControl                      | Repræsenterer en kontrol over arbejde, som en arbejdsplan eller arbejdsplan.                                   |
+| IfcCostItem                         | Repræsenterer et omkostningselement.                                                                           |
+| IfcCostSchedule                     | Repræsenterer en plan over omkostninger.                                                                       |
+| IfcCostValue                        | Repræsenterer en omkostningsværdi.                                                                             |
+| IfcTimeSeries                       | Repræsenterer en serie af værdier over tid.                                                                    |
+| IfcStructuralActivity               | Repræsenterer en strukturel aktivitet, som belastninger.                                                       |
+| IfcStructuralItem                   | Repræsenterer en strukturel enhed, som en bjælke eller søjle.                                                  |
+| IfcStructuralMember                 | Repræsenterer et strukturelt medlem af en bygning, som en bjælke eller søjle.                                  |
+| IfcStructuralConnection             | Repræsenterer en forbindelse mellem strukturelle medlemmer.                                                    |
+| IfcRepresentation                   | Repræsenterer den grafiske repræsentation af et objekt.                                                        |
+| IfcProductRepresentation            | Repræsenterer repræsentationen af et produkt.                                                                  |
+| IfcMaterialDefinitionRepresentation | Repræsenterer den grafiske repræsentation af et materiale.                                                     |
+| IfcPresentationLayerAssignment      | Bruges til at styre synlighed og grafisk visning af objekter.                                                  |
+| IfcRelAssigns                       | Generel relation der tildeler (undertyper af) IfcObject til en enkelt eller flere (undertyper af) IfcObject.   |
+| IfcRelNests                         | Relation der indikerer, at et objekt er indeholdt i et andet objekt.                                           |
+| IfcRelAggregates                    | Relation der indikerer, at et objekt er aggregeret af et andet objekt.                                         |
+| IfcRelDecomposes                    | Generel relation der indikerer, at et objekt er opdelt af andre objekter.                                      |
+| IfcRelAssociates                    | Generel relation der associerer (undertyper af) IfcObject til en enkelt eller flere (undertyper af) IfcObject. |
+| IfcRelDefines                       | Generel relation der definerer egenskaber af (undertyper af) IfcObject.                                        |
+| IfcRelConnects                      | Generel relation der indikerer en forbindelse mellem instanser af IfcObject.                                   |
