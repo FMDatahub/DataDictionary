@@ -1,9 +1,10 @@
-# Bygning
+# Element
+
+# Elements
 
 ## Description
 
-Bygninger i BBR er alt fra et redskabsskur til et butikscenter. Her findes informationer om den væsentligste anvendelse af bygningen, bebygget
-areal, arealet af samtlige etager (samlet bygningsareal), materialer m.m.
+Dækker en lang række af IFC objekterne for at holde det simpelt. Vi ønsker ikke de bliver fordelt på flere tabeller
 
 ## Predefined
 
@@ -24,7 +25,7 @@ areal, arealet af samtlige etager (samlet bygningsareal), materialer m.m.
 | [IFCDataType](../../../Attributes/Base/IFCDataType.md)                      |             |
 | [ParentClassification](../../../Attributes/Base/IFCParentClassification.md) |             |
 | [ParentClassification](../../../Attributes/Base/IFCParentClassification.md) |             |
-| [CompositionType](../../../Attributes/Base/CompositionType.md)              | ELEMENT     |
+| [PredefinedType](../../../Attributes/Base/CompositionType.md)               |             |
 
 ## Attributesets
 
@@ -33,13 +34,12 @@ areal, arealet af samtlige etager (samlet bygningsareal), materialer m.m.
 - [IfcObjectDefinition](../../../Attributes/IFC/IfcObjectDefinition/)
 - [IfcObject](../../../Attributes/IFC/IfcObject/)
 - [IfcProduct](../../../Attributes/IFC/IfcProduct/)
-- [IfcSpatialElement](../../../Attributes/IFC/IfcSpatialElement/)
-- [IfcSpatialStructureElement](../../../Attributes/IFC/IfcSpatialStructureElement/)
-- [IfcFacility](../../../Attributes/IFC/IfcFacility/)
+- [IfcElements](../../../Attributes/IFC/IfcElements/)
 
 ## Propertysets
 
-- [Pset_BuildingCommon](../../../Grundlag/IFC/PropertySets/Pset_BuildingCommon.md)
+- [Pset_BeamCommon](../../../Grundlag/IFC/PropertySets/Pset_BeamCommon.md)
+
 - [Pset_Address](../../../Grundlag/IFC/PropertySets/Pset_Address.md)
 - [Pset_BuildingUse](../../../Grundlag/IFC/PropertySets/Pset_BuildingUse.md)
 - [Pset_PropertyAgreement](../../../Grundlag/IFC/PropertySets/Pset_PropertyAgreement.md)
