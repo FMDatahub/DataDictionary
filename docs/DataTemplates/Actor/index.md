@@ -2,6 +2,10 @@
 
 ## Beskrivelse
 
+Husk på det grundlæggende er en placeholder, indtil man tilføjer den korrekte person eller organisation
+
+- Vi har nøjagtigt styr på brugere i systemet, og de kan fjernes uden at ødelægge relationerne.
+
 En aktør er en person, gruppe, organisation eller enhed, der deltager i en proces, aktivitet eller begivenhed og har en rolle eller indflydelse på resultatet.
 
 - IfcOrganization
