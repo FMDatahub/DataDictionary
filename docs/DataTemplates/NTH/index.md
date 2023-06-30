@@ -26,8 +26,5 @@
 | IfcOrganization        | Repræsenterer en organisation, som f.eks. et firma eller en regeringsenhed.                                    |
 | IfcRelAssigns          | Generel relation der tildeler (undertyper af) IfcObject til en enkelt eller flere (undertyper af) IfcObject.   |
 | IfcRelNests            | Relation der indikerer, at et objekt er indeholdt i et andet objekt.                                           |
-| IfcRelAggregates       | Relation der indikerer, at et objekt er aggregeret af et andet objekt.                                         |
 | IfcRelDecomposes       | Generel relation der indikerer, at et objekt er opdelt af andre objekter.                                      |
 | IfcRelAssociates       | Generel relation der associerer (undertyper af) IfcObject til en enkelt eller flere (undertyper af) IfcObject. |
-| IfcRelDefines          | Generel relation der definerer egenskaber af (undertyper af) IfcObject.                                        |
-| IfcRelConnects         | Generel relation der indikerer en forbindelse mellem instanser af IfcObject.                                   |
