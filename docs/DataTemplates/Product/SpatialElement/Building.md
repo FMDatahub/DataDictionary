@@ -5,7 +5,7 @@
 Bygninger i BBR er alt fra et redskabsskur til et butikscenter. Her findes informationer om den væsentligste anvendelse af bygningen, bebygget
 areal, arealet af samtlige etager (samlet bygningsareal), materialer m.m.
 
-## Predefined
+## Predefined values
 
 | Column                                                                      | Value       |
 | --------------------------------------------------------------------------- | ----------- |
@@ -26,7 +26,7 @@ areal, arealet af samtlige etager (samlet bygningsareal), materialer m.m.
 | [ParentClassification](../../../Attributes/Base/IFCParentClassification.md) |             |
 | [CompositionType](../../../Attributes/Base/CompositionType.md)              | ELEMENT     |
 
-## Attributesets
+## AttributeSets
 
 - [Base](../../../IFC/Attributes/Base.md)
 - [IfcRoot](../../../Attributes/IFC/IfcRoot/)
@@ -37,13 +37,16 @@ areal, arealet af samtlige etager (samlet bygningsareal), materialer m.m.
 - [IfcSpatialStructureElement](../../../Attributes/IFC/IfcSpatialStructureElement/)
 - [IfcFacility](../../../Attributes/IFC/IfcFacility/)
 
-## Propertysets
+## PropertySets
 
 - [Pset_BuildingCommon](../../../Grundlag/IFC/PropertySets/Pset_BuildingCommon.md)
 - [Pset_Address](../../../Grundlag/IFC/PropertySets/Pset_Address.md)
 - [Pset_BuildingUse](../../../Grundlag/IFC/PropertySets/Pset_BuildingUse.md)
 - [Pset_PropertyAgreement](../../../Grundlag/IFC/PropertySets/Pset_PropertyAgreement.md)
 - [CCI_Administrative](../../../Grundlag/IFC/PropertySets/CCI_Administrative.md)
+
+## QuantitySets
+
 - [Qtos_BuildingBaseQuantities](../../../Grundlag/IFC/PropertySets/Qto_BuildingBaseQuantities.md)
 
 ## Documents
